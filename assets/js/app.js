@@ -71,7 +71,7 @@
   /* ═══════════ 顶部导航 ═══════════ */
   function buildTopnav(active) {
     var el = $('#topnav');
-    var SHORT = { javase: 'JavaSE', javahistory: 'Java史', datastructure: '数据结构', network: '网络', os: 'OS', javaweb: '原生Web', jvm: 'JVM', spring: 'Spring', cloud: '微服务', mysql: 'MySQL', redis: 'Redis', mq: 'MQ', linux: 'Linux', patterns: '设计模式', frontier: '前沿', engineering: '工程实践', reverse: '逆向', world: '真实世界', cosmos: '宇宙航行' };
+    var SHORT = { javase: 'JavaSE', javahistory: 'Java史', datastructure: '数据结构', network: '网络', os: 'OS', javaweb: '原生Web', jvm: 'JVM', spring: 'Spring', cloud: '微服务', mysql: 'MySQL', redis: 'Redis', mq: 'MQ', linux: 'Linux', patterns: '设计模式', frontier: '前沿', engineering: '工程实践', reverse: '逆向', world: '真实世界', cosmos: '量子' };
     var links = [
       { href: '#/home', label: '首页', key: 'home', ic: 'home' },
       { href: '#/roadmap', label: '学习路线', key: 'roadmap', ic: 'map' }
@@ -180,7 +180,7 @@
       '<div class="hero-left">' +
       '<div class="hero-badge"><span class="pulse-dot"></span>为星薇Star定制的 Java 后端系统学习平台 · 已加载 ' + total + ' 章</div>' +
       '<h1 class="hero-title">把后端八股,<span class="grad-text">炼成真功夫</span></h1>' +
-      '<p class="hero-sub">从 <strong>Java 入门与工程工具</strong>出发，走过计算机基础、Web、JVM、Spring、数据库与中间件，再探索设计模式、逆向工程、医疗航天与宇宙航行。<strong>十九大模块，每章都有动手检验</strong>；用代码、图解与交互实验，把概念变成能解释的结果。</p>' +
+      '<p class="hero-sub">从 <strong>Java 入门与工程工具</strong>出发，走过计算机基础、Web、JVM、Spring、数据库与中间件，再探索设计模式、逆向工程、医疗航天与量子编程。<strong>十九大模块，每章都有动手检验</strong>；用代码、图解与交互实验，把概念变成能解释的结果。</p>' +
       '<div class="hero-typing" id="hero-typing"><span class="typing-text"></span><span class="cursor"></span></div>' +
       '<div class="hero-cta">' +
       '<a class="btn-primary" href="#/roadmap" data-nav>' + icon('map') + ' 开始修炼之旅</a>' +
@@ -199,7 +199,7 @@
       '</div>' +
       '</section>';
 
-    html += '<section class="sec-head reveal"><div class="sec-kicker">TRAINING MODULES · 修炼模块</div><h2>十九大模块，一步步学会</h2><p>入门 → 工具与计算机基础 → SQL → Web 与框架 → 中间件与工程交付。工程项目按阶段推进；历史、前沿、逆向、真实世界与宇宙航行可按兴趣选修。</p></section>';
+    html += '<section class="sec-head reveal"><div class="sec-kicker">TRAINING MODULES · 修炼模块</div><h2>十九大模块，一步步学会</h2><p>入门 → 工具与计算机基础 → SQL → Web 与框架 → 中间件与工程交付。工程项目按阶段推进；历史、前沿、逆向、真实世界与量子编程可按兴趣选修。</p></section>';
     html += '<div class="mod-grid">';
     allMods().forEach(function (m, i) {
       var done = m.chapters.filter(function (c) { return store.has(chapterKey(m.id, c.id)); }).length;
@@ -405,7 +405,7 @@
     view.className = 'view';
     var stages = [
       { sc: '#38bdf8', title: '兴趣入口 · 编程与真实世界', tag: '零基础可读', desc: '从心脏起搏器、千年虫与航天事故，走向外星生命探索和文明记忆。15 个网页虚拟实验，把代码与生活连起来。', mod: 'world' },
-      { sc: '#818cf8', title: '选修 · 宇宙航行', tag: '科普 · 8 章', desc: '宇宙有多大?旅行者号飞到哪了?第二个宜居星球在哪?载人要走多久?编程能否带我们飞出宇宙?用真实数据与计算代码回答。', mod: 'cosmos' },
+      { sc: '#22d3ee', title: '选修 · 量子编程', tag: '科普 · 14 章', desc: '量子计算机为什么能并行?量子程序到底在写什么?从量子比特、纠缠、量子门与测量,到 Grover、Shor、QFT、变分算法、Qiskit/Cirq/Q#、硬件、纠错与后量子密码,用代码和工程视角建立完整知识图谱。', mod: 'cosmos' },
       { sc: '#f97316', title: '阶段 01 · 语言根基', tag: '里程碑 01', desc: 'JavaSE 是一切的地基:语法、面向对象、集合源码、并发编程。面试 60% 的问题从这来。', mod: 'javase' },
       { sc: '#eab308', title: '阶段 02 · Java 生态全景', tag: '里程碑 02', desc: 'Java 三十年简史、ME/SE/EE 三兄弟、Java ME 的兴衰、功能机游戏与现代 Java 游戏、Swing/JavaFX 初体验。', mod: 'javahistory' },
       { sc: '#22d3ee', title: '阶段 03 · 数据结构与算法', tag: '里程碑 03', desc: '复杂度分析、线性结构、哈希与树、图、排序与动态规划 —— 手撕代码题的底层语言。', mod: 'datastructure' },

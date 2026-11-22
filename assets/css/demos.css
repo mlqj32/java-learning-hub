@@ -200,7 +200,7 @@
 .dm-ver-box.seen { background: rgba(52,211,153,.2); border-color: #34d399; color: #a7f3d0; box-shadow: 0 0 18px rgba(52,211,153,.4); }
 .dm-ver-box small { display: block; color: var(--text-3); font-size: 9.5px; }
 
-/* ── 宇宙航行:航行时间计算器 ── */
+/* ── 量子编程:历史样式(当前演示使用通用面板) ── */
 .voyage-controls {
   display: grid; grid-template-columns: 1fr 1fr; gap: 16px;
   margin: 6px 0 18px;

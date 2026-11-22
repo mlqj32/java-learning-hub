@@ -1,120 +1,92 @@
 /* ═══════════════════════════════════════════════════
-   SVG 图解 · 宇宙航行(尺度阶梯 / 旅行者旅程 / 航行时间)
+   SVG 图解 · 量子编程(比特与 qubit / Bell 电路 / Grover)
    ═══════════════════════════════════════════════════ */
 (function () {
   'use strict';
   window.DIAGRAMS = window.DIAGRAMS || {};
   var D = window.DG.D;
 
-  /* 1. 宇宙尺度阶梯(对数坐标) */
-  DIAGRAMS['d-cosmic-scale'] = {
-    title: '宇宙的尺子:从地球到 930 亿光年',
-    caption: '横轴是对数尺度(公里)。每往右一格,数字就大一个数量级——从 1 万公里到 10^23 公里,人类习惯的直觉在这里全部失效。',
+  /* 1. 经典比特与量子比特 */
+  DIAGRAMS['d-qubit-vs-bit'] = {
+    title: '经典比特与量子比特:一个值,还是一个复向量',
+    caption: '经典比特只有 0 或 1;量子比特是二维复向量,测量时按 |α|²、|β|² 得到 0 或 1。Bloch 球把单 qubit 纯态画成球面上的点。',
     svg: (function () {
-      var g = D(900, 430);
-      var stops = [
-        ['地球', '直径 1.27 万 km', 4.1, '#22d3ee'],
-        ['地月距离', '38.4 万 km', 5.58, '#34d399'],
-        ['日地距离', '1 AU = 1.5 亿 km', 8.18, '#fbbf24'],
-        ['海王星轨道', '30 AU', 9.65, '#818cf8'],
-        ['奥尔特云边缘', '约 1 光年', 13.0, '#c084fc'],
-        ['比邻星', '4.24 光年', 13.6, '#fb7185'],
-        ['银河系直径', '约 10 万光年', 18.0, '#f472b6'],
-        ['可观测宇宙', '930 亿光年', 23.95, '#e2e8f0']
-      ];
-      var x0 = 50, x1 = 850, y0 = 150;
-      g.text(450, 34, '宇宙尺度阶梯(横轴为对数:每 2 格 = 100 倍)', 'dg-title');
-      g.line2(x0, y0, x1, y0, '#475569');
-      for (var e = 4; e <= 24; e += 2) {
-        var tx = x0 + (e - 4) / 20 * (x1 - x0);
-        g.line2(tx, y0 - 6, tx, y0 + 6, '#334155');
-        g.text(tx, y0 + 26, '10^' + e, 'dg-sub');
-      }
-      var NUM = ['1', '2', '3', '4', '5', '6', '7', '8'];
-      stops.forEach(function (s, i) {
-        var x = x0 + (s[2] - 4) / 20 * (x1 - x0);
-        g.raw('<circle cx="' + x + '" cy="' + y0 + '" r="9" fill="rgba(13,20,40,.95)" stroke="' + s[3] + '" stroke-width="2"/>');
-        g.text(x, y0 + 4, NUM[i], 'dg-label', { fill: s[3], weight: 700 });
-      });
-      /* 图例卡:2 行 × 4 列 */
-      stops.forEach(function (s, i) {
-        var col = i % 4, row = Math.floor(i / 4);
-        var cx = 40 + col * 215, cy = 215 + row * 84;
-        g.rect(cx, cy, 200, 66, s[3], { rx: 10, fill: 'rgba(13,20,40,.92)' });
-        g.text(cx + 14, cy + 26, NUM[i], 'dg-label', { anchor: 'start', fill: s[3], weight: 700 });
-        g.text(cx + 30, cy + 26, s[0], 'dg-label', { anchor: 'start', fill: '#e8eef7', weight: 700 });
-        g.text(cx + 14, cy + 48, s[1], 'dg-sub', { anchor: 'start' });
-      });
-      g.text(450, 410, '编号对应轴上位置;数字读法:10^8 公里 = 1 亿公里', 'dg-sub');
+      var g = D(900, 420);
+      g.text(450, 34, '同一个"比特",两种状态空间', 'dg-title');
+      g.rect(40, 70, 370, 300, '#94a3b8', { rx: 14 });
+      g.text(225, 106, '经典比特', 'dg-title', { fill: '#e2e8f0' });
+      g.text(225, 132, '状态只能是 0 或 1', 'dg-sub');
+      g.raw('<circle cx="225" cy="235" r="78" fill="rgba(148,163,184,.08)" stroke="#64748b" stroke-width="2"/>');
+      g.text(225, 252, '0 / 1', 'dg-title', { fill: '#cbd5e1' });
+      g.text(225, 330, '测量不改变值;可以任意复制', 'dg-sub');
+      g.rect(490, 70, 370, 300, '#22d3ee', { rx: 14 });
+      g.text(675, 106, '量子比特', 'dg-title', { fill: '#e2e8f0' });
+      g.text(675, 132, 'α|0⟩ + β|1⟩,|α|²+|β|²=1', 'dg-sub');
+      g.raw('<circle cx="675" cy="235" r="86" fill="rgba(34,211,238,.06)" stroke="#22d3ee" stroke-width="2"/>');
+      g.raw('<ellipse cx="675" cy="235" rx="86" ry="30" fill="none" stroke="#475569" stroke-dasharray="5,4"/>');
+      g.raw('<line x1="675" y1="142" x2="675" y2="328" stroke="#475569"/>');
+      g.raw('<line x1="582" y1="235" x2="768" y2="235" stroke="#475569"/>');
+      g.raw('<line x1="675" y1="235" x2="735" y2="178" stroke="#c084fc" stroke-width="3"/>');
+      g.raw('<circle cx="735" cy="178" r="7" fill="#c084fc"/>');
+      g.text(675, 136, '|0⟩', 'dg-label', { fill: '#22d3ee' });
+      g.text(675, 348, '|1⟩', 'dg-label', { fill: '#22d3ee' });
+      g.text(675, 390, '测量得到 0/1;未知态不可克隆', 'dg-sub');
       return g.done();
     })()
   };
 
-  /* 2. 旅行者 1 号走到哪了 */
-  DIAGRAMS['d-voyager-journey'] = {
-    title: '旅行者 1 号:飞了 48 年,还在太阳系的"院子"里',
-    caption: '日球层顶约 120 AU,旅行者 1 号 2012 年穿出;但它仍被奥尔特云包裹,距比邻星还有 4.24 光年——按现在的速度要 7.5 万年。',
-    svg: (function () {
-      var g = D(900, 440);
-      var rows = [
-        ['太阳', 0, '0 AU', '#fbbf24'],
-        ['地球', 1, '1 AU', '#22d3ee'],
-        ['海王星轨道', 30, '30 AU', '#60a5fa'],
-        ['日球层顶', 120, '120 AU', '#34d399'],
-        ['旅行者 1 号(2025)', 165, '165 AU', '#fb7185'],
-        ['奥尔特云内缘', 2000, '~2,000 AU', '#c084fc'],
-        ['奥尔特云外缘', 100000, '~10 万 AU', '#a78bfa'],
-        ['比邻星', 268000, '4.24 光年', '#f472b6']
-      ];
-      g.text(450, 30, '离太阳的距离(对数条长度,不是线性距离)', 'dg-title');
-      var x0 = 250, x1 = 810, y = 56, lh = 42;
-      function pos(au) { return Math.log10(au + 1) / Math.log10(268001) * (x1 - x0); }
-      rows.forEach(function (r, i) {
-        var centerY = y + i * lh;
-        // 行背景
-        g.rect(30, centerY - 15, 840, 30, 'rgba(148,163,184,.18)', { rx: 6, fill: 'rgba(148,163,184,.045)' });
-        // 标签
-        g.text(220, centerY + 5, r[0], 'dg-label', { anchor: 'end', fill: '#cbd5e1', weight: 700 });
-        // 条形(太阳在 0 AU,用起点圆点表示)
-        var len = Math.max(3, pos(r[1]));
-        if (r[1] === 0) {
-          g.raw('<circle cx="' + (x0 + 4) + '" cy="' + centerY + '" r="4.5" fill="' + r[3] + '"/>');
-          g.text(x0 + 18, centerY + 5, r[2], 'dg-label', { anchor: 'start', fill: r[3], weight: 700 });
-        } else {
-          g.rect(x0, centerY - 9, len, 18, r[3], { rx: 4, fill: 'rgba(13,20,40,.9)' });
-          g.text(x0 + len + 10, centerY + 5, r[2], 'dg-label', { anchor: 'start', fill: r[3], weight: 700 });
-        }
-      });
-      g.chip(30, 396, '1 光年 ≈ 63,241 AU;旅行者 1 号 165 AU ≈ 0.0026 光年', '#22d3ee');
-      g.chip(560, 396, '结论:连奥尔特云都没出去', '#fb7185');
-      return g.done();
-    })()
-  };
-
-  /* 3. 到比邻星要多久 */
-  DIAGRAMS['d-voyage-time'] = {
-    title: '4.24 光年,不同速度要飞多久',
-    caption: '横轴是时间(对数,年)。化学火箭要 7.5 万年;光帆 0.2c 约 21 年(无人克级探测器);只有接近光速,才有"人的一生"量级的可能。',
+  /* 2. Bell 电路 */
+  DIAGRAMS['d-quantum-circuit'] = {
+    title: 'H + CNOT:两条线制备 Bell 态',
+    caption: '先对 q0 作用 H,得到 (|0⟩+|1⟩)|0⟩/√2;再以 q0 控制 q1 翻转,得到 (|00⟩+|11⟩)/√2。测量只会出现 00 或 11。',
     svg: (function () {
       var g = D(900, 360);
-      var rows = [
-        ['旅行者 1 号 17 km/s', 75000, '#fb7185'],
-        ['帕克峰值 ~0.00064c', 6600, '#f472b6'],
-        ['核聚变设想 0.01c', 424, '#fbbf24'],
-        ['光帆 Starshot 0.2c', 21, '#34d399'],
-        ['理论 0.5c', 8.5, '#22d3ee'],
-        ['光速 1c(不可能载人)', 4.24, '#e2e8f0']
-      ];
-      var x0 = 200, x1 = 780, y0 = 60;
-      function pos(t) { return x0 + Math.log10(t) / Math.log10(80000) * (x1 - x0); }
-      rows.forEach(function (r, i) {
-        var y = y0 + i * 48;
-        g.text(190, y + 4, r[0], 'dg-label', { anchor: 'end' });
-        var x = pos(r[1]);
-        g.rect(x0, y - 12, Math.max(2, x - x0), 24, r[2], { rx: 4, fill: 'rgba(13,20,40,.9)' });
-        g.text(x + 10, y + 4, r[1] >= 100 ? Math.round(r[1]).toLocaleString() + ' 年' : r[1] + ' 年', 'dg-label', { fill: r[2], weight: 700, anchor: 'start' });
-      });
-      g.text(440, 340, '时间对数刻度:每格约 16 倍。0.2c 光帆仅适用于克级无人探测器,不能载人。', 'dg-sub');
+      g.text(450, 34, '量子电路:叠加 → 纠缠 → 测量', 'dg-title');
+      var x0 = 150, x1 = 760, y0 = 130, y1 = 250;
+      g.line2(x0, y0, x1, y0, '#94a3b8');
+      g.line2(x0, y1, x1, y1, '#94a3b8');
+      g.text(110, y0 + 5, 'q0 |0⟩', 'dg-label', { anchor: 'end', fill: '#22d3ee' });
+      g.text(110, y1 + 5, 'q1 |0⟩', 'dg-label', { anchor: 'end', fill: '#c084fc' });
+      g.rect(230, y0 - 28, 62, 56, '#22d3ee', { rx: 10 });
+      g.text(261, y0 + 7, 'H', 'dg-title');
+      g.raw('<circle cx="410" cy="' + y0 + '" r="7" fill="#c084fc"/>');
+      g.raw('<line x1="410" y1="' + y0 + '" x2="410" y2="' + y1 + '" stroke="#c084fc" stroke-width="2"/>');
+      g.raw('<circle cx="410" cy="' + y1 + '" r="22" fill="rgba(13,20,40,.95)" stroke="#c084fc" stroke-width="2"/>');
+      g.raw('<line x1="410" y1="' + (y1 - 22) + '" x2="410" y2="' + (y1 + 22) + '" stroke="#c084fc" stroke-width="2"/>');
+      g.raw('<line x1="' + (410 - 22) + '" y1="' + y1 + '" x2="' + (410 + 22) + '" y2="' + y1 + '" stroke="#c084fc" stroke-width="2"/>');
+      g.text(410, y0 - 16, '控制', 'dg-sub', { fill: '#c084fc' });
+      g.text(410, y1 + 48, 'CNOT', 'dg-sub', { fill: '#c084fc' });
+      g.rect(560, y0 - 28, 86, 56, '#94a3b8', { rx: 10 });
+      g.text(603, y0 + 7, '测量', 'dg-label');
+      g.rect(560, y1 - 28, 86, 56, '#94a3b8', { rx: 10 });
+      g.text(603, y1 + 7, '测量', 'dg-label');
+      g.text(450, 322, '理想 counts:00 与 11 各约 50%,01/10 接近 0', 'dg-sub');
+      return g.done();
+    })()
+  };
+
+  /* 3. Grover 概率曲线 */
+  DIAGRAMS['d-grover-steps'] = {
+    title: 'Grover:N=16 时目标概率随迭代次数起伏',
+    caption: '每次迭代把状态旋转 2θ,目标概率为 sin²((2k+1)θ)。最佳迭代约 (π/4)√N,继续迭代会"过冲"而下降。',
+    svg: (function () {
+      var g = D(900, 380);
+      g.text(450, 34, 'Grover 迭代:目标概率不是单调上升', 'dg-title');
+      var N = 16, theta = Math.asin(1 / Math.sqrt(N));
+      var x0 = 90, x1 = 830, y0 = 300, h = 220;
+      g.line2(x0, y0, x1, y0, '#475569');
+      g.line2(x0, y0, x0, 60, '#475569');
+      for (var k = 0; k <= 6; k++) {
+        var p = Math.pow(Math.sin((2 * k + 1) * theta), 2);
+        var bh = p * h;
+        var bx = x0 + 30 + k * 115;
+        var col = k === 3 ? '#34d399' : '#818cf8';
+        g.rect(bx - 32, y0 - bh, 64, Math.max(2, bh), col, { rx: 6, fill: col });
+        g.text(bx, y0 + 24, 'k=' + k, 'dg-sub');
+        g.text(bx, y0 - bh - 10, (p * 100).toFixed(1) + '%', 'dg-label', { fill: col, weight: 700 });
+      }
+      g.text(x0 + 30 + 3 * 115, 55, '最佳迭代附近', 'dg-label', { fill: '#34d399', weight: 700 });
+      g.text(450, 350, 'N=16:θ≈14.5°,最佳 k≈3,目标概率约 96.1%;k 再增加会下降。', 'dg-sub');
       return g.done();
     })()
   };
