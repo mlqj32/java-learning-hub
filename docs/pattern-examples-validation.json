@@ -1,0 +1,101 @@
+{
+  "route": "http://127.0.0.1:8766/#/m/patterns/pat5",
+  "environment": "Browser-only Doppio Java 8 JVM; no native compiler",
+  "runs": [
+    {
+      "block": 1,
+      "output": "39900\n34900\n31920\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 8639 ms"
+    },
+    {
+      "block": 2,
+      "output": "39900\n34900\n31920\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5721 ms"
+    },
+    {
+      "block": 3,
+      "output": "NORMAL: 39900\nFULL_REDUCE: 34900\nVIP: 31920\n未满门槛: 29999\n刚满门槛: 25000\n未知计价方式: UNKNOWN\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 17150 ms"
+    },
+    {
+      "block": 4,
+      "output": "NORMAL: 39900\nFULL_REDUCE: 34900\nVIP: 31920\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 9998 ms"
+    },
+    {
+      "block": 6,
+      "output": "订单 A1001 支付成功\n[邮件] 订单 A1001 电子回执\n[短信] 订单 A1001 支付成功\n[积分] 订单 A1001 增加 10\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 9852 ms"
+    },
+    {
+      "block": 7,
+      "output": "== 发布订单支付事件 A1001 ==\n[邮件] 订单 A1001 支付回执已发送\n[短信] 订单 A1001 支付成功\n[隔离] PointListener 失败: 积分服务超时\n== 发布订单支付事件 A1002 ==\n[邮件] 订单 A1002 支付回执已发送\n[短信] 订单 A1002 支付成功\n[隔离] PointListener 失败: 积分服务超时\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 9116 ms"
+    },
+    {
+      "block": 9,
+      "output": "1 天: 组长批准\n3 天: 经理批准\n7 天: 总监批准\n8 天: 驳回:超过 7 天\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 8301 ms"
+    },
+    {
+      "block": 10,
+      "output": "1 天 -> 组长批准\n3 天 -> 经理批准\n5 天 -> 总监批准\n8 天 -> 驳回:超出审批权限,转 HR\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 8972 ms"
+    },
+    {
+      "block": 11,
+      "output": "--- GET /order ---\n[鉴权] 拒绝\n请求被中断\n--- GET /order?token=abc ---\n[鉴权] 通过\n[限流] 放行\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5826 ms"
+    },
+    {
+      "block": 12,
+      "output": "烧水\n泡茶叶\n倒入杯中\n加柠檬\n烧水\n冲咖啡粉\n倒入杯中\n加糖和奶\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5556 ms"
+    },
+    {
+      "block": 13,
+      "output": "--- 茶 ---\n烧水\n泡茶叶\n倒入杯中\n加柠檬\n--- 咖啡 ---\n烧水\n冲咖啡粉\n倒入杯中\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5654 ms"
+    },
+    {
+      "block": 15,
+      "output": "未支付不能发货\n支付成功\n请勿重复支付\n发货成功\n当前状态不能支付\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5663 ms"
+    },
+    {
+      "block": 16,
+      "output": "支付成功,状态:待支付 -> 已支付\n已支付,请勿重复支付\n发货成功,状态:已支付 -> 已发货\n当前状态: 已发货\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5872 ms"
+    },
+    {
+      "block": 17,
+      "output": "灯亮了\n灯灭了\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6494 ms"
+    },
+    {
+      "block": 18,
+      "output": "灯亮\n灯灭\n灯亮\n灯灭\n没有可撤销的操作\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 14187 ms"
+    }
+  ],
+  "framework": [
+    {
+      "block": 5,
+      "button": "运行说明",
+      "hasRun": false,
+      "text": "关闭实验区 ×这是 Spring 框架集成片段，包含容器、注解或数据库模板依赖，不能作为独立 Java 程序运行。可先运行本章对应的完整 Java 示例，观察策略分派、事件通知或模板流程；此处用于对照框架中的写法。Java 8、Python、JavaScript、HTML 与 SQLite 可在网站虚拟环境中运行，无需安装语言环境。Spring 等框架依赖和真实数据库服务不包含在当前虚拟环境中。打开运行实验室 →"
+    },
+    {
+      "block": 8,
+      "button": "运行说明",
+      "hasRun": false,
+      "text": "关闭实验区 ×这是 Spring 框架集成片段，包含容器、注解或数据库模板依赖，不能作为独立 Java 程序运行。可先运行本章对应的完整 Java 示例，观察策略分派、事件通知或模板流程；此处用于对照框架中的写法。Java 8、Python、JavaScript、HTML 与 SQLite 可在网站虚拟环境中运行，无需安装语言环境。Spring 等框架依赖和真实数据库服务不包含在当前虚拟环境中。打开运行实验室 →"
+    },
+    {
+      "block": 14,
+      "button": "运行说明",
+      "hasRun": false,
+      "text": "关闭实验区 ×这是 Spring 框架集成片段，包含容器、注解或数据库模板依赖，不能作为独立 Java 程序运行。可先运行本章对应的完整 Java 示例，观察策略分派、事件通知或模板流程；此处用于对照框架中的写法。Java 8、Python、JavaScript、HTML 与 SQLite 可在网站虚拟环境中运行，无需安装语言环境。Spring 等框架依赖和真实数据库服务不包含在当前虚拟环境中。打开运行实验室 →"
+    }
+  ]
+}

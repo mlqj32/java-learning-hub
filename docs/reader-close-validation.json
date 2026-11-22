@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-15",
+  "checks": [
+    {
+      "closed": true,
+      "expanded": "false",
+      "focused": true,
+      "highlighted": 0,
+      "label": "逐行阅读",
+      "rowButtons": 0,
+      "test": "explicit close removes panel and restores focus"
+    },
+    {
+      "test": "reopen and read next line",
+      "title": "第 2 行 · 命令 adb"
+    },
+    {
+      "closed": true,
+      "focused": true,
+      "highlighted": 0,
+      "test": "Escape from reader controls"
+    },
+    {
+      "test": "header toggle closes",
+      "closed": true
+    },
+    {
+      "test": "closing one reader preserves another",
+      "firstClosed": true,
+      "otherStillOpen": true
+    },
+    {
+      "test": "Escape from source row closes its reader",
+      "closed": true
+    },
+    {
+      "test": "closing reader preserves runtime panel",
+      "readerClosed": true,
+      "runtimeStillOpen": true
+    },
+    {
+      "test": "navigation cleans up reader",
+      "panels": 0
+    },
+    {
+      "closed": true,
+      "focused": true,
+      "label": "逐行阅读",
+      "test": "final visible close"
+    }
+  ],
+  "layouts": [
+    {
+      "linked": true,
+      "overflow": [],
+      "width": 320,
+      "closed": true
+    },
+    {
+      "linked": true,
+      "overflow": [],
+      "width": 390,
+      "closed": true
+    },
+    {
+      "linked": true,
+      "overflow": [],
+      "width": 768,
+      "closed": true
+    },
+    {
+      "linked": true,
+      "overflow": [],
+      "width": 1440,
+      "closed": true
+    }
+  ]
+}

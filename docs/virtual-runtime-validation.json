@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-15",
+  "architecture": "Browser Worker runtimes on a static host; no execution API",
+  "runs": [
+    {
+      "name": "Java arithmetic",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5335 ms",
+      "output": "5\n"
+    },
+    {
+      "name": "Python Chinese stdin",
+      "status": "✓ 执行成功 · 浏览器 Python · WebAssembly · 3134 ms",
+      "output": "你的名字：1: 你好，小夏\n2: 你好，小夏\n3: 你好，小夏\n"
+    },
+    {
+      "name": "SQL statements and result",
+      "status": "✓ 执行成功 · 浏览器 SQLite · WebAssembly · 81 ms",
+      "output": "语句执行成功 · 影响行数 0\n\n语句执行成功 · 影响行数 3\n\nname\tscore\n小夏\t92\n小林\t86"
+    },
+    {
+      "name": "Java CounterRace threads lambda join",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5979 ms",
+      "output": "counter = 10000\n"
+    },
+    {
+      "name": "Java Scanner empty stdin EOF",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5560 ms",
+      "output": "1: 你好，Java\n2: 你好，Java\n3: 你好，Java\n"
+    },
+    {
+      "name": "Java Chinese stdin and args",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6458 ms",
+      "output": "1: 你好，小夏\n2: 你好，小夏\n"
+    },
+    {
+      "name": "Java package helper selected main",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5136 ms",
+      "output": "7:2\n"
+    },
+    {
+      "name": "Java genuine compile error",
+      "status": "执行失败 · 网页编译 · 4265 ms",
+      "output": "/home/Main.java:3: error: cannot find symbol\nSystem.out.println(unknown);\n                   ^\n  symbol:   variable unknown\n  location: class Main\n1 error\n\n\n编译失败。网页 JVM 当前支持 Java 8；Java 9～21 语法或外部依赖会报告编译错误。"
+    },
+    {
+      "name": "Java infinite loop timeout",
+      "status": "执行失败",
+      "output": "程序在网页虚拟环境运行超过 30 秒，已终止。"
+    },
+    {
+      "name": "Java Worker cancelled",
+      "status": "虚拟环境已终止，程序与本次虚拟文件一并释放。"
+    },
+    {
+      "name": "Java exception correctly fails",
+      "status": "执行失败 · 网页 JVM · Java 8 · 14972 ms",
+      "output": "java.lang.IllegalStateException: 真实异常\n\tat Main.main(Main.java:3)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.learninghub.runtime.HubVirtualEntry.main(HubVirtualEntry.java:1)\n\n\n虚拟机中的程序以非零状态结束。"
+    },
+    {
+      "name": "Python virtual file args and empty EOF",
+      "status": "✓ 执行成功 · 浏览器 Python · WebAssembly · 2786 ms",
+      "output": "虚拟文件 参数\nEOF=''\n"
+    },
+    {
+      "name": "Python genuine exception",
+      "status": "执行失败 · 网站虚拟环境 · 2146 ms",
+      "output": "Traceback (most recent call last): File \"/lib/python312.zip/_pyodide/_base.py\", line 597, in eval_code_async await CodeRunner( File \"/lib/python312.zip/_pyodide/_base.py\", line 411, in run_async coroutine = eval(self.code, globals, locals) ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"<exec>\", line 5, in <module> File \"main.py\", line 1, in <module> ZeroDivisionError: division by zero"
+    },
+    {
+      "name": "SQL quoted semicolon binary row cap",
+      "status": "✓ 执行成功 · 浏览器 SQLite · WebAssembly · 25 ms",
+      "tables": [
+        {
+          "first": "a;b\tcafe",
+          "rows": 1
+        },
+        {
+          "first": "1",
+          "rows": 200
+        }
+      ],
+      "truncated": true
+    },
+    {
+      "name": "SQL fresh database each run",
+      "status": "执行失败 · 网站虚拟环境 · 67 ms",
+      "output": "no such table: t"
+    },
+    {
+      "name": "Java newer syntax honest compile rejection",
+      "status": "执行失败 · 网页编译 · 1909 ms",
+      "output": "/home/Point.java:1: error: class, interface, or enum expected\npublic record Point(int x, int y) {}\n       ^\n1 error\n\n\n编译失败。网页 JVM 当前支持 Java 8；Java 9～21 语法或外部依赖会报告编译错误。"
+    },
+    {
+      "name": "Course TenThreads original code button",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6293 ms",
+      "output": "counter = 10000\n"
+    },
+    {
+      "name": "Course source changed loop 1000 to 100",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6069 ms",
+      "output": "counter = 1000\n"
+    }
+  ],
+  "correctedIssue": "Initial Doppio uncaught-main exception returned status 0; launcher now records failure and exits nonzero. Java exception correctly fails is the final verification.",
+  "layouts": [
+    {
+      "view": "Java compiler error",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "Java compiler error",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "Java compiler error",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "Java compiler error",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    },
+    {
+      "view": "Python exception",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "Python exception",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "Python exception",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "Python exception",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    },
+    {
+      "view": "SQLite result tables",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "SQLite result tables",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "SQLite result tables",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "SQLite result tables",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    },
+    {
+      "view": "Course Java runtime panel",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "Course Java runtime panel",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "Course Java runtime panel",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "Course Java runtime panel",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    }
+  ],
+  "finalCourseRun": {
+    "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6220 ms",
+    "output": "counter = 10000\n"
+  }
+}

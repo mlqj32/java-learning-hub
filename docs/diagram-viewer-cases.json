@@ -1,0 +1,300 @@
+[
+  {
+    "route": "redis/ch01",
+    "ids": [
+      "d-redis5"
+    ]
+  },
+  {
+    "route": "redis/ch02",
+    "ids": [
+      "d-eventloop"
+    ]
+  },
+  {
+    "route": "redis/ch07",
+    "ids": [
+      "d-sentinel"
+    ]
+  },
+  {
+    "route": "javase/ch02",
+    "ids": [
+      "d-oop"
+    ]
+  },
+  {
+    "route": "javase/ch03",
+    "ids": [
+      "d-stringpool"
+    ]
+  },
+  {
+    "route": "javase/ch04",
+    "ids": [
+      "d-exception"
+    ]
+  },
+  {
+    "route": "javase/ch07",
+    "ids": [
+      "d-collection"
+    ]
+  },
+  {
+    "route": "javase/ch08",
+    "ids": [
+      "d-hashmap"
+    ]
+  },
+  {
+    "route": "javase/ch09",
+    "ids": [
+      "d-io-decorator"
+    ]
+  },
+  {
+    "route": "javase/ch10",
+    "ids": [
+      "d-jmm"
+    ]
+  },
+  {
+    "route": "datastructure/ch01",
+    "ids": [
+      "d-complexity"
+    ]
+  },
+  {
+    "route": "datastructure/ch03",
+    "ids": [
+      "d-tree-heap"
+    ]
+  },
+  {
+    "route": "network/ch01",
+    "ids": [
+      "d-osi"
+    ]
+  },
+  {
+    "route": "network/ch02",
+    "ids": [
+      "d-http-flow"
+    ]
+  },
+  {
+    "route": "network/ch03",
+    "ids": [
+      "d-tcp-handshake"
+    ]
+  },
+  {
+    "route": "os/ch02",
+    "ids": [
+      "d-process-state"
+    ]
+  },
+  {
+    "route": "os/ch04",
+    "ids": [
+      "d-vm-page"
+    ]
+  },
+  {
+    "route": "javahistory/ch01",
+    "ids": [
+      "d-java-history"
+    ]
+  },
+  {
+    "route": "javaweb/ch01",
+    "ids": [
+      "d-servlet-flow"
+    ]
+  },
+  {
+    "route": "cloud/ch02",
+    "ids": [
+      "d-microservice"
+    ]
+  },
+  {
+    "route": "frontier/ch01",
+    "ids": [
+      "d-blockchain"
+    ]
+  },
+  {
+    "route": "jvm/ch01",
+    "ids": [
+      "d-jvmarch",
+      "d-parent-delegate"
+    ]
+  },
+  {
+    "route": "jvm/ch02",
+    "ids": [
+      "d-heap-generational"
+    ]
+  },
+  {
+    "route": "spring/ch01",
+    "ids": [
+      "d-ioc"
+    ]
+  },
+  {
+    "route": "spring/ch02",
+    "ids": [
+      "d-beanlife"
+    ]
+  },
+  {
+    "route": "spring/ch03",
+    "ids": [
+      "d-circular"
+    ]
+  },
+  {
+    "route": "spring/ch06",
+    "ids": [
+      "d-mvc"
+    ]
+  },
+  {
+    "route": "spring/ch08",
+    "ids": [
+      "d-mybatis"
+    ]
+  },
+  {
+    "route": "mysql/ch01",
+    "ids": [
+      "d-mysqlarch"
+    ]
+  },
+  {
+    "route": "mysql/ch02",
+    "ids": [
+      "d-bptree"
+    ]
+  },
+  {
+    "route": "mq/ch02",
+    "ids": [
+      "d-rabbit-route"
+    ]
+  },
+  {
+    "route": "mq/ch03",
+    "ids": [
+      "d-kafka-arch"
+    ]
+  },
+  {
+    "route": "linux/ch02",
+    "ids": [
+      "d-pipeline"
+    ]
+  },
+  {
+    "route": "patterns/pat2",
+    "ids": [
+      "u-class-basics",
+      "u-relations"
+    ]
+  },
+  {
+    "route": "patterns/pat3",
+    "ids": [
+      "u-singleton",
+      "u-simple-factory",
+      "u-factory-method",
+      "u-abstract-factory",
+      "u-builder",
+      "u-prototype"
+    ]
+  },
+  {
+    "route": "patterns/pat4",
+    "ids": [
+      "u-proxy",
+      "u-decorator",
+      "u-adapter",
+      "u-facade",
+      "u-bridge",
+      "u-composite",
+      "u-flyweight"
+    ]
+  },
+  {
+    "route": "patterns/pat5",
+    "ids": [
+      "u-strategy",
+      "u-observer",
+      "u-chain",
+      "u-template-method",
+      "u-state",
+      "u-command"
+    ]
+  },
+  {
+    "route": "patterns/pat6",
+    "ids": [
+      "u-iterator",
+      "u-mediator",
+      "u-memento",
+      "u-visitor",
+      "u-interpreter"
+    ]
+  },
+  {
+    "route": "reverse/r01",
+    "ids": [
+      "d-reverse-overview"
+    ]
+  },
+  {
+    "route": "reverse/r02",
+    "ids": [
+      "d-stack-frame"
+    ]
+  },
+  {
+    "route": "reverse/r03",
+    "ids": [
+      "d-pe-structure"
+    ]
+  },
+  {
+    "route": "reverse/r06",
+    "ids": [
+      "d-pvz-memory"
+    ]
+  },
+  {
+    "route": "reverse/r07",
+    "ids": [
+      "d-esp-pipeline"
+    ]
+  },
+  {
+    "route": "reverse/r09",
+    "ids": [
+      "d-apk-structure"
+    ]
+  },
+  {
+    "route": "reverse/r10",
+    "ids": [
+      "d-android-stack"
+    ]
+  },
+  {
+    "route": "reverse/r15",
+    "ids": [
+      "d-scam-chain"
+    ]
+  }
+]

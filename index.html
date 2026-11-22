@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Java 后端修炼场 · Forge Your Backend</title>
+<meta name="description" content="Java 后端系统学习平台：19 个模块、153 章正文，覆盖 JavaSE、工程实践、计算机基础、JVM、Spring、数据库、中间件、设计模式、逆向工程、真实世界编程与宇宙航行；内置浏览器代码运行器、74 张图解、45 个交互演示与 358 道面试题。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☕</text></svg>">
+<link rel="stylesheet" href="assets/css/main.css?v=10.9">
+<link rel="stylesheet" href="assets/css/demos.css?v=10.23">
+<link rel="preload" href="assets/fonts/hub-sans-sc.woff2?v=10.18" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/reading.css?v=10.18">
+<link rel="stylesheet" href="assets/css/runner.css?v=10.9">
+<link rel="stylesheet" href="assets/css/labs.css?v=10.9">
+<link rel="stylesheet" href="assets/css/world.css?v=10.18">
+</head>
+<body>
+<!-- ═══════════ 背景特效层 ═══════════ -->
+<div class="bg-layer">
+  <div class="aurora aurora-1"></div>
+  <div class="aurora aurora-2"></div>
+  <div class="aurora aurora-3"></div>
+  <div class="grid-overlay"></div>
+  <canvas id="particle-canvas"></canvas>
+</div>
+
+<!-- ═══════════ 阅读进度条 ═══════════ -->
+<div class="read-progress" id="read-progress"></div>
+
+<!-- ═══════════ 顶部导航 ═══════════ -->
+<header class="topbar" id="topbar">
+  <div class="topbar-inner">
+    <a class="logo" href="#/home" data-nav>
+      <span class="logo-cube">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M17 8h1a4 4 0 1 1 0 8h-1"/><path d="M3 8h14v9a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V8z"/><path d="M6 2v3M10 2v3M14 2v3"/></svg>
+      </span>
+      <span class="logo-text">
+        <span class="logo-main">JAVA 后端修炼场</span>
+        <span class="logo-sub">FORGE YOUR BACKEND</span>
+      </span>
+    </a>
+    <nav class="topnav" id="topnav"></nav>
+    <div class="topbar-actions">
+      <button class="search-trigger" id="search-trigger" title="搜索 (Ctrl+K)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <span class="search-kt">Ctrl K</span>
+      </button>
+      <button class="menu-toggle" id="menu-toggle" title="目录">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ═══════════ 主体布局 ═══════════ -->
+<div class="layout" id="layout">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-head" id="sidebar-head"></div>
+    <nav class="sidebar-nav" id="sidebar-nav"></nav>
+    <div class="sidebar-foot" id="sidebar-foot"></div>
+  </aside>
+  <main class="main" id="main">
+    <div id="view" class="view"></div>
+    <footer class="footer">
+      <div class="footer-line"></div>
+      <p>FORGE YOUR BACKEND · 知识点 + 代码实践 + 交互演示 + 面试真题</p>
+      <p class="footer-dim">为星薇Star定制的 Java 后端系统学习平台 · 课程语境：JDK 17 / MySQL 8 / Redis 7 · 网页运行：Java 8 / JavaScript / Python / SQLite，无需本机环境</p>
+    </footer>
+  </main>
+</div>
+
+<!-- ═══════════ 搜索浮层 ═══════════ -->
+<div class="search-overlay" id="search-overlay">
+  <div class="search-panel">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="search-input" type="text" placeholder="搜索知识点、面试题、代码示例…" autocomplete="off">
+      <span class="search-esc">ESC</span>
+    </div>
+    <div class="search-results" id="search-results"></div>
+  </div>
+</div>
+
+<!-- ═══════════ 回到顶部 ═══════════ -->
+<button class="backtop" id="backtop" title="回到顶部">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+</button>
+
+<script src="assets/js/highlight.js?v=10.2"></script>
+<script src="assets/js/markdown.js?v=10.2"></script>
+<script src="assets/js/demos.js?v=10.2"></script>
+<script src="assets/js/demos2.js?v=10.9"></script>
+<script src="assets/js/demos3.js?v=10.2"></script>
+<script src="assets/js/demos4.js?v=10.2"></script>
+<script src="assets/js/demos5.js?v=10.9"></script>
+<script src="assets/js/demos6.js?v=10.2"></script>
+<script src="assets/js/demos7.js?v=10.23"></script>
+<script src="assets/js/lab-models.js?v=10.2"></script>
+<script src="assets/js/lab-ui.js?v=10.2"></script>
+<script src="assets/js/demo-system.js?v=10.23"></script>
+<script src="assets/js/world-models.js?v=10.18"></script>
+<script src="assets/js/world-catalog.js?v=10.18"></script>
+<script src="assets/js/world-labs.js?v=10.18"></script>
+<script src="assets/js/sort-lab.js?v=10.2"></script>
+<script src="assets/js/core-labs.js?v=10.2"></script>
+<script src="assets/js/reverse-labs-ui.js?v=10.14"></script>
+<script src="assets/js/diagrams.js?v=10.2"></script>
+<script src="assets/js/diagrams2.js?v=10.2"></script>
+<script src="assets/js/diagrams3.js?v=10.2"></script>
+<script src="assets/js/diagrams4.js?v=10.2"></script>
+<script src="assets/js/diagrams5.js?v=10.2"></script>
+<script src="assets/js/diagrams6.js?v=10.27"></script>
+<script src="assets/js/pattern-uml.js?v=10.13"></script>
+<script src="assets/js/content/redis.js?v=10.2"></script>
+<script src="assets/js/content/javase.js?v=10.15"></script>
+<script src="assets/js/content/datastructure.js?v=10.2"></script>
+<script src="assets/js/content/network.js?v=10.2"></script>
+<script src="assets/js/content/os.js?v=10.2"></script>
+<script src="assets/js/content/javahistory.js?v=10.2"></script>
+<script src="assets/js/content/javaweb.js?v=10.2"></script>
+<script src="assets/js/content/cloud.js?v=10.2"></script>
+<script src="assets/js/content/frontier.js?v=10.2"></script>
+<script src="assets/js/content/jvm.js?v=10.2"></script>
+<script src="assets/js/content/spring.js?v=10.2"></script>
+<script src="assets/js/content/mysql.js?v=10.2"></script>
+<script src="assets/js/content/mq.js?v=10.2"></script>
+<script src="assets/js/content/linux.js?v=10.2"></script>
+<script src="assets/js/content/patterns_ext1.js?v=10.13"></script>
+<script src="assets/js/content/patterns_ext2.js?v=10.13"></script>
+<script src="assets/js/content/patterns.js?v=10.13"></script>
+<script src="assets/js/content/reverse_ext1.js?v=10.2"></script>
+<script src="assets/js/content/reverse_ext2.js?v=10.2"></script>
+<script src="assets/js/content/reverse_ext3.js?v=10.2"></script>
+<script src="assets/js/content/reverse_ext4.js?v=10.14"></script>
+<script src="assets/js/content/reverse.js?v=10.2"></script>
+<script src="assets/js/content/foundations.js?v=10.2"></script>
+<script src="assets/js/content/reverse-labs.js?v=10.2"></script>
+<script src="assets/js/content/world.js?v=10.18"></script>
+<script src="assets/js/content/cosmos.js?v=10.23"></script>
+<script src="assets/js/content/practice.js?v=10.2"></script>
+<script src="assets/js/reading.js?v=10.18"></script>
+<script src="assets/js/simulations.js?v=10.2"></script>
+<script src="assets/js/runtime-options.js?v=10.8"></script>
+<script src="assets/js/runner.js?v=10.15"></script>
+<script src="assets/js/line-explanations.js?v=10.15"></script>
+<script src="assets/js/walkthrough.js?v=10.15"></script>
+<script src="assets/js/app.js?v=10.20"></script>
+</body>
+</html>

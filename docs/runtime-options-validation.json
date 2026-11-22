@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-15",
+  "checks": [
+    {
+      "gridVisible": false,
+      "guideVisible": false,
+      "visible": [],
+      "test": "RecordBytes needs no options"
+    },
+    {
+      "gridVisible": true,
+      "guideVisible": true,
+      "visible": [
+        "标准输入"
+      ],
+      "test": "Editing to read stdin shows only stdin"
+    },
+    {
+      "gridVisible": true,
+      "guideVisible": true,
+      "visible": [
+        "程序参数"
+      ],
+      "test": "Renamed varargs shows only program arguments"
+    },
+    {
+      "gridVisible": false,
+      "guideVisible": false,
+      "visible": [],
+      "test": "Comments and strings do not reveal options"
+    },
+    {
+      "gridVisible": true,
+      "guideVisible": true,
+      "visible": [
+        "主类名（选填）"
+      ],
+      "test": "Multiple entry points show only main selection"
+    },
+    {
+      "test": "Selected alternative main executes in browser JVM",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6012 ms",
+      "output": "OTHER\n"
+    },
+    {
+      "mainHidden": true,
+      "retainedMainValue": "Other",
+      "test": "Hide main when code returns to a single entry"
+    },
+    {
+      "test": "Hidden old main selection is excluded from execution",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5398 ms",
+      "output": "MAIN\n"
+    },
+    {
+      "test": "Java shows only the two fields used",
+      "visible": [
+        "标准输入",
+        "程序参数"
+      ]
+    },
+    {
+      "test": "Visible Java fields still execute in browser JVM",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5550 ms",
+      "output": "小夏:7\n"
+    },
+    {
+      "guideVisible": true,
+      "test": "Python sample reads input but has no argv",
+      "visible": [
+        "标准输入"
+      ]
+    },
+    {
+      "guideVisible": false,
+      "test": "Python literals/comments hide both controls",
+      "visible": []
+    },
+    {
+      "guideVisible": true,
+      "test": "Python argv alias shows only arguments",
+      "visible": [
+        "程序参数"
+      ]
+    },
+    {
+      "test": "Python argv alias executes with only arguments visible",
+      "status": "✓ 执行成功 · 浏览器 Python · WebAssembly · 1422 ms",
+      "output": "课程\n"
+    },
+    {
+      "guideVisible": false,
+      "test": "JavaScript sample hides unused input and args",
+      "visible": []
+    },
+    {
+      "guideVisible": true,
+      "test": "JavaScript references reveal both fields",
+      "visible": [
+        "标准输入",
+        "程序参数"
+      ]
+    },
+    {
+      "test": "JavaScript visible fields execute",
+      "status": "✓ 执行成功",
+      "output": "小夏:3"
+    },
+    {
+      "guideVisible": false,
+      "test": "Restore original sample hides fields again",
+      "visible": []
+    },
+    {
+      "guideVisible": false,
+      "test": "Final RecordBytes hides all unused controls",
+      "visible": []
+    },
+    {
+      "test": "RecordBytes executes with all optional controls hidden",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5489 ms",
+      "output": "bytes = 4\n00 00 03 D4 \n"
+    }
+  ],
+  "layouts": [
+    {
+      "overflow": [],
+      "width": 320
+    },
+    {
+      "overflow": [],
+      "width": 390
+    },
+    {
+      "overflow": [],
+      "width": 768
+    },
+    {
+      "overflow": [],
+      "width": 1440
+    }
+  ]
+}

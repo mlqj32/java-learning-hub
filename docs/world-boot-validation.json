@@ -1,0 +1,118 @@
+{
+  "chapter": "w01",
+  "lab": "boot",
+  "browserRuns": [
+    {
+      "input": {
+        "rtos": false,
+        "interrupts": true,
+        "validImage": true,
+        "ticks": 3
+      },
+      "output": {
+        "mode": "bare-metal",
+        "booted": true,
+        "samples": 3,
+        "servicedEvents": 1,
+        "pendingEvent": false,
+        "outputRegister": 1,
+        "ramReady": true
+      },
+      "frames": 15
+    },
+    {
+      "input": {
+        "rtos": true,
+        "interrupts": true,
+        "validImage": true,
+        "ticks": 3
+      },
+      "output": {
+        "mode": "RTOS",
+        "booted": true,
+        "samples": 3,
+        "servicedEvents": 1,
+        "pendingEvent": false,
+        "outputRegister": 1,
+        "ramReady": true
+      },
+      "frames": 15
+    },
+    {
+      "input": {
+        "rtos": true,
+        "interrupts": false,
+        "validImage": true,
+        "ticks": 3
+      },
+      "output": {
+        "mode": "RTOS",
+        "booted": true,
+        "samples": 3,
+        "servicedEvents": 0,
+        "pendingEvent": true,
+        "outputRegister": 1,
+        "ramReady": true
+      },
+      "frames": 15
+    },
+    {
+      "input": {
+        "rtos": true,
+        "interrupts": false,
+        "validImage": false,
+        "ticks": 3
+      },
+      "output": {
+        "mode": "RTOS",
+        "booted": false,
+        "samples": 0,
+        "servicedEvents": 0,
+        "pendingEvent": false,
+        "outputRegister": 0,
+        "ramReady": false
+      },
+      "frames": 2
+    }
+  ],
+  "controlRegression": {
+    "finalTemperature": 20.83,
+    "target": 22,
+    "samples": 16
+  },
+  "layout": {
+    "desktop": {
+      "highlight": "5    const mode = settings.rtos ? 'RTOS' : 'bare-metal';\n",
+      "pageWidth": 1710,
+      "svgTextOutside": [],
+      "width": 1710
+    },
+    "narrow": [
+      {
+        "buttonOverlap": false,
+        "pageWidth": 380,
+        "svgTextOutside": [],
+        "width": 380
+      },
+      {
+        "buttonOverlap": false,
+        "pageWidth": 310,
+        "svgTextOutside": [],
+        "width": 310
+      }
+    ],
+    "viewportWidths": [
+      390,
+      320
+    ]
+  },
+  "interactions": [
+    "next",
+    "previous",
+    "reset",
+    "range end",
+    "apply parameters",
+    "source highlighting"
+  ],
+  "scope": "Semantic startup model; browser Worker execution, no native runtime or device access."
+}

@@ -1,0 +1,64 @@
+.code-run { margin-left: auto; }
+.runtime-button, .sim-button { color: #dce5ff; border: 1px solid #455582; background: #1b2740; padding: 8px 13px; border-radius: 9px; cursor: pointer; font: 13px/1.5 var(--font-sans); }
+.runtime-button:hover, .sim-button:hover { background: #293b60; border-color: #9baafa; }
+.runtime-button:disabled { cursor: wait; opacity: .55; }
+.runtime-button[aria-pressed="true"] { background: #394b82; border-color: #b0bbff; }
+.runtime-panel { padding: 20px; border-top: 1px solid var(--border); background: #101827; min-width: 0; scroll-margin-top: 82px; }
+.runtime-close { display: block; margin: 0 0 16px auto; }
+.runtime-panel *, .playground-editor * { box-sizing: border-box; }
+.runtime-editor [hidden] { display: none !important; }
+.runtime-mode { color: #a7d6ff; font: 12px/1.8 var(--font-sans); letter-spacing: .02em; }
+.doc .runtime-note { font: 13px/1.9 var(--font-sans); color: #b2c0d5; margin: 12px 0; white-space: normal; overflow-wrap: anywhere; }
+.runtime-field { display: flex; flex-direction: column; gap: 8px; color: #bfcce1; font: 12px/1.8 var(--font-sans); margin: 14px 0; min-width: 0; }
+.runtime-field textarea, .runtime-field input, .sim-setting input { display: block; width: 100%; max-width: 100%; min-width: 0; background: #090f1b; color: #e1e9f8; border: 1px solid #394860; border-radius: 9px; padding: 12px; font: 13px/1.8 var(--font-mono); }
+.runtime-field textarea { resize: vertical; tab-size: 4; }
+.runtime-source { min-height: 170px; white-space: pre; overflow: auto; }
+.runtime-code-editor { position: relative; min-width: 0; border-radius: 9px; background: #090f1b; }
+.runtime-code-editor .runtime-source, .doc .runtime-highlight, .runtime-highlight code {
+  margin: 0; font: 400 13px/1.8 var(--font-mono); letter-spacing: 0; tab-size: 4; font-variant-ligatures: none; text-align: left; white-space: pre; overflow-wrap: normal; word-break: normal;
+}
+.doc .runtime-highlight { position: absolute; inset: 0; padding: 12px; border: 1px solid transparent; border-radius: 9px; background: #090f1b; color: #e1e9f8; overflow: hidden; pointer-events: none; max-height: none; }
+.runtime-highlight code { display: block; padding: 0; background: transparent; border: 0; color: inherit; }
+.runtime-highlight span { font-weight: 400; font-style: normal; }
+.runtime-code-editor .runtime-source { position: relative; display: block; width: 100%; background: transparent; color: transparent; -webkit-text-fill-color: transparent; caret-color: #f2f5ff; border: 1px solid #394860; padding: 12px; border-radius: 9px; }
+.runtime-code-editor .runtime-source::selection { background: #8ba7ff55; }
+.doc .runtime-input-guide { color: #cad8ed; font: 13px/1.9 var(--font-sans); margin: 20px 0 8px; }
+.runtime-field-help { display: block; color: #aabbd3; font: 12px/1.9 var(--font-sans); white-space: normal; overflow-wrap: anywhere; }
+@media (forced-colors: active) {
+  .runtime-highlight { display: none; }
+  .runtime-code-editor .runtime-source { color: CanvasText; -webkit-text-fill-color: CanvasText; caret-color: CanvasText; }
+}
+.runtime-inputs { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(190px,100%),1fr)); gap: 16px; }
+.runtime-actions, .playground-tabs, .sim-controls { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 16px 0; }
+.runtime-status { display: block; color: #b9c9ee; font: 12px/1.8 var(--font-sans); margin: 12px 0; overflow-wrap: anywhere; }
+.runtime-console, .sim-trace { max-width: 100%; white-space: pre-wrap; overflow-wrap: anywhere; overflow: auto; padding: 16px; background: #080f19; border: 1px solid #283951; border-radius: 10px; color: #c9e5db; font: 13px/1.9 var(--font-mono); max-height: 380px; }
+.runtime-error { color: #ffb6bd; font: 13px/1.9 var(--font-sans); overflow-wrap: anywhere; white-space: pre-wrap; max-height: 380px; overflow: auto; }
+.runtime-preview { display: block; width: 100%; min-width: 0; height: 360px; border: 1px solid #40516f; background: white; border-radius: 10px; }
+.runtime-table-scroll { overflow: auto; max-width: 100%; margin: 12px 0; }
+.doc .runtime-table-scroll table { width: 100%; min-width: 280px; border-collapse: collapse; font: 13px/1.8 var(--font-sans); }
+.doc .runtime-table-scroll th, .doc .runtime-table-scroll td { padding: 10px 12px; border: 1px solid #34435e; overflow-wrap: anywhere; }
+.runtime-link { display: inline-block; margin: 8px 0; color: #bac6ff; font: 14px/1.9 var(--font-sans); overflow-wrap: anywhere; }
+.playground-editor { background: #101827; border: 1px solid #30415e; border-radius: 16px; padding: 24px; min-width: 0; }
+.playground-gui-links { display: flex; flex-direction: column; gap: 12px; }
+.sim-window { max-width: 440px; margin: 20px auto; background: #111d30; border: 1px solid #4a6083; border-radius: 13px; overflow: hidden; box-shadow: 0 12px 32px #02071166; }
+.sim-titlebar { padding: 12px 16px; color: #d4def0; background: #24324b; font: 13px/1.8 var(--font-sans); overflow-wrap: anywhere; }
+.sim-window-body { padding: 18px; }
+.sim-calc-screen { display: block; background: #0a1424; color: #d6f9e6; border: 1px solid #4b637c; border-radius: 7px; min-height: 64px; text-align: right; padding: 12px; font: 28px/1.5 var(--font-mono); overflow-wrap: anywhere; }
+.sim-calc-keys { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 10px; margin-top: 14px; }
+.sim-calc-keys button { font-size: 20px; min-height: 46px; padding: 6px; }
+.sim-calc-keys button:nth-child(4n), .sim-calc-keys button:nth-last-child(2) { background: #3a4772; }
+.sim-countdown { display: block; color: #eab308; text-align: center; padding: 38px 8px; font: 30px/1.6 var(--font-sans); overflow-wrap: anywhere; }
+.sim-setting { display: flex; align-items: center; gap: 8px; color: #c6d4e9; font: 13px/1.8 var(--font-sans); }
+.sim-setting input { width: 84px; padding: 6px 10px; }
+.sim-canvas { display: block; max-width: 100%; width: 100%; height: auto; border: 1px solid #354963; border-radius: 8px; }
+.sim-arrows { display: flex; flex-wrap: wrap; gap: 8px; }
+.sim-arrows button { min-width: 44px; min-height: 44px; }
+@media(max-width:600px) {
+  .runtime-panel, .playground-editor { padding: 16px 12px; }
+  .runtime-inputs { gap: 0; }
+  .runtime-actions { gap: 8px; }
+  .runtime-button { padding: 7px 10px; font-size: 12px; }
+  .sim-window-body { padding: 12px; }
+  .code-head { column-gap: 8px; }
+  .code-run { margin-left: 0; }
+}

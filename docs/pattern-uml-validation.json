@@ -1,0 +1,1170 @@
+{
+  "date": "2026-11-15",
+  "coverage": "23 GoF patterns + simple factory + 2 UML foundations",
+  "layouts": [
+    {
+      "chapter": "pat2",
+      "diagrams": [
+        {
+          "edges": 2,
+          "id": "u-class-basics",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 6,
+          "id": "u-relations",
+          "nodes": 12,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 310,
+      "issues": [],
+      "width": 320
+    },
+    {
+      "chapter": "pat3",
+      "diagrams": [
+        {
+          "edges": 2,
+          "id": "u-singleton",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-simple-factory",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-factory-method",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-abstract-factory",
+          "nodes": 6,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-builder",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-prototype",
+          "nodes": 3,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 310,
+      "issues": [],
+      "width": 320
+    },
+    {
+      "chapter": "pat4",
+      "diagrams": [
+        {
+          "edges": 3,
+          "id": "u-proxy",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-decorator",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-adapter",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-facade",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-bridge",
+          "nodes": 6,
+          "truncated": 0
+        },
+        {
+          "edges": 3,
+          "id": "u-composite",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-flyweight",
+          "nodes": 3,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 310,
+      "issues": [],
+      "width": 320
+    },
+    {
+      "chapter": "pat5",
+      "diagrams": [
+        {
+          "edges": 4,
+          "id": "u-strategy",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-observer",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-chain",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-template-method",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-state",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-command",
+          "nodes": 5,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 310,
+      "issues": [],
+      "width": 320
+    },
+    {
+      "chapter": "pat6",
+      "diagrams": [
+        {
+          "edges": 4,
+          "id": "u-iterator",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 1,
+          "id": "u-mediator",
+          "nodes": 2,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-memento",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-visitor",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-interpreter",
+          "nodes": 5,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 310,
+      "issues": [],
+      "width": 320
+    },
+    {
+      "chapter": "pat2",
+      "diagrams": [
+        {
+          "edges": 2,
+          "id": "u-class-basics",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 6,
+          "id": "u-relations",
+          "nodes": 12,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 380,
+      "issues": [],
+      "width": 390
+    },
+    {
+      "chapter": "pat3",
+      "diagrams": [
+        {
+          "edges": 2,
+          "id": "u-singleton",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-simple-factory",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-factory-method",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-abstract-factory",
+          "nodes": 6,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-builder",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-prototype",
+          "nodes": 3,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 380,
+      "issues": [],
+      "width": 390
+    },
+    {
+      "chapter": "pat4",
+      "diagrams": [
+        {
+          "edges": 3,
+          "id": "u-proxy",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-decorator",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-adapter",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-facade",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-bridge",
+          "nodes": 6,
+          "truncated": 0
+        },
+        {
+          "edges": 3,
+          "id": "u-composite",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-flyweight",
+          "nodes": 3,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 380,
+      "issues": [],
+      "width": 390
+    },
+    {
+      "chapter": "pat5",
+      "diagrams": [
+        {
+          "edges": 4,
+          "id": "u-strategy",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-observer",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-chain",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-template-method",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-state",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-command",
+          "nodes": 5,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 380,
+      "issues": [],
+      "width": 390
+    },
+    {
+      "chapter": "pat6",
+      "diagrams": [
+        {
+          "edges": 4,
+          "id": "u-iterator",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 1,
+          "id": "u-mediator",
+          "nodes": 2,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-memento",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-visitor",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-interpreter",
+          "nodes": 5,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 380,
+      "issues": [],
+      "width": 390
+    },
+    {
+      "chapter": "pat2",
+      "diagrams": [
+        {
+          "edges": 2,
+          "id": "u-class-basics",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 6,
+          "id": "u-relations",
+          "nodes": 12,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 758,
+      "issues": [],
+      "width": 768
+    },
+    {
+      "chapter": "pat3",
+      "diagrams": [
+        {
+          "edges": 2,
+          "id": "u-singleton",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-simple-factory",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-factory-method",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-abstract-factory",
+          "nodes": 6,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-builder",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-prototype",
+          "nodes": 3,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 758,
+      "issues": [],
+      "width": 768
+    },
+    {
+      "chapter": "pat4",
+      "diagrams": [
+        {
+          "edges": 3,
+          "id": "u-proxy",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-decorator",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-adapter",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-facade",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-bridge",
+          "nodes": 6,
+          "truncated": 0
+        },
+        {
+          "edges": 3,
+          "id": "u-composite",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-flyweight",
+          "nodes": 3,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 758,
+      "issues": [],
+      "width": 768
+    },
+    {
+      "chapter": "pat5",
+      "diagrams": [
+        {
+          "edges": 4,
+          "id": "u-strategy",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-observer",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-chain",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-template-method",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-state",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-command",
+          "nodes": 5,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 758,
+      "issues": [],
+      "width": 768
+    },
+    {
+      "chapter": "pat6",
+      "diagrams": [
+        {
+          "edges": 4,
+          "id": "u-iterator",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 1,
+          "id": "u-mediator",
+          "nodes": 2,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-memento",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-visitor",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-interpreter",
+          "nodes": 5,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 758,
+      "issues": [],
+      "width": 768
+    },
+    {
+      "chapter": "pat2",
+      "diagrams": [
+        {
+          "edges": 2,
+          "id": "u-class-basics",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 6,
+          "id": "u-relations",
+          "nodes": 12,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 1430,
+      "issues": [],
+      "width": 1440
+    },
+    {
+      "chapter": "pat3",
+      "diagrams": [
+        {
+          "edges": 2,
+          "id": "u-singleton",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-simple-factory",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-factory-method",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-abstract-factory",
+          "nodes": 6,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-builder",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-prototype",
+          "nodes": 3,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 1430,
+      "issues": [],
+      "width": 1440
+    },
+    {
+      "chapter": "pat4",
+      "diagrams": [
+        {
+          "edges": 3,
+          "id": "u-proxy",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-decorator",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-adapter",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-facade",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-bridge",
+          "nodes": 6,
+          "truncated": 0
+        },
+        {
+          "edges": 3,
+          "id": "u-composite",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-flyweight",
+          "nodes": 3,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 1430,
+      "issues": [],
+      "width": 1440
+    },
+    {
+      "chapter": "pat5",
+      "diagrams": [
+        {
+          "edges": 4,
+          "id": "u-strategy",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-observer",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-chain",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-template-method",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-state",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-command",
+          "nodes": 5,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 1430,
+      "issues": [],
+      "width": 1440
+    },
+    {
+      "chapter": "pat6",
+      "diagrams": [
+        {
+          "edges": 4,
+          "id": "u-iterator",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 1,
+          "id": "u-mediator",
+          "nodes": 2,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-memento",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-visitor",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-interpreter",
+          "nodes": 5,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 1430,
+      "issues": [],
+      "width": 1440
+    },
+    {
+      "chapter": "pat2",
+      "diagrams": [
+        {
+          "edges": 2,
+          "id": "u-class-basics",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 6,
+          "id": "u-relations",
+          "nodes": 12,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 1910,
+      "issues": [],
+      "width": 1920
+    },
+    {
+      "chapter": "pat3",
+      "diagrams": [
+        {
+          "edges": 2,
+          "id": "u-singleton",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-simple-factory",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-factory-method",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-abstract-factory",
+          "nodes": 6,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-builder",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-prototype",
+          "nodes": 3,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 1910,
+      "issues": [],
+      "width": 1920
+    },
+    {
+      "chapter": "pat4",
+      "diagrams": [
+        {
+          "edges": 3,
+          "id": "u-proxy",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-decorator",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-adapter",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-facade",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-bridge",
+          "nodes": 6,
+          "truncated": 0
+        },
+        {
+          "edges": 3,
+          "id": "u-composite",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-flyweight",
+          "nodes": 3,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 1910,
+      "issues": [],
+      "width": 1920
+    },
+    {
+      "chapter": "pat5",
+      "diagrams": [
+        {
+          "edges": 4,
+          "id": "u-strategy",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-observer",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-chain",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-template-method",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-state",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-command",
+          "nodes": 5,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 1910,
+      "issues": [],
+      "width": 1920
+    },
+    {
+      "chapter": "pat6",
+      "diagrams": [
+        {
+          "edges": 4,
+          "id": "u-iterator",
+          "nodes": 4,
+          "truncated": 0
+        },
+        {
+          "edges": 1,
+          "id": "u-mediator",
+          "nodes": 2,
+          "truncated": 0
+        },
+        {
+          "edges": 2,
+          "id": "u-memento",
+          "nodes": 3,
+          "truncated": 0
+        },
+        {
+          "edges": 4,
+          "id": "u-visitor",
+          "nodes": 5,
+          "truncated": 0
+        },
+        {
+          "edges": 5,
+          "id": "u-interpreter",
+          "nodes": 5,
+          "truncated": 0
+        }
+      ],
+      "docWidth": 1910,
+      "issues": [],
+      "width": 1920
+    }
+  ],
+  "dialogs": [
+    {
+      "buttons": false,
+      "id": "u-class-basics",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-relations",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-singleton",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-simple-factory",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-factory-method",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-abstract-factory",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-builder",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-prototype",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-proxy",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-decorator",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-adapter",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-facade",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-bridge",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-composite",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-flyweight",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-strategy",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-observer",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-chain",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-template-method",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-state",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-command",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-iterator",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-mediator",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-memento",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-visitor",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    },
+    {
+      "buttons": false,
+      "id": "u-interpreter",
+      "open": true,
+      "overflow": false,
+      "svg": true
+    }
+  ]
+}

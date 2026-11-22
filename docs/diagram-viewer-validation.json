@@ -1,0 +1,2520 @@
+{
+  "date": "2026-11-15",
+  "checks": [
+    "Default SVG at least 10% larger than inline",
+    "Default smallest SVG text at least 16 CSS pixels",
+    "Dialog and toolbar stay within viewport",
+    "Fit mode shows whole SVG without overflow"
+  ],
+  "controls": {
+    "zoomBefore": 1219.046875,
+    "zoomAfter": 1523.796875,
+    "zoomBack": 1219.046875,
+    "escapeCloses": true,
+    "focusRestored": true
+  },
+  "results": [
+    {
+      "route": "redis/ch01",
+      "id": "d-redis5",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.88139534883721,
+      "scale": "227%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "redis/ch02",
+      "id": "d-eventloop",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.046341463414635,
+      "scale": "239%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "redis/ch07",
+      "id": "d-sentinel",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.660975609756097,
+      "scale": "239%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch02",
+      "id": "d-oop",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.6725,
+      "scale": "244%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch03",
+      "id": "d-stringpool",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 26.7282656786237,
+      "scale": "255%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch04",
+      "id": "d-exception",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.931818181818183,
+      "scale": "247%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch07",
+      "id": "d-collection",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 24.10960829268293,
+      "scale": "239%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch08",
+      "id": "d-hashmap",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.6725,
+      "scale": "244%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch09",
+      "id": "d-io-decorator",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.27515801423259,
+      "scale": "222%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch10",
+      "id": "d-jmm",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.6725,
+      "scale": "244%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "datastructure/ch01",
+      "id": "d-complexity",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.046341463414635,
+      "scale": "239%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "datastructure/ch03",
+      "id": "d-tree-heap",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 24.45,
+      "scale": "233%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "network/ch01",
+      "id": "d-osi",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.88139534883721,
+      "scale": "227%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "network/ch02",
+      "id": "d-http-flow",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.338636363636365,
+      "scale": "222%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "network/ch03",
+      "id": "d-tcp-handshake",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.88139534883721,
+      "scale": "227%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "os/ch02",
+      "id": "d-process-state",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.6725,
+      "scale": "244%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "os/ch04",
+      "id": "d-vm-page",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.88139534883721,
+      "scale": "227%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "javahistory/ch01",
+      "id": "d-java-history",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.82,
+      "scale": "217%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "javaweb/ch01",
+      "id": "d-servlet-flow",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.338636363636365,
+      "scale": "222%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "cloud/ch02",
+      "id": "d-microservice",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 21.115909090909092,
+      "scale": "222%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "frontier/ch01",
+      "id": "d-blockchain",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.338636363636365,
+      "scale": "222%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "jvm/ch01",
+      "id": "d-jvmarch",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 24.45,
+      "scale": "233%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "jvm/ch01",
+      "id": "d-parent-delegate",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 26.545714285714286,
+      "scale": "279%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "jvm/ch02",
+      "id": "d-heap-generational",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.2275,
+      "scale": "244%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "spring/ch01",
+      "id": "d-ioc",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.046341463414635,
+      "scale": "239%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "spring/ch02",
+      "id": "d-beanlife",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.338636363636365,
+      "scale": "222%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "spring/ch03",
+      "id": "d-circular",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.64734824390244,
+      "scale": "239%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "spring/ch06",
+      "id": "d-mvc",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.338636363636365,
+      "scale": "222%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "spring/ch08",
+      "id": "d-mybatis",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.15445321307779,
+      "scale": "221%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "mysql/ch01",
+      "id": "d-mysqlarch",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.61428571428571,
+      "scale": "233%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "mysql/ch02",
+      "id": "d-bptree",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.046341463414635,
+      "scale": "239%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "mq/ch02",
+      "id": "d-rabbit-route",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.88139534883721,
+      "scale": "227%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "mq/ch03",
+      "id": "d-kafka-arch",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.88139534883721,
+      "scale": "227%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "linux/ch02",
+      "id": "d-pipeline",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.338636363636365,
+      "scale": "222%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat2",
+      "id": "u-class-basics",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat2",
+      "id": "u-relations",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-singleton",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-simple-factory",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-factory-method",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-abstract-factory",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-builder",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-prototype",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-proxy",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-decorator",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-adapter",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-facade",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-bridge",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-composite",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-flyweight",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-strategy",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-observer",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-chain",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-template-method",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-state",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-command",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat6",
+      "id": "u-iterator",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat6",
+      "id": "u-mediator",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat6",
+      "id": "u-memento",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat6",
+      "id": "u-visitor",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat6",
+      "id": "u-interpreter",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.305263157894736,
+      "scale": "172%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r01",
+      "id": "d-reverse-overview",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.88139534883721,
+      "scale": "227%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r02",
+      "id": "d-stack-frame",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 25.046341463414635,
+      "scale": "239%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r03",
+      "id": "d-pe-structure",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.82,
+      "scale": "217%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r06",
+      "id": "d-pvz-memory",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.88139534883721,
+      "scale": "227%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r07",
+      "id": "d-esp-pipeline",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.82,
+      "scale": "217%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r09",
+      "id": "d-apk-structure",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.338636363636365,
+      "scale": "222%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r10",
+      "id": "d-android-stack",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 22.083870967741937,
+      "scale": "210%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r15",
+      "id": "d-scam-chain",
+      "width": 2048,
+      "inline": 1337.671875,
+      "dialogFits": true,
+      "minText": 23.338636363636365,
+      "scale": "222%",
+      "svgWidth": 1956,
+      "toolbarFits": true,
+      "fit": {
+        "height": 840,
+        "scrollHeight": 840,
+        "scrollWidth": 2004,
+        "width": 2004
+      },
+      "passed": true
+    },
+    {
+      "route": "redis/ch01",
+      "id": "d-redis5",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999909156976743,
+      "scale": "152%",
+      "svgWidth": 1310.46875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "redis/ch02",
+      "id": "d-eventloop",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999895198170732,
+      "scale": "152%",
+      "svgWidth": 1249.515625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "redis/ch07",
+      "id": "d-sentinel",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.99993330792683,
+      "scale": "168%",
+      "svgWidth": 1381.046875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch02",
+      "id": "d-oop",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999990234375,
+      "scale": "152%",
+      "svgWidth": 1219.046875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch03",
+      "id": "d-stringpool",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999936454810712,
+      "scale": "152%",
+      "svgWidth": 1170.890625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch04",
+      "id": "d-exception",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999822443181818,
+      "scale": "152%",
+      "svgWidth": 1206.84375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch07",
+      "id": "d-collection",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999852419969512,
+      "scale": "158%",
+      "svgWidth": 1298.046875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch08",
+      "id": "d-hashmap",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999990234375,
+      "scale": "152%",
+      "svgWidth": 1219.046875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch09",
+      "id": "d-io-decorator",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999997786576444,
+      "scale": "152%",
+      "svgWidth": 1344.609375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch10",
+      "id": "d-jmm",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999990234375,
+      "scale": "152%",
+      "svgWidth": 1219.046875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "datastructure/ch01",
+      "id": "d-complexity",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999895198170732,
+      "scale": "152%",
+      "svgWidth": 1249.515625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "datastructure/ch03",
+      "id": "d-tree-heap",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 16,
+      "scale": "152%",
+      "svgWidth": 1280,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "network/ch01",
+      "id": "d-osi",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999909156976743,
+      "scale": "152%",
+      "svgWidth": 1310.46875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "network/ch02",
+      "id": "d-http-flow",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999822443181818,
+      "scale": "152%",
+      "svgWidth": 1340.9375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "network/ch03",
+      "id": "d-tcp-handshake",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999909156976743,
+      "scale": "152%",
+      "svgWidth": 1310.46875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "os/ch02",
+      "id": "d-process-state",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999990234375,
+      "scale": "152%",
+      "svgWidth": 1219.046875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "os/ch04",
+      "id": "d-vm-page",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999909156976743,
+      "scale": "152%",
+      "svgWidth": 1310.46875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "javahistory/ch01",
+      "id": "d-java-history",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999921875,
+      "scale": "152%",
+      "svgWidth": 1371.421875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "javaweb/ch01",
+      "id": "d-servlet-flow",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999822443181818,
+      "scale": "152%",
+      "svgWidth": 1340.9375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "cloud/ch02",
+      "id": "d-microservice",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999875710227272,
+      "scale": "168%",
+      "svgWidth": 1482.09375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "frontier/ch01",
+      "id": "d-blockchain",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999822443181818,
+      "scale": "152%",
+      "svgWidth": 1340.9375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "jvm/ch01",
+      "id": "d-jvmarch",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 16,
+      "scale": "152%",
+      "svgWidth": 1280,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "jvm/ch01",
+      "id": "d-parent-delegate",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999866071428572,
+      "scale": "168%",
+      "svgWidth": 1178.9375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "jvm/ch02",
+      "id": "d-heap-generational",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999892578125,
+      "scale": "168%",
+      "svgWidth": 1347.359375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "spring/ch01",
+      "id": "d-ioc",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999895198170732,
+      "scale": "152%",
+      "svgWidth": 1249.515625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "spring/ch02",
+      "id": "d-beanlife",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999822443181818,
+      "scale": "152%",
+      "svgWidth": 1340.9375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "spring/ch03",
+      "id": "d-circular",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999904769817071,
+      "scale": "161%",
+      "svgWidth": 1323.65625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "spring/ch06",
+      "id": "d-mvc",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999822443181818,
+      "scale": "152%",
+      "svgWidth": 1340.9375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "spring/ch08",
+      "id": "d-mybatis",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999885498872604,
+      "scale": "152%",
+      "svgWidth": 1351.609375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "mysql/ch01",
+      "id": "d-mysqlarch",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999925595238096,
+      "scale": "145%",
+      "svgWidth": 1221.8125,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "mysql/ch02",
+      "id": "d-bptree",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999895198170732,
+      "scale": "152%",
+      "svgWidth": 1249.515625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "mq/ch02",
+      "id": "d-rabbit-route",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999909156976743,
+      "scale": "152%",
+      "svgWidth": 1310.46875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "mq/ch03",
+      "id": "d-kafka-arch",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999909156976743,
+      "scale": "152%",
+      "svgWidth": 1310.46875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "linux/ch02",
+      "id": "d-pipeline",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999822443181818,
+      "scale": "152%",
+      "svgWidth": 1340.9375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat2",
+      "id": "u-class-basics",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat2",
+      "id": "u-relations",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-singleton",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-simple-factory",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-factory-method",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-abstract-factory",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-builder",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat3",
+      "id": "u-prototype",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-proxy",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-decorator",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-adapter",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-facade",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-bridge",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-composite",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat4",
+      "id": "u-flyweight",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-strategy",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-observer",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-chain",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-template-method",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-state",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat5",
+      "id": "u-command",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat6",
+      "id": "u-iterator",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat6",
+      "id": "u-mediator",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat6",
+      "id": "u-memento",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat6",
+      "id": "u-visitor",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat6",
+      "id": "u-interpreter",
+      "width": 390,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r01",
+      "id": "d-reverse-overview",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999909156976743,
+      "scale": "152%",
+      "svgWidth": 1310.46875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r02",
+      "id": "d-stack-frame",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999895198170732,
+      "scale": "152%",
+      "svgWidth": 1249.515625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r03",
+      "id": "d-pe-structure",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999921875,
+      "scale": "152%",
+      "svgWidth": 1371.421875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r06",
+      "id": "d-pvz-memory",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999909156976743,
+      "scale": "152%",
+      "svgWidth": 1310.46875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r07",
+      "id": "d-esp-pipeline",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999921875,
+      "scale": "152%",
+      "svgWidth": 1371.421875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r09",
+      "id": "d-apk-structure",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999822443181818,
+      "scale": "152%",
+      "svgWidth": 1340.9375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r10",
+      "id": "d-android-stack",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999974798387097,
+      "scale": "152%",
+      "svgWidth": 1417.140625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 599,
+        "scrollHeight": 599,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "reverse/r15",
+      "id": "d-scam-chain",
+      "width": 390,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999822443181818,
+      "scale": "152%",
+      "svgWidth": 1340.9375,
+      "toolbarFits": true,
+      "fit": {
+        "height": 613,
+        "scrollHeight": 613,
+        "scrollWidth": 346,
+        "width": 346
+      },
+      "passed": true
+    },
+    {
+      "route": "javase/ch08",
+      "id": "d-hashmap",
+      "width": 320,
+      "inline": 700,
+      "dialogFits": true,
+      "minText": 15.999990234375,
+      "scale": "152%",
+      "svgWidth": 1219.046875,
+      "toolbarFits": true,
+      "fit": {
+        "height": 323,
+        "scrollHeight": 323,
+        "scrollWidth": 276,
+        "width": 276
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat2",
+      "id": "u-class-basics",
+      "width": 320,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 323,
+        "scrollHeight": 323,
+        "scrollWidth": 276,
+        "width": 276
+      },
+      "passed": true
+    },
+    {
+      "route": "patterns/pat2",
+      "id": "u-relations",
+      "width": 320,
+      "inline": 980,
+      "dialogFits": true,
+      "minText": 15.99983552631579,
+      "scale": "123%",
+      "svgWidth": 1403.0625,
+      "toolbarFits": true,
+      "fit": {
+        "height": 323,
+        "scrollHeight": 323,
+        "scrollWidth": 276,
+        "width": 276
+      },
+      "passed": true
+    }
+  ]
+}

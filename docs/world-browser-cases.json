@@ -1,0 +1,220 @@
+[
+  {
+    "id": "w01",
+    "title": "从电梯到恒温箱：代码怎样改变物理世界",
+    "model": "control",
+    "defaults": {
+      "target": 22,
+      "gain": 0.35,
+      "delay": 0
+    },
+    "expected": {
+      "finalTemperature": 20.83,
+      "target": 22,
+      "samples": 16
+    }
+  },
+  {
+    "id": "w02",
+    "title": "一个回车与一次心跳：医疗设备如何执行命令",
+    "model": "pacer",
+    "defaults": {
+      "interval": 4,
+      "confirmed": true,
+      "sensing": true
+    },
+    "expected": {
+      "accepted": true,
+      "interval": 4,
+      "pulses": 3,
+      "unit": "virtual ticks"
+    }
+  },
+  {
+    "id": "w03",
+    "title": "Therac-25 的警示：竞态、互锁与系统责任",
+    "model": "interlock",
+    "defaults": {
+      "protected": true
+    },
+    "expected": {
+      "protectedMode": true,
+      "blocked": 1,
+      "unsafeStarts": 0
+    }
+  },
+  {
+    "id": "w04",
+    "title": "千年虫与 2038：时间为什么会欺骗程序",
+    "model": "calendar",
+    "defaults": {
+      "start": 1999,
+      "end": 2000,
+      "bits": 32
+    },
+    "expected": {
+      "naive": -99,
+      "correct": 1,
+      "bits": 32,
+      "limit": 2147483647,
+      "wrapped": -2147483648
+    }
+  },
+  {
+    "id": "w05",
+    "title": "阿丽亚娜 501：一个转换如何穿透多层防线",
+    "model": "overflow",
+    "defaults": {
+      "value": 40000,
+      "sameBackup": true
+    },
+    "expected": {
+      "integer": 40000,
+      "inRange": false,
+      "commonModeFailure": true
+    }
+  },
+  {
+    "id": "w06",
+    "title": "火星气候轨道器：单位错误怎样变成航迹偏差",
+    "model": "units",
+    "defaults": {
+      "impulse": 10,
+      "mass": 500,
+      "coast": 10000
+    },
+    "expected": {
+      "impulseNs": 44.482216152605,
+      "trueDeltaV": 0.08896443230520999,
+      "mistakenDeltaV": 0.02,
+      "positionErrorMetres": 689.6443230520999
+    }
+  },
+  {
+    "id": "w07",
+    "title": "时间差一点，位置差很远：长期运行的数值误差",
+    "model": "clock",
+    "defaults": {
+      "hours": 100,
+      "fractionBits": 23
+    },
+    "expected": {
+      "storedTenth": 0.09999990463256836,
+      "errorPerTick": 9.536743164617612e-8,
+      "driftSeconds": 0.343322753926234,
+      "model": "fixed point truncation"
+    }
+  },
+  {
+    "id": "w08",
+    "title": "阿波罗报警与航空控制：来不及算比算错更隐蔽",
+    "model": "scheduler",
+    "defaults": {
+      "extra": 3,
+      "priority": true
+    },
+    "expected": {
+      "priority": true,
+      "guidanceExecuted": true,
+      "used": 6,
+      "budget": 6
+    }
+  },
+  {
+    "id": "w09",
+    "title": "隔着光速写程序：深空通信与自主探测",
+    "model": "link",
+    "defaults": {
+      "distance": 225000000,
+      "wait": 5,
+      "deduplicate": true
+    },
+    "expected": {
+      "oneWaySeconds": 750.5192141958421,
+      "roundTripSeconds": 1501.0384283916842,
+      "retrySent": true,
+      "executions": 1
+    }
+  },
+  {
+    "id": "w10",
+    "title": "宇宙射线会改写代码吗：位翻转与纠错",
+    "model": "radiation",
+    "defaults": {
+      "flips": 1,
+      "protected": true
+    },
+    "expected": {
+      "received": "0100011",
+      "syndrome": 3,
+      "decoded": "1011",
+      "matches": true,
+      "guaranteed": true
+    }
+  },
+  {
+    "id": "w11",
+    "title": "寻找另一颗地球：数据、概率与生命迹象",
+    "model": "transit",
+    "defaults": {
+      "ratio": 0.1,
+      "noise": 0.002,
+      "baseRate": 0.01
+    },
+    "expected": {
+      "depth": 0.010000000000000002,
+      "samples": 48,
+      "illustrativePosterior": 0.4761904761904762,
+      "conclusion": "candidate, not life detection"
+    }
+  },
+  {
+    "id": "w12",
+    "title": "宇宙来电还是微波炉：SETI 与频谱推理",
+    "model": "spectrum",
+    "defaults": {
+      "bin": 5,
+      "noise": 0.3,
+      "terrestrial": true
+    },
+    "expected": {
+      "peak": 5,
+      "syntheticOrigin": "terrestrial test transmitter",
+      "evidenceOfAliens": false
+    }
+  },
+  {
+    "id": "w13",
+    "title": "如果人类灭绝：宇宙会遗忘编程吗",
+    "model": "archive",
+    "defaults": {
+      "specification": true,
+      "flipped": false
+    },
+    "expected": {
+      "bytesSurvive": true,
+      "interpretableInModel": true,
+      "outputs": [
+        5
+      ],
+      "expected": 5,
+      "correct": true
+    }
+  },
+  {
+    "id": "w14",
+    "title": "造一艘教学探测器：把知识变成工程证据",
+    "model": "mission",
+    "defaults": {
+      "validUnit": true,
+      "freshness": true,
+      "maxAge": 3
+    },
+    "expected": {
+      "unsafeStaleMoves": 0,
+      "holds": 1,
+      "validUnit": true,
+      "checkFreshness": true
+    }
+  }
+]

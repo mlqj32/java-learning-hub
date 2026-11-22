@@ -1,0 +1,548 @@
+[
+  {
+    "id": "w01",
+    "model": "control",
+    "title": "从电梯到恒温箱：代码怎样改变物理世界",
+    "minutes": 90,
+    "defaults": {
+      "target": 22,
+      "gain": 0.35,
+      "delay": 0
+    },
+    "fields": [
+      {
+        "key": "target",
+        "label": "目标温度 / °C",
+        "hint": "18～30"
+      },
+      {
+        "key": "gain",
+        "label": "控制增益",
+        "hint": "0～3"
+      },
+      {
+        "key": "delay",
+        "label": "感知延迟 / 采样",
+        "hint": "0～3，整数"
+      }
+    ],
+    "xLabel": "采样序号",
+    "yLabel": "温度 / °C",
+    "actual": "实际温度",
+    "reference": "目标温度",
+    "task": "把增益改成 3、延迟改成 3，比较曲线和超调；再恢复 0.35 与 0。",
+    "answer": "功率被限制在 −4～4。延迟反馈与高增益可造成超调；纯比例控制在散热模型下存在稳态偏差。最终值相近不等于整段响应相同。",
+    "points": [
+      "嵌入式计算机与启动",
+      "裸机、RTOS 与中断",
+      "闭环反馈与物理输出"
+    ],
+    "extraLabs": [
+      {
+        "id": "w01-boot",
+        "chapterId": "w01",
+        "model": "boot",
+        "title": "没有操作系统，程序怎样从上电跑起来",
+        "defaults": {
+          "rtos": false,
+          "interrupts": true,
+          "validImage": true,
+          "ticks": 3
+        },
+        "fields": [
+          {
+            "key": "rtos",
+            "label": "使用实时操作系统调度",
+            "hint": "boolean"
+          },
+          {
+            "key": "interrupts",
+            "label": "服务注入的外部中断",
+            "hint": "boolean"
+          },
+          {
+            "key": "validImage",
+            "label": "教学镜像通过启动检查",
+            "hint": "boolean"
+          },
+          {
+            "key": "ticks",
+            "label": "主流程采样轮数",
+            "hint": "1～6，整数"
+          }
+        ],
+        "xLabel": "语义检查点",
+        "yLabel": "启动、测量与输出分阶段显示",
+        "actual": "当前阶段",
+        "reference": "无",
+        "task": "比较裸机与 RTOS 的启动路径；保持中断开启时两者均能服务第二轮事件。关闭中断后观察待处理事件，最后模拟镜像拒绝。",
+        "answer": "裸机与 RTOS 都由 CPU 执行；RTOS 增加任务调度。默认 3 轮最终输出寄存器为 1，中断服务 1 次。关闭中断保留待处理事件，但主流程仍运行。无效镜像在本模型中被拒绝，不进入应用。"
+      }
+    ]
+  },
+  {
+    "id": "w02",
+    "model": "pacer",
+    "title": "一个回车与一次心跳：医疗设备如何执行命令",
+    "minutes": 55,
+    "defaults": {
+      "interval": 4,
+      "confirmed": true,
+      "sensing": true
+    },
+    "fields": [
+      {
+        "key": "interval",
+        "label": "请求间隔 / 虚拟节拍",
+        "hint": "1～12，整数；接受范围 3～8"
+      },
+      {
+        "key": "confirmed",
+        "label": "确认参数事务",
+        "hint": "boolean"
+      },
+      {
+        "key": "sensing",
+        "label": "感知自身事件",
+        "hint": "boolean"
+      }
+    ],
+    "xLabel": "事件序号",
+    "yLabel": "事件幅度 / 示意",
+    "actual": "脉冲或感知",
+    "reference": "无",
+    "task": "关闭确认，再请求 1；检查保留间隔 6。开启确认、间隔 4，比较感知开关前后的脉冲数。",
+    "answer": "默认已提交间隔 4、24 节拍、感知开启得到 3 个虚拟脉冲；关闭感知得到 6 个。请求 1 或未确认时保留旧间隔 6，accepted=false。时间单位不可用于临床。",
+    "points": [
+      "命令提交链",
+      "参数事务",
+      "起搏状态机"
+    ]
+  },
+  {
+    "id": "w03",
+    "model": "interlock",
+    "title": "Therac-25 的警示：竞态、互锁与系统责任",
+    "minutes": 55,
+    "defaults": {
+      "protected": true
+    },
+    "fields": [
+      {
+        "key": "protected",
+        "label": "版本检查与硬件互锁",
+        "hint": "boolean"
+      }
+    ],
+    "xLabel": "事件序号",
+    "yLabel": "启动状态 / 示意",
+    "actual": "本次结果",
+    "reference": "无",
+    "task": "关闭互锁复现一次不安全启动，再开启。解释第二次编辑为何让第一次验证失效。",
+    "answer": "保护关闭时 unsafeStarts=1；开启时第一次启动被阻止，blocked=1、unsafeStarts=0。验证必须绑定当前版本，且实际装置已就绪。",
+    "points": [
+      "竞态与版本",
+      "独立互锁",
+      "系统安全"
+    ]
+  },
+  {
+    "id": "w04",
+    "model": "calendar",
+    "title": "千年虫与 2038：时间为什么会欺骗程序",
+    "minutes": 55,
+    "defaults": {
+      "start": 1999,
+      "end": 2000,
+      "bits": 32
+    },
+    "fields": [
+      {
+        "key": "start",
+        "label": "开始年份",
+        "hint": "1900～2199，整数"
+      },
+      {
+        "key": "end",
+        "label": "结束年份",
+        "hint": "不早于开始；跨度 ≤110"
+      },
+      {
+        "key": "bits",
+        "label": "有符号位宽",
+        "hint": "8 或 32"
+      }
+    ],
+    "xLabel": "计算检查点",
+    "yLabel": "数值 / 分步比较",
+    "actual": "当前计算值",
+    "reference": "对照值（若有）",
+    "task": "比较 1999→2000 与 2001→2002；再用 8 位与 32 位检查回绕。",
+    "answer": "1999→2000 的 naive=−99，correct=1。8 位 127→−128；32 位 2147483647→−2147483648。两位年份丢失语义与固定位宽回绕是不同问题。",
+    "points": [
+      "年份语义",
+      "2038 边界",
+      "时间尺度"
+    ]
+  },
+  {
+    "id": "w05",
+    "model": "overflow",
+    "title": "阿丽亚娜 501：一个转换如何穿透多层防线",
+    "minutes": 55,
+    "defaults": {
+      "value": 40000,
+      "sameBackup": true
+    },
+    "fields": [
+      {
+        "key": "value",
+        "label": "待转换数值",
+        "hint": "−1000000～1000000"
+      },
+      {
+        "key": "sameBackup",
+        "label": "备用通道采用相同实现",
+        "hint": "boolean"
+      }
+    ],
+    "xLabel": "检查点",
+    "yLabel": "数值 / 分步比较",
+    "actual": "转换或有效性",
+    "reference": "无",
+    "task": "依次输入 32767、32768、−32768、−32769，再切换独立校验通道。",
+    "answer": "32767、−32768 可表示，32768、−32769 越界。默认 40000 与相同副本产生共因失效；独立校验只隔离无效，未恢复真实导航。本例使用教学向零截断。",
+    "points": [
+      "类型范围",
+      "共因失效",
+      "故障隔离"
+    ]
+  },
+  {
+    "id": "w06",
+    "model": "units",
+    "title": "火星气候轨道器：单位错误怎样变成航迹偏差",
+    "minutes": 55,
+    "defaults": {
+      "impulse": 10,
+      "mass": 500,
+      "coast": 10000
+    },
+    "fields": [
+      {
+        "key": "impulse",
+        "label": "冲量 / lbf·s",
+        "hint": "0～100"
+      },
+      {
+        "key": "mass",
+        "label": "质量 / kg",
+        "hint": "100～2000"
+      },
+      {
+        "key": "coast",
+        "label": "漂移时长 / s",
+        "hint": "1～100000"
+      }
+    ],
+    "xLabel": "采样序号（时间见状态）",
+    "yLabel": "一维位置 / m",
+    "actual": "正确单位位置",
+    "reference": "误读单位预测",
+    "task": "冲量保持 10，质量从 500 改为 1000，再把时长加倍；预测误差如何变化？",
+    "answer": "默认正确 Δv≈0.0889644323 m/s，误读值 0.02 m/s，10000 s 后差≈689.644323 m。质量加倍误差减半；漂移时间加倍误差加倍。仅限一次冲量后一维匀速模型。",
+    "points": [
+      "冲量与单位",
+      "接口契约",
+      "轨迹误差"
+    ]
+  },
+  {
+    "id": "w07",
+    "model": "clock",
+    "title": "时间差一点，位置差很远：长期运行的数值误差",
+    "minutes": 55,
+    "defaults": {
+      "hours": 100,
+      "fractionBits": 23
+    },
+    "fields": [
+      {
+        "key": "hours",
+        "label": "连续运行 / 小时",
+        "hint": "0～200"
+      },
+      {
+        "key": "fractionBits",
+        "label": "定点小数位数",
+        "hint": "8～32，整数"
+      }
+    ],
+    "xLabel": "采样序号（小时见状态）",
+    "yLabel": "累计时间误差 / s",
+    "actual": "累计截断误差",
+    "reference": "无",
+    "task": "比较 10、100 小时；把小数位从 23 改为 24，观察误差而不要假设精确减半。",
+    "answer": "23 小数位、100 小时漂移≈0.343322754 s；10 小时约 0.0343322754 s。增加一位并不保证针对特定数误差恰好减半。",
+    "points": [
+      "定点截断",
+      "误差累积",
+      "长期运行"
+    ]
+  },
+  {
+    "id": "w08",
+    "model": "scheduler",
+    "title": "阿波罗报警与航空控制：来不及算比算错更隐蔽",
+    "minutes": 55,
+    "defaults": {
+      "extra": 3,
+      "priority": true
+    },
+    "fields": [
+      {
+        "key": "extra",
+        "label": "额外任务预算",
+        "hint": "0～10，整数"
+      },
+      {
+        "key": "priority",
+        "label": "关键任务优先",
+        "hint": "boolean"
+      }
+    ],
+    "xLabel": "任务序号",
+    "yLabel": "已用预算 / 单位",
+    "actual": "实际占用",
+    "reference": "总预算 6",
+    "task": "额外工作量为 3，比较优先级开关；再改为 0，解释为什么轻载下两种顺序都可成功。",
+    "answer": "预算 6，额外负载 3 时优先制导会完成关键任务，按到达顺序则不会。额外负载 0 时两者均完成。整任务准入模型没有实现 AGC、抢占与完整截止期分析。",
+    "points": [
+      "实时截止期",
+      "关键任务优先",
+      "航空系统"
+    ]
+  },
+  {
+    "id": "w09",
+    "model": "link",
+    "title": "隔着光速写程序：深空通信与自主探测",
+    "minutes": 55,
+    "defaults": {
+      "distance": 225000000,
+      "wait": 5,
+      "deduplicate": true
+    },
+    "fields": [
+      {
+        "key": "distance",
+        "label": "单程距离 / km",
+        "hint": "1000000～400000000"
+      },
+      {
+        "key": "wait",
+        "label": "重试等待 / 分钟",
+        "hint": "0.1～60"
+      },
+      {
+        "key": "deduplicate",
+        "label": "按命令号去重",
+        "hint": "boolean"
+      }
+    ],
+    "xLabel": "消息检查点",
+    "yLabel": "到达或确认时间 / s",
+    "actual": "消息时刻",
+    "reference": "首次确认往返时刻",
+    "task": "保持 5 分钟超时，关闭去重，再开启；把超时改为 30 分钟，观察是否提前重试。",
+    "answer": "默认单程约 750.519214 s、往返约 1501.038428 s。5 分钟提前重试，开启去重执行一次，关闭执行两次；30 分钟时不提前重试。超时不证明未执行。",
+    "points": [
+      "单程与往返光时",
+      "幂等重试",
+      "深空自治"
+    ]
+  },
+  {
+    "id": "w10",
+    "model": "radiation",
+    "title": "宇宙射线会改写代码吗：位翻转与纠错",
+    "minutes": 55,
+    "defaults": {
+      "flips": 1,
+      "protected": true
+    },
+    "fields": [
+      {
+        "key": "flips",
+        "label": "固定注入翻转位数",
+        "hint": "0、1 或 2"
+      },
+      {
+        "key": "protected",
+        "label": "执行 Hamming 单错纠正",
+        "hint": "boolean"
+      }
+    ],
+    "xLabel": "处理阶段",
+    "yLabel": "校验或结果 / 示意",
+    "actual": "本步数值",
+    "reference": "无",
+    "task": "逐一测试 0、1、2 位翻转。两位错误时为何不能把综合症当作可靠位置？",
+    "answer": "0/1 位翻转且纠错开启可恢复 1011；两位翻转位置 3 和 5 得综合症 6，按单错模型误纠。Hamming(7,4) 不能保证 SECDED。",
+    "points": [
+      "单粒子效应",
+      "Hamming 编码",
+      "纠错保证"
+    ]
+  },
+  {
+    "id": "w11",
+    "model": "transit",
+    "title": "寻找另一颗地球：数据、概率与生命迹象",
+    "minutes": 55,
+    "defaults": {
+      "ratio": 0.1,
+      "noise": 0.002,
+      "baseRate": 0.01
+    },
+    "fields": [
+      {
+        "key": "ratio",
+        "label": "行星 / 恒星半径比",
+        "hint": "0.01～0.2"
+      },
+      {
+        "key": "noise",
+        "label": "合成噪声幅度",
+        "hint": "0～0.02"
+      },
+      {
+        "key": "baseRate",
+        "label": "假设候选基础率",
+        "hint": "0＜值＜1；不是生命概率"
+      }
+    ],
+    "xLabel": "采样序号",
+    "yLabel": "归一化亮度",
+    "actual": "合成观测",
+    "reference": "恒星基线 1",
+    "task": "半径比从 0.1 改为 0.05；噪声不变，观察下降深度。基础率改为 0.001 再比较后验。",
+    "answer": "半径比 0.1 的深度 0.01，0.05 的深度 0.0025。假设基础率 0.01 时后验约 47.62%，0.001 时约 8.26%；它不是外星生命概率。",
+    "points": [
+      "凌日曲线",
+      "基础率与假阳性",
+      "生命迹象"
+    ]
+  },
+  {
+    "id": "w12",
+    "model": "spectrum",
+    "title": "宇宙来电还是微波炉：SETI 与频谱推理",
+    "minutes": 55,
+    "defaults": {
+      "bin": 5,
+      "noise": 0.3,
+      "terrestrial": true
+    },
+    "fields": [
+      {
+        "key": "bin",
+        "label": "合成信号频率格点",
+        "hint": "1～14，整数"
+      },
+      {
+        "key": "noise",
+        "label": "11 号格点干扰幅度",
+        "hint": "0～2"
+      },
+      {
+        "key": "terrestrial",
+        "label": "声明为地面测试源",
+        "hint": "boolean"
+      }
+    ],
+    "xLabel": "频率格点",
+    "yLabel": "归一化功率",
+    "actual": "DFT 功率",
+    "reference": "无",
+    "task": "把干扰幅度调到 2，观察峰值转移；只改变来源标签，验证频谱不会自动揭示来源。",
+    "answer": "目标格点 5、干扰 0.3 时主峰为 5；干扰 2 时主峰为 11。改变来源标签不改变频谱，evidenceOfAliens 始终 false。",
+    "points": [
+      "DFT 频谱",
+      "地面干扰",
+      "SETI 证据"
+    ]
+  },
+  {
+    "id": "w13",
+    "model": "archive",
+    "title": "如果人类灭绝：宇宙会遗忘编程吗",
+    "minutes": 65,
+    "defaults": {
+      "specification": true,
+      "flipped": false
+    },
+    "fields": [
+      {
+        "key": "specification",
+        "label": "接收者持有指令规格",
+        "hint": "boolean"
+      },
+      {
+        "key": "flipped",
+        "label": "翻转一个操作数位",
+        "hint": "boolean"
+      }
+    ],
+    "xLabel": "指令检查点",
+    "yLabel": "累加器数值",
+    "actual": "累加器",
+    "reference": "无",
+    "task": "先保留规格运行出 5，再翻转一个操作数观察 4；关闭规格，区分字节存在与可解释。",
+    "answer": "规格在且无损坏时输出 5，翻转操作数后输出 4，程序仍能执行。无规格时本模型接收者无法解释，但不能推出其他文明永不可能恢复。",
+    "points": [
+      "档案与解释器",
+      "旅行者金唱片",
+      "文明传承"
+    ]
+  },
+  {
+    "id": "w14",
+    "model": "mission",
+    "title": "造一艘教学探测器：把知识变成工程证据",
+    "minutes": 55,
+    "defaults": {
+      "validUnit": true,
+      "freshness": true,
+      "maxAge": 3
+    },
+    "fields": [
+      {
+        "key": "validUnit",
+        "label": "最后一帧单位有效",
+        "hint": "boolean"
+      },
+      {
+        "key": "freshness",
+        "label": "检查数据新鲜度",
+        "hint": "boolean"
+      },
+      {
+        "key": "maxAge",
+        "label": "最大年龄 / 虚拟单位",
+        "hint": "1～10"
+      }
+    ],
+    "xLabel": "记录序号",
+    "yLabel": "传感器数值 / 模型单位",
+    "actual": "原始测量",
+    "reference": "动作阈值 7",
+    "task": "关闭新鲜度检查复现陈旧数据触发 MOVE；恢复后检查 HOLD。再制造单位错误。",
+    "answer": "默认过时第三条为 HOLD，unsafeStaleMoves=0；关闭检查则为 MOVE，计数 1。第四条未知单位增加一次 HOLD。放宽 maxAge 到 8 改变了规则边界，需要任务依据。",
+    "points": [
+      "单位与新鲜度",
+      "故障反例",
+      "可复现证据"
+    ]
+  }
+]

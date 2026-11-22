@@ -1,0 +1,1202 @@
+{
+  "date": "2026-11-15",
+  "pages": [
+    {
+      "chapter": "redis/ch00",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "redis/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "redis/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "redis/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "redis/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "redis/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "redis/ch06",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "redis/ch07",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "redis/ch08",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javase/start01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javase/start02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javase/start03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javase/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "javase/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "javase/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 2
+    },
+    {
+      "chapter": "javase/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "javase/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javase/ch06",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javase/ch07",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "javase/ch08",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 2
+    },
+    {
+      "chapter": "javase/ch09",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "javase/ch10",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 3
+    },
+    {
+      "chapter": "javase/ch11",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "javase/ch12",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "datastructure/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "datastructure/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "datastructure/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 2
+    },
+    {
+      "chapter": "datastructure/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "datastructure/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "network/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 2
+    },
+    {
+      "chapter": "network/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "network/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "network/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "network/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "os/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "os/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "os/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "os/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "os/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javahistory/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "javahistory/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javahistory/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javahistory/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javahistory/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javaweb/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "javaweb/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javaweb/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javaweb/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javaweb/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "javaweb/ch06",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "cloud/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "cloud/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "cloud/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "cloud/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "cloud/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "cloud/ch06",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "frontier/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "frontier/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "frontier/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "frontier/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "frontier/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "jvm/ch00",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "jvm/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 3
+    },
+    {
+      "chapter": "jvm/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 2
+    },
+    {
+      "chapter": "jvm/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "jvm/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "jvm/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "jvm/ch06",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "jvm/ch07",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "spring/ch00",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "spring/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "spring/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "spring/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "spring/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "spring/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "spring/ch06",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "spring/ch07",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "spring/ch07a",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "spring/ch07b",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "spring/ch07c",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "spring/ch07d",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "spring/ch08",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "mysql/ch00",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "mysql/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "mysql/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 2
+    },
+    {
+      "chapter": "mysql/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "mysql/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "mysql/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "mysql/ch06",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "mysql/ch07",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "mysql/ch08",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "mq/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "mq/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "mq/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "mq/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "linux/ch00",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "linux/ch01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "linux/ch02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "linux/ch03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "linux/ch04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "linux/ch05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "patterns/pat1",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "patterns/pat2",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 2
+    },
+    {
+      "chapter": "patterns/pat3",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 6
+    },
+    {
+      "chapter": "patterns/pat4",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 7
+    },
+    {
+      "chapter": "patterns/pat5",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 6
+    },
+    {
+      "chapter": "patterns/pat6",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 5
+    },
+    {
+      "chapter": "patterns/pat7",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "reverse/r01",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "evidence",
+      "lazy": 1,
+      "media": 1
+    },
+    {
+      "chapter": "reverse/r02",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "assembly",
+      "lazy": 1,
+      "media": 1
+    },
+    {
+      "chapter": "reverse/r03",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "binary",
+      "lazy": 1,
+      "media": 2
+    },
+    {
+      "chapter": "reverse/r04",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "xref",
+      "lazy": 1,
+      "media": 0
+    },
+    {
+      "chapter": "reverse/r05",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "debug",
+      "lazy": 1,
+      "media": 0
+    },
+    {
+      "chapter": "reverse/r06",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": true,
+      "kind": "memory-scan",
+      "lazy": 0,
+      "media": 2
+    },
+    {
+      "chapter": "reverse/r07",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": true,
+      "kind": "esp-principle",
+      "lazy": 0,
+      "media": 2
+    },
+    {
+      "chapter": "reverse/r08",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": true,
+      "kind": "bytecode",
+      "lazy": 0,
+      "media": 1
+    },
+    {
+      "chapter": "reverse/r09",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "apk",
+      "lazy": 1,
+      "media": 2
+    },
+    {
+      "chapter": "reverse/r10",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "jni",
+      "lazy": 1,
+      "media": 1
+    },
+    {
+      "chapter": "reverse/r11",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "hook",
+      "lazy": 1,
+      "media": 0
+    },
+    {
+      "chapter": "reverse/r12",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "protocol",
+      "lazy": 1,
+      "media": 0
+    },
+    {
+      "chapter": "reverse/r13",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "xor",
+      "lazy": 1,
+      "media": 0
+    },
+    {
+      "chapter": "reverse/r14",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "triage",
+      "lazy": 1,
+      "media": 0
+    },
+    {
+      "chapter": "reverse/r15",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": true,
+      "kind": "scam-quiz",
+      "lazy": 0,
+      "media": 2
+    },
+    {
+      "chapter": "reverse/r16",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "bytecode",
+      "lazy": 1,
+      "media": 0
+    },
+    {
+      "chapter": "reverse/r17",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "binary",
+      "lazy": 1,
+      "media": 0
+    },
+    {
+      "chapter": "reverse/r18",
+      "canonical": 1,
+      "duplicates": [],
+      "errors": [],
+      "inline": false,
+      "kind": "protocol",
+      "lazy": 1,
+      "media": 0
+    },
+    {
+      "chapter": "engineering/e01",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "engineering/e02",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "engineering/e03",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "engineering/e04",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    },
+    {
+      "chapter": "engineering/e05",
+      "canonical": 0,
+      "duplicates": [],
+      "errors": [],
+      "lazy": 0,
+      "media": 0
+    }
+  ],
+  "openedLazyLabs": [
+    {
+      "chapter": "reverse/r01",
+      "children": 4,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r02",
+      "children": 5,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r03",
+      "children": 6,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r04",
+      "children": 5,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r05",
+      "children": 5,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r09",
+      "children": 5,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r10",
+      "children": 5,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r11",
+      "children": 5,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r12",
+      "children": 6,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r13",
+      "children": 5,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r14",
+      "children": 5,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r16",
+      "children": 5,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r17",
+      "children": 6,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    },
+    {
+      "chapter": "reverse/r18",
+      "children": 6,
+      "loaded": "1",
+      "open": true,
+      "stages": 1
+    }
+  ],
+  "quiz": {
+    "instances": 1,
+    "result": "训练结束 🎉 你的得分:8 / 8 —— 反诈体质满级!记住三句话:验证码不给、屏幕不共享、陌生账户不转账。"
+  },
+  "revisit": {
+    "canonical": 1,
+    "duplicates": [],
+    "errors": [],
+    "inline": true,
+    "kind": "scam-quiz",
+    "lazy": 0,
+    "media": 2
+  }
+}

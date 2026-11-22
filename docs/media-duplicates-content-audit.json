@@ -1,0 +1,1153 @@
+{
+  "chapters": 131,
+  "lessons": [
+    {
+      "chapter": "redis/ch00",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "redis/ch01",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-redis5"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "redis/ch02",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-eventloop"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "redis/ch03",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "redis/ch04",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "cache-3"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "redis/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "redis/ch06",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "redis-lock"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "redis/ch07",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-sentinel"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "redis/ch08",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/start01",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/start02",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/start03",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch01",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "sort-visual"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch02",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-oop"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch03",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-stringpool"
+        },
+        {
+          "type": "demo",
+          "id": "concat-bench"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch04",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-exception"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch06",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch07",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-collection"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch08",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "hashmap-put"
+        },
+        {
+          "type": "diagram",
+          "id": "d-hashmap"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch09",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-io-decorator"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch10",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "thread-life"
+        },
+        {
+          "type": "demo",
+          "id": "prodcons"
+        },
+        {
+          "type": "diagram",
+          "id": "d-jmm"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch11",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "threadpool"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javase/ch12",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "datastructure/ch01",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-complexity"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "datastructure/ch02",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "datastructure/ch03",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "bst-visual"
+        },
+        {
+          "type": "diagram",
+          "id": "d-tree-heap"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "datastructure/ch04",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "datastructure/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "network/ch01",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-osi"
+        },
+        {
+          "type": "demo",
+          "id": "http-flow"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "network/ch02",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-http-flow"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "network/ch03",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-tcp-handshake"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "network/ch04",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "network/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "os/ch01",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "os/ch02",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-process-state"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "os/ch03",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "process-schedule"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "os/ch04",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-vm-page"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "os/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javahistory/ch01",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-java-history"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javahistory/ch02",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javahistory/ch03",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javahistory/ch04",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javahistory/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javaweb/ch01",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-servlet-flow"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javaweb/ch02",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javaweb/ch03",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javaweb/ch04",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javaweb/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "javaweb/ch06",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "cloud/ch01",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "cloud/ch02",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-microservice"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "cloud/ch03",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "cloud/ch04",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "cloud/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "cloud/ch06",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "frontier/ch01",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-blockchain"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "frontier/ch02",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "frontier/ch03",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "frontier/ch04",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "model-picker"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "frontier/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "jvm/ch00",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "jvm/ch01",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "classload"
+        },
+        {
+          "type": "diagram",
+          "id": "d-jvmarch"
+        },
+        {
+          "type": "diagram",
+          "id": "d-parent-delegate"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "jvm/ch02",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "jvm-memory"
+        },
+        {
+          "type": "diagram",
+          "id": "d-heap-generational"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "jvm/ch03",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "jvm/ch04",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "gc-demo"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "jvm/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "jvm/ch06",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "jvm/ch07",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch00",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch01",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-ioc"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch02",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-beanlife"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch03",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-circular"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch04",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "aop-proxy"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch05",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "tx-rollback"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch06",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-mvc"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch07",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch07a",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch07b",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch07c",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch07d",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "spring/ch08",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-mybatis"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mysql/ch00",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mysql/ch01",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-mysqlarch"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mysql/ch02",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "bptree"
+        },
+        {
+          "type": "diagram",
+          "id": "d-bptree"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mysql/ch03",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mysql/ch04",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mysql/ch05",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "tx-isolation"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mysql/ch06",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "mvcc"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mysql/ch07",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mysql/ch08",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mq/ch01",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "mq-peak"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mq/ch02",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-rabbit-route"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mq/ch03",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-kafka-arch"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "mq/ch04",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "linux/ch00",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "linux/ch01",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "linux/ch02",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-pipeline"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "linux/ch03",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "linux/ch04",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "linux/ch05",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "patterns/pat1",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "patterns/pat2",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "u-class-basics"
+        },
+        {
+          "type": "diagram",
+          "id": "u-relations"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "patterns/pat3",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "u-singleton"
+        },
+        {
+          "type": "diagram",
+          "id": "u-simple-factory"
+        },
+        {
+          "type": "diagram",
+          "id": "u-factory-method"
+        },
+        {
+          "type": "diagram",
+          "id": "u-abstract-factory"
+        },
+        {
+          "type": "diagram",
+          "id": "u-builder"
+        },
+        {
+          "type": "diagram",
+          "id": "u-prototype"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "patterns/pat4",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "u-proxy"
+        },
+        {
+          "type": "diagram",
+          "id": "u-decorator"
+        },
+        {
+          "type": "diagram",
+          "id": "u-adapter"
+        },
+        {
+          "type": "diagram",
+          "id": "u-facade"
+        },
+        {
+          "type": "diagram",
+          "id": "u-bridge"
+        },
+        {
+          "type": "diagram",
+          "id": "u-composite"
+        },
+        {
+          "type": "diagram",
+          "id": "u-flyweight"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "patterns/pat5",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "u-strategy"
+        },
+        {
+          "type": "diagram",
+          "id": "u-observer"
+        },
+        {
+          "type": "diagram",
+          "id": "u-chain"
+        },
+        {
+          "type": "diagram",
+          "id": "u-template-method"
+        },
+        {
+          "type": "diagram",
+          "id": "u-state"
+        },
+        {
+          "type": "diagram",
+          "id": "u-command"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "patterns/pat6",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "u-iterator"
+        },
+        {
+          "type": "diagram",
+          "id": "u-mediator"
+        },
+        {
+          "type": "diagram",
+          "id": "u-memento"
+        },
+        {
+          "type": "diagram",
+          "id": "u-visitor"
+        },
+        {
+          "type": "diagram",
+          "id": "u-interpreter"
+        }
+      ],
+      "chapterLab": null
+    },
+    {
+      "chapter": "patterns/pat7",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "reverse/r01",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-reverse-overview"
+        }
+      ],
+      "chapterLab": {
+        "kind": "evidence",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r02",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-stack-frame"
+        }
+      ],
+      "chapterLab": {
+        "kind": "assembly",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r03",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-pe-structure"
+        },
+        {
+          "type": "demo",
+          "id": "pe-explorer"
+        }
+      ],
+      "chapterLab": {
+        "kind": "binary",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r04",
+      "refs": [],
+      "chapterLab": {
+        "kind": "xref",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r05",
+      "refs": [],
+      "chapterLab": {
+        "kind": "debug",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r06",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "memory-scan"
+        },
+        {
+          "type": "diagram",
+          "id": "d-pvz-memory"
+        }
+      ],
+      "chapterLab": {
+        "kind": "memory-scan",
+        "source": "existing lesson demo"
+      }
+    },
+    {
+      "chapter": "reverse/r07",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "esp-principle"
+        },
+        {
+          "type": "diagram",
+          "id": "d-esp-pipeline"
+        }
+      ],
+      "chapterLab": {
+        "kind": "esp-principle",
+        "source": "existing lesson demo"
+      }
+    },
+    {
+      "chapter": "reverse/r08",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "bytecode"
+        }
+      ],
+      "chapterLab": {
+        "kind": "bytecode",
+        "source": "existing lesson demo"
+      }
+    },
+    {
+      "chapter": "reverse/r09",
+      "refs": [
+        {
+          "type": "demo",
+          "id": "apk-unpack"
+        },
+        {
+          "type": "diagram",
+          "id": "d-apk-structure"
+        }
+      ],
+      "chapterLab": {
+        "kind": "apk",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r10",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-android-stack"
+        }
+      ],
+      "chapterLab": {
+        "kind": "jni",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r11",
+      "refs": [],
+      "chapterLab": {
+        "kind": "hook",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r12",
+      "refs": [],
+      "chapterLab": {
+        "kind": "protocol",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r13",
+      "refs": [],
+      "chapterLab": {
+        "kind": "xor",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r14",
+      "refs": [],
+      "chapterLab": {
+        "kind": "triage",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r15",
+      "refs": [
+        {
+          "type": "diagram",
+          "id": "d-scam-chain"
+        },
+        {
+          "type": "demo",
+          "id": "scam-quiz"
+        }
+      ],
+      "chapterLab": {
+        "kind": "scam-quiz",
+        "source": "existing lesson demo"
+      }
+    },
+    {
+      "chapter": "reverse/r16",
+      "refs": [],
+      "chapterLab": {
+        "kind": "bytecode",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r17",
+      "refs": [],
+      "chapterLab": {
+        "kind": "binary",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "reverse/r18",
+      "refs": [],
+      "chapterLab": {
+        "kind": "protocol",
+        "source": "lazy concept lab"
+      }
+    },
+    {
+      "chapter": "engineering/e01",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "engineering/e02",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "engineering/e03",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "engineering/e04",
+      "refs": [],
+      "chapterLab": null
+    },
+    {
+      "chapter": "engineering/e05",
+      "refs": [],
+      "chapterLab": null
+    }
+  ]
+}

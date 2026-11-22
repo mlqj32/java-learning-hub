@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-15",
+  "checks": [
+    {
+      "test": "pointer click opens explanation without scroll",
+      "before": 7745,
+      "after": 7745,
+      "expanded": "true"
+    },
+    {
+      "test": "pointer click closes explanation without scroll",
+      "before": 7745,
+      "after": 7745,
+      "closed": true
+    }
+  ]
+}

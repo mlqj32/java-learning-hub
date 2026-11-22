@@ -1,0 +1,201 @@
+[
+  {
+    "id": "w01",
+    "title": "从电梯到恒温箱：代码怎样改变物理世界",
+    "model": "control",
+    "changes": {
+      "gain": 3,
+      "delay": 3
+    },
+    "expected": {
+      "finalTemperature": 23.93,
+      "target": 22,
+      "samples": 16
+    }
+  },
+  {
+    "id": "w02",
+    "title": "一个回车与一次心跳：医疗设备如何执行命令",
+    "model": "pacer",
+    "changes": {
+      "sensing": false
+    },
+    "expected": {
+      "accepted": true,
+      "interval": 4,
+      "pulses": 6,
+      "unit": "virtual ticks"
+    }
+  },
+  {
+    "id": "w03",
+    "title": "Therac-25 的警示：竞态、互锁与系统责任",
+    "model": "interlock",
+    "changes": {
+      "protected": false
+    },
+    "expected": {
+      "protectedMode": false,
+      "blocked": 0,
+      "unsafeStarts": 1
+    }
+  },
+  {
+    "id": "w04",
+    "title": "千年虫与 2038：时间为什么会欺骗程序",
+    "model": "calendar",
+    "changes": {
+      "bits": 8
+    },
+    "expected": {
+      "naive": -99,
+      "correct": 1,
+      "bits": 8,
+      "limit": 127,
+      "wrapped": -128
+    }
+  },
+  {
+    "id": "w05",
+    "title": "阿丽亚娜 501：一个转换如何穿透多层防线",
+    "model": "overflow",
+    "changes": {
+      "value": 32767
+    },
+    "expected": {
+      "integer": 32767,
+      "inRange": true,
+      "commonModeFailure": false
+    }
+  },
+  {
+    "id": "w06",
+    "title": "火星气候轨道器：单位错误怎样变成航迹偏差",
+    "model": "units",
+    "changes": {
+      "mass": 1000
+    },
+    "expected": {
+      "impulseNs": 44.482216152605,
+      "trueDeltaV": 0.044482216152604996,
+      "mistakenDeltaV": 0.01,
+      "positionErrorMetres": 344.82216152604997
+    }
+  },
+  {
+    "id": "w07",
+    "title": "时间差一点，位置差很远：长期运行的数值误差",
+    "model": "clock",
+    "changes": {
+      "hours": 10
+    },
+    "expected": {
+      "storedTenth": 0.09999990463256836,
+      "errorPerTick": 9.536743164617612e-8,
+      "driftSeconds": 0.0343322753926234,
+      "model": "fixed point truncation"
+    }
+  },
+  {
+    "id": "w08",
+    "title": "阿波罗报警与航空控制：来不及算比算错更隐蔽",
+    "model": "scheduler",
+    "changes": {
+      "priority": false
+    },
+    "expected": {
+      "priority": false,
+      "guidanceExecuted": false,
+      "used": 5,
+      "budget": 6
+    }
+  },
+  {
+    "id": "w09",
+    "title": "隔着光速写程序：深空通信与自主探测",
+    "model": "link",
+    "changes": {
+      "deduplicate": false
+    },
+    "expected": {
+      "oneWaySeconds": 750.5192141958421,
+      "roundTripSeconds": 1501.0384283916842,
+      "retrySent": true,
+      "executions": 2
+    }
+  },
+  {
+    "id": "w10",
+    "title": "宇宙射线会改写代码吗：位翻转与纠错",
+    "model": "radiation",
+    "changes": {
+      "flips": 2
+    },
+    "expected": {
+      "received": "0100111",
+      "syndrome": 6,
+      "decoded": "0101",
+      "matches": false,
+      "guaranteed": false
+    }
+  },
+  {
+    "id": "w11",
+    "title": "寻找另一颗地球：数据、概率与生命迹象",
+    "model": "transit",
+    "changes": {
+      "ratio": 0.05,
+      "baseRate": 0.001
+    },
+    "expected": {
+      "depth": 0.0025000000000000005,
+      "samples": 48,
+      "illustrativePosterior": 0.08264462809917356,
+      "conclusion": "candidate, not life detection"
+    }
+  },
+  {
+    "id": "w12",
+    "title": "宇宙来电还是微波炉：SETI 与频谱推理",
+    "model": "spectrum",
+    "changes": {
+      "noise": 2
+    },
+    "expected": {
+      "peak": 11,
+      "syntheticOrigin": "terrestrial test transmitter",
+      "evidenceOfAliens": false
+    }
+  },
+  {
+    "id": "w13",
+    "title": "如果人类灭绝：宇宙会遗忘编程吗",
+    "model": "archive",
+    "changes": {
+      "flipped": true
+    },
+    "expected": {
+      "bytesSurvive": true,
+      "interpretableInModel": true,
+      "outputs": [
+        4
+      ],
+      "expected": 5,
+      "correct": false
+    }
+  },
+  {
+    "id": "w14",
+    "title": "造一艘教学探测器：把知识变成工程证据",
+    "model": "mission",
+    "changes": {
+      "freshness": false
+    },
+    "expected": {
+      "unsafeStaleMoves": 1,
+      "holds": 0,
+      "validUnit": true,
+      "checkFreshness": false
+    }
+  }
+]

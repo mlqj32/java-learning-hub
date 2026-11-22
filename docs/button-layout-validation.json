@@ -1,0 +1,3616 @@
+{
+  "date": "2026-11-15",
+  "priorCompleted": {
+    "catalog": {
+      "experiments": 46,
+      "widths": [
+        1440,
+        768,
+        390,
+        320
+      ],
+      "cases": 184,
+      "issues": 0
+    },
+    "chaptersDesktop": {
+      "chapters": 131,
+      "width": 1440,
+      "issues": 0
+    },
+    "playground": {
+      "languages": 5,
+      "widths": [
+        1440,
+        768,
+        390,
+        320
+      ],
+      "cases": 20,
+      "issues": 0
+    }
+  },
+  "chapters": [
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/start01",
+      "width": 768,
+      "controls": 14,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/start01",
+      "width": 390,
+      "controls": 14,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/start01",
+      "width": 320,
+      "controls": 14,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/start02",
+      "width": 768,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/start02",
+      "width": 390,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/start02",
+      "width": 320,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/start03",
+      "width": 768,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/start03",
+      "width": 390,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/start03",
+      "width": 320,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch01",
+      "width": 768,
+      "controls": 39,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch01",
+      "width": 390,
+      "controls": 39,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch01",
+      "width": 320,
+      "controls": 39,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch02",
+      "width": 768,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch02",
+      "width": 390,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch02",
+      "width": 320,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch03",
+      "width": 768,
+      "controls": 54,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch03",
+      "width": 390,
+      "controls": 54,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch03",
+      "width": 320,
+      "controls": 54,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch04",
+      "width": 768,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch04",
+      "width": 390,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch04",
+      "width": 320,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch05",
+      "width": 768,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch05",
+      "width": 390,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch05",
+      "width": 320,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch06",
+      "width": 768,
+      "controls": 40,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch06",
+      "width": 390,
+      "controls": 40,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch06",
+      "width": 320,
+      "controls": 40,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch07",
+      "width": 768,
+      "controls": 49,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch07",
+      "width": 390,
+      "controls": 49,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch07",
+      "width": 320,
+      "controls": 49,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch08",
+      "width": 768,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch08",
+      "width": 390,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch08",
+      "width": 320,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch09",
+      "width": 768,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch09",
+      "width": 390,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch09",
+      "width": 320,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch10",
+      "width": 768,
+      "controls": 55,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch10",
+      "width": 390,
+      "controls": 55,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch10",
+      "width": 320,
+      "controls": 55,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch11",
+      "width": 768,
+      "controls": 39,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch11",
+      "width": 390,
+      "controls": 39,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch11",
+      "width": 320,
+      "controls": 39,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch12",
+      "width": 768,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch12",
+      "width": 390,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase/ch12",
+      "width": 320,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e01",
+      "width": 768,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e01",
+      "width": 390,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e01",
+      "width": 320,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e02",
+      "width": 768,
+      "controls": 13,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e02",
+      "width": 390,
+      "controls": 13,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e02",
+      "width": 320,
+      "controls": 13,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e03",
+      "width": 768,
+      "controls": 8,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e03",
+      "width": 390,
+      "controls": 8,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e03",
+      "width": 320,
+      "controls": 8,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e04",
+      "width": 768,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e04",
+      "width": 390,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e04",
+      "width": 320,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e05",
+      "width": 768,
+      "controls": 14,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e05",
+      "width": 390,
+      "controls": 14,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering/e05",
+      "width": 320,
+      "controls": 14,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch01",
+      "width": 768,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch01",
+      "width": 390,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch01",
+      "width": 320,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch02",
+      "width": 768,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch02",
+      "width": 390,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch02",
+      "width": 320,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch03",
+      "width": 768,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch03",
+      "width": 390,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch03",
+      "width": 320,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch04",
+      "width": 768,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch04",
+      "width": 390,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch04",
+      "width": 320,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch05",
+      "width": 768,
+      "controls": 15,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch05",
+      "width": 390,
+      "controls": 15,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch05",
+      "width": 320,
+      "controls": 15,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch01",
+      "width": 768,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch01",
+      "width": 390,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch01",
+      "width": 320,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch02",
+      "width": 768,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch02",
+      "width": 390,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch02",
+      "width": 320,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch03",
+      "width": 768,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch03",
+      "width": 390,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch03",
+      "width": 320,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch04",
+      "width": 768,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch04",
+      "width": 390,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch04",
+      "width": 320,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch05",
+      "width": 768,
+      "controls": 29,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch05",
+      "width": 390,
+      "controls": 29,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure/ch05",
+      "width": 320,
+      "controls": 29,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch01",
+      "width": 768,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch02",
+      "width": 768,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch03",
+      "width": 768,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch04",
+      "width": 768,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch05",
+      "width": 768,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch01",
+      "width": 768,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch02",
+      "width": 768,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch03",
+      "width": 768,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch04",
+      "width": 768,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch05",
+      "width": 768,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch00",
+      "width": 768,
+      "controls": 30,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch01",
+      "width": 768,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch02",
+      "width": 768,
+      "controls": 32,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch03",
+      "width": 768,
+      "controls": 58,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch04",
+      "width": 768,
+      "controls": 55,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch05",
+      "width": 768,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch06",
+      "width": 768,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch07",
+      "width": 768,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch08",
+      "width": 768,
+      "controls": 49,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch01",
+      "width": 768,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch02",
+      "width": 768,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch03",
+      "width": 768,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch04",
+      "width": 768,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch05",
+      "width": 768,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch06",
+      "width": 768,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch00",
+      "width": 768,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch01",
+      "width": 768,
+      "controls": 42,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch02",
+      "width": 768,
+      "controls": 36,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch03",
+      "width": 768,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch04",
+      "width": 768,
+      "controls": 39,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch05",
+      "width": 768,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch06",
+      "width": 768,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch07",
+      "width": 768,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch00",
+      "width": 768,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch01",
+      "width": 768,
+      "controls": 37,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch02",
+      "width": 768,
+      "controls": 43,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch03",
+      "width": 768,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch04",
+      "width": 768,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch05",
+      "width": 768,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch06",
+      "width": 768,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07",
+      "width": 768,
+      "controls": 52,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07a",
+      "width": 768,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07b",
+      "width": 768,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07c",
+      "width": 768,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07d",
+      "width": 768,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch08",
+      "width": 768,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch00",
+      "width": 768,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch01",
+      "width": 768,
+      "controls": 37,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch02",
+      "width": 768,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch03",
+      "width": 768,
+      "controls": 12,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch04",
+      "width": 768,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch05",
+      "width": 768,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch06",
+      "width": 768,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch07",
+      "width": 768,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch08",
+      "width": 768,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch01",
+      "width": 768,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch02",
+      "width": 768,
+      "controls": 55,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch03",
+      "width": 768,
+      "controls": 32,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch04",
+      "width": 768,
+      "controls": 60,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch00",
+      "width": 768,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch01",
+      "width": 768,
+      "controls": 43,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch02",
+      "width": 768,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch03",
+      "width": 768,
+      "controls": 38,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch04",
+      "width": 768,
+      "controls": 44,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch05",
+      "width": 768,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch01",
+      "width": 768,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch02",
+      "width": 768,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch03",
+      "width": 768,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch04",
+      "width": 768,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch05",
+      "width": 768,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch06",
+      "width": 768,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat1",
+      "width": 768,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat2",
+      "width": 768,
+      "controls": 32,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat3",
+      "width": 768,
+      "controls": 69,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat4",
+      "width": 768,
+      "controls": 42,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat5",
+      "width": 768,
+      "controls": 60,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat6",
+      "width": 768,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat7",
+      "width": 768,
+      "controls": 15,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch01",
+      "width": 768,
+      "controls": 15,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch02",
+      "width": 768,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch03",
+      "width": 768,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch04",
+      "width": 768,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch05",
+      "width": 768,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r01",
+      "width": 768,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r02",
+      "width": 768,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r03",
+      "width": 768,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r04",
+      "width": 768,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r05",
+      "width": 768,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r06",
+      "width": 768,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r07",
+      "width": 768,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r08",
+      "width": 768,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r09",
+      "width": 768,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r10",
+      "width": 768,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r11",
+      "width": 768,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r12",
+      "width": 768,
+      "controls": 38,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r13",
+      "width": 768,
+      "controls": 36,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r14",
+      "width": 768,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r15",
+      "width": 768,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r16",
+      "width": 768,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r17",
+      "width": 768,
+      "controls": 29,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r18",
+      "width": 768,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch01",
+      "width": 390,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch02",
+      "width": 390,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch03",
+      "width": 390,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch04",
+      "width": 390,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch05",
+      "width": 390,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch01",
+      "width": 390,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch02",
+      "width": 390,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch03",
+      "width": 390,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch04",
+      "width": 390,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch05",
+      "width": 390,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch00",
+      "width": 390,
+      "controls": 30,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch01",
+      "width": 390,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch02",
+      "width": 390,
+      "controls": 32,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch03",
+      "width": 390,
+      "controls": 58,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch04",
+      "width": 390,
+      "controls": 55,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch05",
+      "width": 390,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch06",
+      "width": 390,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch07",
+      "width": 390,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch08",
+      "width": 390,
+      "controls": 49,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch01",
+      "width": 390,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch02",
+      "width": 390,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch03",
+      "width": 390,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch04",
+      "width": 390,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch05",
+      "width": 390,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch06",
+      "width": 390,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch00",
+      "width": 390,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch01",
+      "width": 390,
+      "controls": 42,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch02",
+      "width": 390,
+      "controls": 36,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch03",
+      "width": 390,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch04",
+      "width": 390,
+      "controls": 39,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch05",
+      "width": 390,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch06",
+      "width": 390,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch07",
+      "width": 390,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch00",
+      "width": 390,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch01",
+      "width": 390,
+      "controls": 37,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch02",
+      "width": 390,
+      "controls": 43,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch03",
+      "width": 390,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch04",
+      "width": 390,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch05",
+      "width": 390,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch06",
+      "width": 390,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07",
+      "width": 390,
+      "controls": 52,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07a",
+      "width": 390,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07b",
+      "width": 390,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07c",
+      "width": 390,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07d",
+      "width": 390,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch08",
+      "width": 390,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch00",
+      "width": 390,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch01",
+      "width": 390,
+      "controls": 37,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch02",
+      "width": 390,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch03",
+      "width": 390,
+      "controls": 12,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch04",
+      "width": 390,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch05",
+      "width": 390,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch06",
+      "width": 390,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch07",
+      "width": 390,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch08",
+      "width": 390,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch01",
+      "width": 390,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch02",
+      "width": 390,
+      "controls": 55,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch03",
+      "width": 390,
+      "controls": 32,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch04",
+      "width": 390,
+      "controls": 60,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch00",
+      "width": 390,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch01",
+      "width": 390,
+      "controls": 43,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch02",
+      "width": 390,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch03",
+      "width": 390,
+      "controls": 38,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch04",
+      "width": 390,
+      "controls": 44,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch05",
+      "width": 390,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch01",
+      "width": 390,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch02",
+      "width": 390,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch03",
+      "width": 390,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch04",
+      "width": 390,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch05",
+      "width": 390,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch06",
+      "width": 390,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat1",
+      "width": 390,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat2",
+      "width": 390,
+      "controls": 32,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat3",
+      "width": 390,
+      "controls": 69,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat4",
+      "width": 390,
+      "controls": 42,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat5",
+      "width": 390,
+      "controls": 60,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat6",
+      "width": 390,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat7",
+      "width": 390,
+      "controls": 15,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch01",
+      "width": 390,
+      "controls": 15,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch02",
+      "width": 390,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch03",
+      "width": 390,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch04",
+      "width": 390,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch05",
+      "width": 390,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r01",
+      "width": 390,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r02",
+      "width": 390,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r03",
+      "width": 390,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r04",
+      "width": 390,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r05",
+      "width": 390,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r06",
+      "width": 390,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r07",
+      "width": 390,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r08",
+      "width": 390,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r09",
+      "width": 390,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r10",
+      "width": 390,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r11",
+      "width": 390,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r12",
+      "width": 390,
+      "controls": 38,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r13",
+      "width": 390,
+      "controls": 36,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r14",
+      "width": 390,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r15",
+      "width": 390,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r16",
+      "width": 390,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r17",
+      "width": 390,
+      "controls": 29,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r18",
+      "width": 390,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch01",
+      "width": 320,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch02",
+      "width": 320,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch03",
+      "width": 320,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch04",
+      "width": 320,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network/ch05",
+      "width": 320,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch01",
+      "width": 320,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch02",
+      "width": 320,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch03",
+      "width": 320,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch04",
+      "width": 320,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os/ch05",
+      "width": 320,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch00",
+      "width": 320,
+      "controls": 30,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch01",
+      "width": 320,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch02",
+      "width": 320,
+      "controls": 32,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch03",
+      "width": 320,
+      "controls": 58,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch04",
+      "width": 320,
+      "controls": 55,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch05",
+      "width": 320,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch06",
+      "width": 320,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch07",
+      "width": 320,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql/ch08",
+      "width": 320,
+      "controls": 49,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch01",
+      "width": 320,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch02",
+      "width": 320,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch03",
+      "width": 320,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch04",
+      "width": 320,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch05",
+      "width": 320,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb/ch06",
+      "width": 320,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch00",
+      "width": 320,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch01",
+      "width": 320,
+      "controls": 42,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch02",
+      "width": 320,
+      "controls": 36,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch03",
+      "width": 320,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch04",
+      "width": 320,
+      "controls": 39,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch05",
+      "width": 320,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch06",
+      "width": 320,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm/ch07",
+      "width": 320,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch00",
+      "width": 320,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch01",
+      "width": 320,
+      "controls": 37,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch02",
+      "width": 320,
+      "controls": 43,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch03",
+      "width": 320,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch04",
+      "width": 320,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch05",
+      "width": 320,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch06",
+      "width": 320,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07",
+      "width": 320,
+      "controls": 52,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07a",
+      "width": 320,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07b",
+      "width": 320,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07c",
+      "width": 320,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch07d",
+      "width": 320,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring/ch08",
+      "width": 320,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch00",
+      "width": 320,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch01",
+      "width": 320,
+      "controls": 37,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch02",
+      "width": 320,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch03",
+      "width": 320,
+      "controls": 12,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch04",
+      "width": 320,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch05",
+      "width": 320,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch06",
+      "width": 320,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch07",
+      "width": 320,
+      "controls": 23,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis/ch08",
+      "width": 320,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch01",
+      "width": 320,
+      "controls": 21,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch02",
+      "width": 320,
+      "controls": 55,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch03",
+      "width": 320,
+      "controls": 32,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq/ch04",
+      "width": 320,
+      "controls": 60,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch00",
+      "width": 320,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch01",
+      "width": 320,
+      "controls": 43,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch02",
+      "width": 320,
+      "controls": 34,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch03",
+      "width": 320,
+      "controls": 38,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch04",
+      "width": 320,
+      "controls": 44,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux/ch05",
+      "width": 320,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch01",
+      "width": 320,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch02",
+      "width": 320,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch03",
+      "width": 320,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch04",
+      "width": 320,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch05",
+      "width": 320,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud/ch06",
+      "width": 320,
+      "controls": 16,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat1",
+      "width": 320,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat2",
+      "width": 320,
+      "controls": 32,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat3",
+      "width": 320,
+      "controls": 69,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat4",
+      "width": 320,
+      "controls": 42,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat5",
+      "width": 320,
+      "controls": 60,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat6",
+      "width": 320,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns/pat7",
+      "width": 320,
+      "controls": 15,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch01",
+      "width": 320,
+      "controls": 15,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch02",
+      "width": 320,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch03",
+      "width": 320,
+      "controls": 17,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch04",
+      "width": 320,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier/ch05",
+      "width": 320,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r01",
+      "width": 320,
+      "controls": 11,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r02",
+      "width": 320,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r03",
+      "width": 320,
+      "controls": 41,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r04",
+      "width": 320,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r05",
+      "width": 320,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r06",
+      "width": 320,
+      "controls": 25,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r07",
+      "width": 320,
+      "controls": 19,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r08",
+      "width": 320,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r09",
+      "width": 320,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r10",
+      "width": 320,
+      "controls": 31,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r11",
+      "width": 320,
+      "controls": 26,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r12",
+      "width": 320,
+      "controls": 38,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r13",
+      "width": 320,
+      "controls": 36,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r14",
+      "width": 320,
+      "controls": 24,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r15",
+      "width": 320,
+      "controls": 22,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r16",
+      "width": 320,
+      "controls": 27,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r17",
+      "width": 320,
+      "controls": 29,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse/r18",
+      "width": 320,
+      "controls": 20,
+      "documentOverflow": false,
+      "issues": []
+    }
+  ],
+  "extra": [
+    {
+      "url": "http://127.0.0.1:8766/#/home",
+      "width": 1440,
+      "controls": 1,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/roadmap",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/interview",
+      "width": 1440,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/atlas",
+      "width": 1440,
+      "controls": 49,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse",
+      "width": 1440,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/home",
+      "width": 768,
+      "controls": 1,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/roadmap",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/interview",
+      "width": 768,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/atlas",
+      "width": 768,
+      "controls": 49,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse",
+      "width": 768,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/home",
+      "width": 390,
+      "controls": 1,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/roadmap",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/interview",
+      "width": 390,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/atlas",
+      "width": 390,
+      "controls": 49,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse",
+      "width": 390,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/home",
+      "width": 320,
+      "controls": 1,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/roadmap",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/interview",
+      "width": 320,
+      "controls": 18,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/atlas",
+      "width": 320,
+      "controls": 49,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javase",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/engineering",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/datastructure",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/network",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/os",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mysql",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javaweb",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/jvm",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/spring",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/redis",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/mq",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/linux",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/cloud",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/patterns",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/frontier",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/reverse",
+      "width": 320,
+      "controls": 0,
+      "documentOverflow": false,
+      "issues": []
+    }
+  ],
+  "gui": [
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch05",
+      "width": 1440,
+      "controls": 40,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch05",
+      "width": 768,
+      "controls": 40,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch05",
+      "width": 390,
+      "controls": 40,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch05",
+      "width": 320,
+      "controls": 40,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch03",
+      "width": 1440,
+      "controls": 35,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch03",
+      "width": 768,
+      "controls": 35,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch03",
+      "width": 390,
+      "controls": 35,
+      "documentOverflow": false,
+      "issues": []
+    },
+    {
+      "url": "http://127.0.0.1:8766/#/m/javahistory/ch03",
+      "width": 320,
+      "controls": 35,
+      "documentOverflow": false,
+      "issues": []
+    }
+  ],
+  "interactions": {
+    "mvcc": "SELECT 500 → COMMIT → RR 500 → RC 400; reset verified",
+    "calculator": "7 + 8 = 15.0",
+    "reader": "open at 320px, no crowding, close verified"
+  },
+  "mvccExpanded": [
+    {
+      "width": 1440,
+      "controls": 6,
+      "documentOverflow": false,
+      "issues": [],
+      "cards": [
+        {
+          "overflow": false,
+          "text": "HEAD(最新版)"
+        },
+        {
+          "overflow": false,
+          "text": "值=400 trx_id=20 ⏳未提交事务B未提交的修改"
+        },
+        {
+          "overflow": false,
+          "text": "→ roll_pointer →"
+        },
+        {
+          "overflow": false,
+          "text": "值=500 trx_id=10 ✓已提交事务A开始前已提交"
+        },
+        {
+          "overflow": false,
+          "text": "→ roll_pointer →"
+        },
+        {
+          "overflow": false,
+          "text": "m_ids(活跃事务)= [20]"
+        },
+        {
+          "overflow": false,
+          "text": "min_trx_id = 20"
+        },
+        {
+          "overflow": false,
+          "text": "max_trx_id = 41"
+        },
+        {
+          "overflow": false,
+          "text": "creator_trx_id = 40"
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "controls": 6,
+      "documentOverflow": false,
+      "issues": [],
+      "cards": [
+        {
+          "overflow": false,
+          "text": "HEAD(最新版)"
+        },
+        {
+          "overflow": false,
+          "text": "值=400 trx_id=20 ⏳未提交事务B未提交的修改"
+        },
+        {
+          "overflow": false,
+          "text": "→ roll_pointer →"
+        },
+        {
+          "overflow": false,
+          "text": "值=500 trx_id=10 ✓已提交事务A开始前已提交"
+        },
+        {
+          "overflow": false,
+          "text": "→ roll_pointer →"
+        },
+        {
+          "overflow": false,
+          "text": "m_ids(活跃事务)= [20]"
+        },
+        {
+          "overflow": false,
+          "text": "min_trx_id = 20"
+        },
+        {
+          "overflow": false,
+          "text": "max_trx_id = 41"
+        },
+        {
+          "overflow": false,
+          "text": "creator_trx_id = 40"
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "controls": 6,
+      "documentOverflow": false,
+      "issues": [],
+      "cards": [
+        {
+          "overflow": false,
+          "text": "HEAD(最新版)"
+        },
+        {
+          "overflow": false,
+          "text": "值=400 trx_id=20 ⏳未提交事务B未提交的修改"
+        },
+        {
+          "overflow": false,
+          "text": "→ roll_pointer →"
+        },
+        {
+          "overflow": false,
+          "text": "值=500 trx_id=10 ✓已提交事务A开始前已提交"
+        },
+        {
+          "overflow": false,
+          "text": "→ roll_pointer →"
+        },
+        {
+          "overflow": false,
+          "text": "m_ids(活跃事务)= [20]"
+        },
+        {
+          "overflow": false,
+          "text": "min_trx_id = 20"
+        },
+        {
+          "overflow": false,
+          "text": "max_trx_id = 41"
+        },
+        {
+          "overflow": false,
+          "text": "creator_trx_id = 40"
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "controls": 6,
+      "documentOverflow": false,
+      "issues": [],
+      "cards": [
+        {
+          "overflow": false,
+          "text": "HEAD(最新版)"
+        },
+        {
+          "overflow": false,
+          "text": "值=400 trx_id=20 ⏳未提交事务B未提交的修改"
+        },
+        {
+          "overflow": false,
+          "text": "→ roll_pointer →"
+        },
+        {
+          "overflow": false,
+          "text": "值=500 trx_id=10 ✓已提交事务A开始前已提交"
+        },
+        {
+          "overflow": false,
+          "text": "→ roll_pointer →"
+        },
+        {
+          "overflow": false,
+          "text": "m_ids(活跃事务)= [20]"
+        },
+        {
+          "overflow": false,
+          "text": "min_trx_id = 20"
+        },
+        {
+          "overflow": false,
+          "text": "max_trx_id = 41"
+        },
+        {
+          "overflow": false,
+          "text": "creator_trx_id = 40"
+        }
+      ]
+    }
+  ]
+}

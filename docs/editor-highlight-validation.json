@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-15",
+  "checks": [
+    {
+      "case": "RecordBytes editor colors",
+      "inputGuides": [
+        "运行前准备给 System.in 的文本。例如填“小夏”，Scanner.nextLine() 就能读到它；未读取 System.in 时留空。",
+        "第一行是 args[0]，第二行是 args[1]。例如填“小夏”和“3”两行，会得到两个字符串参数；空行忽略。不读取 args 时留空。",
+        "指定从哪个类的 main 开始运行。通常自动识别；同一源码有多个入口时再填写。带 package lab 的 Main 填 lab.Main。"
+      ],
+      "keywordColor": "rgb(199, 146, 234)",
+      "keywords": 12,
+      "numbers": 1,
+      "sourceTextMatches": true,
+      "strings": 2
+    },
+    {
+      "case": "RecordBytes runs with all fields blank",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5404 ms",
+      "output": "bytes = 4\n00 00 03 D4 \n"
+    },
+    {
+      "case": "Editable overlay scroll and source fidelity",
+      "caretColor": "rgb(242, 245, 255)",
+      "exactText": true,
+      "fontMatches": true,
+      "highlightScroll": [
+        0,
+        0
+      ],
+      "textareaScroll": [
+        0,
+        0
+      ],
+      "viewportMatches": true
+    },
+    {
+      "case": "Restore redraws source colors",
+      "numbers": [
+        "980"
+      ],
+      "sameText": true
+    },
+    {
+      "case": "Vertical scroll alignment",
+      "exactText": true,
+      "highlightScroll": [
+        12,
+        506
+      ],
+      "textareaScroll": [
+        12,
+        506
+      ]
+    },
+    {
+      "case": "Horizontal and vertical scroll alignment",
+      "exactText": true,
+      "highlightScroll": [
+        25899,
+        2123
+      ],
+      "textareaScroll": [
+        25899,
+        2123
+      ]
+    },
+    {
+      "case": "Typing updates numeric highlighting",
+      "exactText": true,
+      "numbers": [
+        "981"
+      ]
+    },
+    {
+      "case": "Java stdin args and selected main mapping",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5732 ms",
+      "output": "输入=小夏\n参数0=课程\n参数1=3\n"
+    },
+    {
+      "case": "SQL · SQLite editor colors",
+      "exactText": true,
+      "guides": [],
+      "tokens": 25
+    },
+    {
+      "case": "JavaScript editor colors",
+      "exactText": true,
+      "guides": [
+        "整段文本作为 input 字符串传入代码。例如 console.log(input) 会打印这里的内容；不使用 input 时留空。",
+        "第一行是 args[0]，第二行是 args[1]。例如填“小夏”和“3”两行，会得到两个字符串参数；空行忽略。不读取 args 时留空。"
+      ],
+      "tokens": 16
+    },
+    {
+      "case": "HTML 页面 editor colors",
+      "exactText": true,
+      "guides": [],
+      "tokens": 28
+    },
+    {
+      "case": "Python editor colors",
+      "exactText": true,
+      "guides": [
+        "运行前准备给 input() / sys.stdin 的文本。多次 input() 按行读取；例如两次 input() 就填写两行。",
+        "第一行是 sys.argv[1]，第二行是 sys.argv[2]；sys.argv[0] 是脚本名。每项都是字符串，空行忽略。不读取 sys.argv 时留空。"
+      ],
+      "language": "网站虚拟环境 · Python / WebAssembly",
+      "tokens": 9
+    },
+    {
+      "test": "Python stdin and argv mapping",
+      "status": "✓ 执行成功 · 浏览器 Python · WebAssembly · 906 ms",
+      "output": "输入=小夏\n参数=7\n"
+    },
+    {
+      "test": "RecordBytes final run with all fields blank",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 5308 ms",
+      "output": "bytes = 4\n00 00 03 D4 \n",
+      "fields": [
+        {
+          "label": "标准输入",
+          "value": ""
+        },
+        {
+          "label": "程序参数",
+          "value": ""
+        },
+        {
+          "label": "主类名（选填）",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "view": "Java highlighted editor and input guides",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "Java highlighted editor and input guides",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "Java highlighted editor and input guides",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "Java highlighted editor and input guides",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    },
+    {
+      "view": "SQL · SQLite highlighted editor",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "SQL · SQLite highlighted editor",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "SQL · SQLite highlighted editor",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "SQL · SQLite highlighted editor",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    },
+    {
+      "view": "JavaScript highlighted editor",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "JavaScript highlighted editor",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "JavaScript highlighted editor",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "JavaScript highlighted editor",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    },
+    {
+      "view": "HTML 页面 highlighted editor",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "HTML 页面 highlighted editor",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "HTML 页面 highlighted editor",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "HTML 页面 highlighted editor",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    },
+    {
+      "view": "Python highlighted editor",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "Python highlighted editor",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "Python highlighted editor",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "Python highlighted editor",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    }
+  ]
+}

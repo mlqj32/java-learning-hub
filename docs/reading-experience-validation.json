@@ -1,0 +1,1240 @@
+{
+  "date": "2026-11-15",
+  "inventory": [
+    {
+      "chapter": "redis/ch00",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "redis/ch01",
+      "codeBlocks": 10,
+      "readingButtons": 10,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "redis/ch02",
+      "codeBlocks": 11,
+      "readingButtons": 11,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "redis/ch03",
+      "codeBlocks": 1,
+      "readingButtons": 1,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "redis/ch04",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "redis/ch05",
+      "codeBlocks": 1,
+      "readingButtons": 1,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "redis/ch06",
+      "codeBlocks": 6,
+      "readingButtons": 6,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "redis/ch07",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "redis/ch08",
+      "codeBlocks": 12,
+      "readingButtons": 12,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/start01",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/start02",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/start03",
+      "codeBlocks": 2,
+      "readingButtons": 2,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch01",
+      "codeBlocks": 8,
+      "readingButtons": 8,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch02",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch03",
+      "codeBlocks": 14,
+      "readingButtons": 14,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch04",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch05",
+      "codeBlocks": 6,
+      "readingButtons": 6,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch06",
+      "codeBlocks": 10,
+      "readingButtons": 10,
+      "textBlocks": 5,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch07",
+      "codeBlocks": 14,
+      "readingButtons": 14,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch08",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch09",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch10",
+      "codeBlocks": 10,
+      "readingButtons": 10,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch11",
+      "codeBlocks": 9,
+      "readingButtons": 9,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javase/ch12",
+      "codeBlocks": 12,
+      "readingButtons": 12,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "datastructure/ch01",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "datastructure/ch02",
+      "codeBlocks": 7,
+      "readingButtons": 7,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "datastructure/ch03",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "datastructure/ch04",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "datastructure/ch05",
+      "codeBlocks": 8,
+      "readingButtons": 8,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "network/ch01",
+      "codeBlocks": 2,
+      "readingButtons": 2,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "network/ch02",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "network/ch03",
+      "codeBlocks": 2,
+      "readingButtons": 2,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "network/ch04",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "network/ch05",
+      "codeBlocks": 8,
+      "readingButtons": 8,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "os/ch01",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "os/ch02",
+      "codeBlocks": 6,
+      "readingButtons": 6,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "os/ch03",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "os/ch04",
+      "codeBlocks": 2,
+      "readingButtons": 2,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "os/ch05",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javahistory/ch01",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javahistory/ch02",
+      "codeBlocks": 6,
+      "readingButtons": 6,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javahistory/ch03",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javahistory/ch04",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javahistory/ch05",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javaweb/ch01",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javaweb/ch02",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javaweb/ch03",
+      "codeBlocks": 6,
+      "readingButtons": 6,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javaweb/ch04",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javaweb/ch05",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "javaweb/ch06",
+      "codeBlocks": 6,
+      "readingButtons": 6,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "cloud/ch01",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 5,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "cloud/ch02",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "cloud/ch03",
+      "codeBlocks": 7,
+      "readingButtons": 7,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "cloud/ch04",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "cloud/ch05",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "cloud/ch06",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "frontier/ch01",
+      "codeBlocks": 2,
+      "readingButtons": 2,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "frontier/ch02",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "frontier/ch03",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "frontier/ch04",
+      "codeBlocks": 1,
+      "readingButtons": 1,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "frontier/ch05",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "jvm/ch00",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "jvm/ch01",
+      "codeBlocks": 9,
+      "readingButtons": 9,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "jvm/ch02",
+      "codeBlocks": 7,
+      "readingButtons": 7,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "jvm/ch03",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "jvm/ch04",
+      "codeBlocks": 7,
+      "readingButtons": 7,
+      "textBlocks": 6,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "jvm/ch05",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "jvm/ch06",
+      "codeBlocks": 9,
+      "readingButtons": 9,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "jvm/ch07",
+      "codeBlocks": 6,
+      "readingButtons": 6,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch00",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch01",
+      "codeBlocks": 10,
+      "readingButtons": 10,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch02",
+      "codeBlocks": 12,
+      "readingButtons": 12,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch03",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch04",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch05",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch06",
+      "codeBlocks": 11,
+      "readingButtons": 11,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch07",
+      "codeBlocks": 15,
+      "readingButtons": 15,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch07a",
+      "codeBlocks": 8,
+      "readingButtons": 8,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch07b",
+      "codeBlocks": 6,
+      "readingButtons": 6,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch07c",
+      "codeBlocks": 7,
+      "readingButtons": 7,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch07d",
+      "codeBlocks": 7,
+      "readingButtons": 7,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "spring/ch08",
+      "codeBlocks": 9,
+      "readingButtons": 9,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mysql/ch00",
+      "codeBlocks": 8,
+      "readingButtons": 8,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mysql/ch01",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mysql/ch02",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 7,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mysql/ch03",
+      "codeBlocks": 17,
+      "readingButtons": 17,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mysql/ch04",
+      "codeBlocks": 16,
+      "readingButtons": 16,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mysql/ch05",
+      "codeBlocks": 0,
+      "readingButtons": 0,
+      "textBlocks": 9,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mysql/ch06",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mysql/ch07",
+      "codeBlocks": 9,
+      "readingButtons": 9,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mysql/ch08",
+      "codeBlocks": 13,
+      "readingButtons": 13,
+      "textBlocks": 5,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mq/ch01",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mq/ch02",
+      "codeBlocks": 16,
+      "readingButtons": 16,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mq/ch03",
+      "codeBlocks": 8,
+      "readingButtons": 8,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "mq/ch04",
+      "codeBlocks": 17,
+      "readingButtons": 17,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "linux/ch00",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "linux/ch01",
+      "codeBlocks": 12,
+      "readingButtons": 12,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "linux/ch02",
+      "codeBlocks": 9,
+      "readingButtons": 9,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "linux/ch03",
+      "codeBlocks": 11,
+      "readingButtons": 11,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "linux/ch04",
+      "codeBlocks": 12,
+      "readingButtons": 12,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "linux/ch05",
+      "codeBlocks": 7,
+      "readingButtons": 7,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "patterns/pat1",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "patterns/pat2",
+      "codeBlocks": 8,
+      "readingButtons": 8,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "patterns/pat3",
+      "codeBlocks": 20,
+      "readingButtons": 20,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "patterns/pat4",
+      "codeBlocks": 11,
+      "readingButtons": 11,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "patterns/pat5",
+      "codeBlocks": 18,
+      "readingButtons": 18,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "patterns/pat6",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "patterns/pat7",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r01",
+      "codeBlocks": 1,
+      "readingButtons": 1,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r02",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r03",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 5,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r04",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r05",
+      "codeBlocks": 2,
+      "readingButtons": 2,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r06",
+      "codeBlocks": 2,
+      "readingButtons": 2,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r07",
+      "codeBlocks": 1,
+      "readingButtons": 1,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r08",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r09",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r10",
+      "codeBlocks": 6,
+      "readingButtons": 6,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r11",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r12",
+      "codeBlocks": 7,
+      "readingButtons": 7,
+      "textBlocks": 3,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r13",
+      "codeBlocks": 7,
+      "readingButtons": 7,
+      "textBlocks": 5,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r14",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r15",
+      "codeBlocks": 1,
+      "readingButtons": 1,
+      "textBlocks": 4,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r16",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r17",
+      "codeBlocks": 5,
+      "readingButtons": 5,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "reverse/r18",
+      "codeBlocks": 2,
+      "readingButtons": 2,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "engineering/e01",
+      "codeBlocks": 4,
+      "readingButtons": 4,
+      "textBlocks": 1,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "engineering/e02",
+      "codeBlocks": 2,
+      "readingButtons": 2,
+      "textBlocks": 2,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "engineering/e03",
+      "codeBlocks": 1,
+      "readingButtons": 1,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "engineering/e04",
+      "codeBlocks": 2,
+      "readingButtons": 2,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    },
+    {
+      "chapter": "engineering/e05",
+      "codeBlocks": 3,
+      "readingButtons": 3,
+      "textBlocks": 0,
+      "textExtraButtons": 0
+    }
+  ],
+  "checks": [
+    {
+      "blocks": [
+        {
+          "badges": 0,
+          "buttons": [
+            "复制"
+          ]
+        },
+        {
+          "badges": 0,
+          "buttons": [
+            "复制"
+          ]
+        },
+        {
+          "badges": 0,
+          "buttons": [
+            "复制"
+          ]
+        },
+        {
+          "badges": 0,
+          "buttons": [
+            "复制"
+          ]
+        }
+      ],
+      "case": "TEXT blocks show copy only"
+    },
+    {
+      "chapter": "r01",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：一个 10 秒上手的最小实验 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r02",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：一段 C 函数与它的反汇编 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r03",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：先问格式,再谈逆向 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r04",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：静态分析跟做：给“看不懂的函数”建立证据链 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r05",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：动态验证：先观察路径，不改判断结果 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r06",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：为什么第一次扫描总是命中一堆 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r07",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：从防守角度拆开“看见”这件事 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r08",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：字节码阅读的顺序：先描述符，再操作数栈 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r09",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：重打包三件套:build → align → sign · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r10",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：JNI 边界:Java 世界与 native 世界 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r11",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：插桩先做观测：比较插入前后的同一条调用 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r12",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：二进制协议:从字节流里长出结构 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r13",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：实战一:还原一个\"异或 + 反转\"的 crackme · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r14",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：不运行未知样本，也能完成第一份可信的静态报告 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r15",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：证据核实：把情绪紧迫感变成一个可执行流程 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r16",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：第二步：把描述符和操作数栈对起来 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r17",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：第一步：实现一个严格的读取函数 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "chapter": "r18",
+      "labs": 1,
+      "previousTag": "H2",
+      "relation": "对应小节：实现：缓冲未完成帧，消费后保留剩余字节 · 点击在此展开",
+      "repeatedCodeLabButtons": 0,
+      "textStudyButtons": 0
+    },
+    {
+      "case": "Protocol lab opens in its section",
+      "documentTop": 6208.91748046875,
+      "open": true,
+      "relation": "只推演长度前缀协议的拆包与粘包；下方 MD5 签名代码请使用代码自己的运行按钮。",
+      "scrollY": 5632,
+      "steps": 4,
+      "top": 561.19189453125
+    },
+    {
+      "case": "Signature line 8 meaning",
+      "text": "第 8 行 · 拼接参数与盐值\n    raw = \"&\".join(k + \"=\" + str(v) for k, v in items) + \"&salt=\" + SALT\n\n按顺序拼接：用分隔符 「&」 连接集合 「items」 中每项（解包为 k, v），每项先把键 k、等号和转成字符串的值 v 拼成“键=值”；再加上 字面量 「\"&salt=\"」；再加上 读取 「SALT」 当前保存的值；最终保存到 「raw」，作为后续摘要计算的原始字符串。"
+    },
+    {
+      "case": "Next line explains encoding and digest",
+      "text": "第 9 行 · 返回结果\n    return hashlib.md5(raw.encode(\"utf-8\")).hexdigest()\n\n先将 「raw」 按 \"utf-8\" 编码为字节，再计算 MD5 摘要，转换成32 位十六进制字符串；这是摘要计算，不是加密，MD5 不适合新的安全签名设计；将结果交给调用者，并结束本次方法/函数调用。"
+    },
+    {
+      "case": "Java entry template via keyboard",
+      "text": "第 10 行 · 程序入口 · 模板代码\n    public static void main(String[] args) {\n\n声明 Java 程序入口 main；虚拟机从此方法体开始执行，String[] args 接收程序参数。本行定义入口，实际功能在方法体内。"
+    }
+  ],
+  "layouts": [
+    {
+      "view": "Inline protocol lab",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "Inline protocol lab",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "Inline protocol lab",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "Inline protocol lab",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    },
+    {
+      "view": "Signature line explanation",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "Signature line explanation",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "Signature line explanation",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "Signature line explanation",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    },
+    {
+      "view": "Java template explanation",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "Java template explanation",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "Java template explanation",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "Java template explanation",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    },
+    {
+      "view": "TEXT copy only",
+      "width": 320,
+      "documentWidth": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "view": "TEXT copy only",
+      "width": 390,
+      "documentWidth": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "view": "TEXT copy only",
+      "width": 768,
+      "documentWidth": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "view": "TEXT copy only",
+      "width": 1440,
+      "documentWidth": 1430,
+      "overflow": [],
+      "viewport": 1440
+    }
+  ],
+  "totals": {
+    "chapters": 131,
+    "textBlocks": 245,
+    "codeBlocks": 799,
+    "reversePlacements": 18,
+    "responsiveChecks": 16
+  },
+  "finalMeaning": "第 8 行 · 拼接参数与盐值\n    raw = \"&\".join(k + \"=\" + str(v) for k, v in items) + \"&salt=\" + SALT\n\n按顺序拼接：用分隔符 「&」 连接集合 「items」 中每项（解包为 k, v），每项先把键 k、等号和转成字符串的值 v 拼成“键=值”；再加上 字面量 「\"&salt=\"」；再加上 读取 「SALT」 当前保存的值；最终保存到 「raw」，作为后续摘要计算的原始字符串。"
+}

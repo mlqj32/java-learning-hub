@@ -1,0 +1,603 @@
+{
+  "date": "2026-11-15",
+  "defaultPrograms": [
+    {
+      "id": "w01",
+      "active": 1,
+      "checkpoint": "2 / 16",
+      "h2": 8,
+      "model": "control",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w02",
+      "active": 1,
+      "checkpoint": "2 / 25",
+      "h2": 8,
+      "model": "pacer",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w03",
+      "active": 1,
+      "checkpoint": "2 / 7",
+      "h2": 8,
+      "model": "interlock",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w04",
+      "active": 1,
+      "checkpoint": "2 / 4",
+      "h2": 8,
+      "model": "calendar",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w05",
+      "active": 1,
+      "checkpoint": "2 / 3",
+      "h2": 8,
+      "model": "overflow",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w06",
+      "active": 1,
+      "checkpoint": "2 / 11",
+      "h2": 8,
+      "model": "units",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w07",
+      "active": 1,
+      "checkpoint": "2 / 11",
+      "h2": 7,
+      "model": "clock",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w08",
+      "active": 1,
+      "checkpoint": "2 / 3",
+      "h2": 8,
+      "model": "scheduler",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w09",
+      "active": 1,
+      "checkpoint": "2 / 3",
+      "h2": 8,
+      "model": "link",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w10",
+      "active": 1,
+      "checkpoint": "2 / 3",
+      "h2": 7,
+      "model": "radiation",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w11",
+      "active": 1,
+      "checkpoint": "2 / 48",
+      "h2": 7,
+      "model": "transit",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w12",
+      "active": 1,
+      "checkpoint": "2 / 16",
+      "h2": 8,
+      "model": "spectrum",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w13",
+      "active": 1,
+      "checkpoint": "2 / 3",
+      "h2": 8,
+      "model": "archive",
+      "overflow": false,
+      "workerMatches": true
+    },
+    {
+      "id": "w14",
+      "active": 1,
+      "checkpoint": "2 / 4",
+      "h2": 10,
+      "model": "mission",
+      "overflow": false,
+      "workerMatches": true
+    }
+  ],
+  "modifiedPrograms": [
+    {
+      "id": "w01",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w02",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w03",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w04",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w05",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w06",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w07",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w08",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w09",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w10",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w11",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w12",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w13",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    },
+    {
+      "id": "w14",
+      "dirtyLocked": true,
+      "labMatches": true,
+      "editedWorkerMatches": true
+    }
+  ],
+  "responsive": [
+    {
+      "id": "w01",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w02",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w03",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w04",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w05",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w06",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w07",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w08",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w09",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w10",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w11",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w12",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w13",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w14",
+      "buttonsOverlap": false,
+      "chartScroll": true,
+      "labWidth": 302,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "width": 390
+    },
+    {
+      "id": "w01",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w02",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w03",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w04",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w05",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w06",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w07",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w08",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w09",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w10",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 43.999755859375,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w11",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w12",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w13",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    },
+    {
+      "id": "w14",
+      "buttonsOverlap": false,
+      "labWidth": 232,
+      "minButtonHeight": 44,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 320
+    }
+  ],
+  "final390Checks": [
+    {
+      "id": "w01",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w02",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w03",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w04",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w05",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w06",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w07",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w08",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w09",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w10",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w11",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w12",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w13",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    },
+    {
+      "id": "w14",
+      "active": 1,
+      "pageOverflow": false,
+      "smallestChartText": 15.555555555555555,
+      "width": 390
+    }
+  ],
+  "typeDiagrams": [
+    {
+      "clipped": [],
+      "model": "calendar",
+      "overflow": false,
+      "svgText": "完整年份 → 只剩末两位1999 → 99；2000 → 0跨年差值 · 两种解释两位：-99   完整：132 位有符号整数 · 显式模拟回绕最大值 2147483647   + 1   →   -2147483648年份语义丢失 ≠ 固定位宽回绕；它们是两类问题。"
+    },
+    {
+      "clipped": [],
+      "model": "overflow",
+      "overflow": false,
+      "svgText": "待转换值 → 教学截断后：40000这里使用向零截断；并非历史事故的舍入规则。16 位有符号整数的可表示范围−3276832767越过边界：拒绝转换；不能当成有效飞行数据主通道：转换拒绝；备用：同因失败"
+    }
+  ],
+  "playback": {
+    "autoAdvancedTo": "22 / 48",
+    "pausedLabel": "自动播放"
+  },
+  "navigation": {
+    "homeModules": 18,
+    "homeChapters": 145,
+    "homeDemos": 42,
+    "menuEntry": true,
+    "searchQuery": "千年虫",
+    "searchResults": 2,
+    "moduleChapters": 14
+  },
+  "invalidParameters": "gain=4 rejected, old valid result retained and stepping disabled; corrected input recomputed successfully",
+  "screenshots": [
+    "docs/images/world-transit-lab.jpg",
+    "docs/images/world-source-checkpoint.jpg"
+  ]
+}

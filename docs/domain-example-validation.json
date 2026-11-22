@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-15",
+  "url": "http://127.0.0.1:8766/#/m/reverse/r15",
+  "status": "✓ 执行成功 · 浏览器 Python · WebAssembly · 916 ms",
+  "actual": "icbc.com.cn                  ✓ 匹配白名单\nicbc.c0m.cn                  ⚠ 可疑：形近域名\nlCBC.com.cn                  ⚠ 可疑：形近域名\nicbc.com.cn.evil.xyz         ⚠ 可疑：不在白名单\n",
+  "expected": "icbc.com.cn                  ✓ 匹配白名单\nicbc.c0m.cn                  ⚠ 可疑：形近域名\nlCBC.com.cn                  ⚠ 可疑：形近域名\nicbc.com.cn.evil.xyz         ⚠ 可疑：不在白名单",
+  "exactMatch": true,
+  "boundaryStatus": "✓ 执行成功 · 浏览器 Python · WebAssembly · 1086 ms",
+  "boundaryOutput": "icbc.com.cn                  ✓ 匹配白名单\nicbc.c0m.cn                  ⚠ 可疑：形近域名\nlCBC.com.cn                  ⚠ 可疑：形近域名\nicbc.com.cn.evil.xyz         ⚠ 可疑：不在白名单\nPASS: actual course output matches documentation; 14 domain cases\n",
+  "finalStatus": "✓ 执行成功 · 浏览器 Python · WebAssembly · 2937 ms",
+  "finalOutput": "icbc.com.cn                  ✓ 匹配白名单\nicbc.c0m.cn                  ⚠ 可疑：形近域名\nlCBC.com.cn                  ⚠ 可疑：形近域名\nicbc.com.cn.evil.xyz         ⚠ 可疑：不在白名单\n"
+}

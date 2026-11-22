@@ -1,0 +1,8 @@
+{
+  "package": "doppiojvm",
+  "version": "0.5.0",
+  "url": "https://registry.npmjs.org/doppiojvm/-/doppiojvm-0.5.0.tgz",
+  "integrity": "sha512-8KuYG48nTBs2ixltiL+fn+8meD8uxcBHz1xNlM19+jOhj0rhq3t5jQfcKZWl2Glcw6vN+ZluWZvHtZ/H+tLlRg==",
+  "classLibrary": "https://github.com/plasma-umass/doppio_jcl/releases/download/v3.2/java_home.tar.gz",
+  "modifications": "JAR compression changed from stored to deflate; class contents unchanged. BrowserFS listings.json and jdk.json generated."
+}

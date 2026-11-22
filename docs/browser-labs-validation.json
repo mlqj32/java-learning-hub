@@ -1,0 +1,5729 @@
+{
+  "date": "2026-11-15",
+  "chapterChecks": [
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/redis/ch00",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/redis/ch01",
+      "walks": 11,
+      "width": 320
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/redis/ch02",
+      "walks": 13,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/redis/ch03",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/redis/ch04",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/redis/ch05",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/redis/ch06",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/redis/ch07",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/redis/ch08",
+      "walks": 12,
+      "width": 320
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/start01",
+      "walks": 3,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/start02",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/start03",
+      "walks": 2,
+      "width": 320
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch01",
+      "walks": 10,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch02",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 14,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch03",
+      "walks": 14,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch04",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch05",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch06",
+      "walks": 15,
+      "width": 320
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch07",
+      "walks": 15,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch08",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch09",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch10",
+      "walks": 11,
+      "width": 320
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch11",
+      "walks": 11,
+      "width": 320
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javase/ch12",
+      "walks": 12,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/datastructure/ch01",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/datastructure/ch02",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/datastructure/ch03",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/datastructure/ch04",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/datastructure/ch05",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/network/ch01",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/network/ch02",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/network/ch03",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/network/ch04",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/network/ch05",
+      "walks": 10,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/os/ch01",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/os/ch02",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/os/ch03",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/os/ch04",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/os/ch05",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javahistory/ch01",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javahistory/ch02",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javahistory/ch03",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javahistory/ch04",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javahistory/ch05",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javaweb/ch01",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javaweb/ch02",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javaweb/ch03",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javaweb/ch04",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javaweb/ch05",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/javaweb/ch06",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/cloud/ch01",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/cloud/ch02",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/cloud/ch03",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/cloud/ch04",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/cloud/ch05",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/cloud/ch06",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/frontier/ch01",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/frontier/ch02",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/frontier/ch03",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/frontier/ch04",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/frontier/ch05",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/jvm/ch00",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/jvm/ch01",
+      "walks": 13,
+      "width": 320
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/jvm/ch02",
+      "walks": 9,
+      "width": 320
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/jvm/ch03",
+      "walks": 9,
+      "width": 320
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/jvm/ch04",
+      "walks": 13,
+      "width": 320
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/jvm/ch05",
+      "walks": 9,
+      "width": 320
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/jvm/ch06",
+      "walks": 11,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/jvm/ch07",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch00",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch01",
+      "walks": 11,
+      "width": 320
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch02",
+      "walks": 13,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch03",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch04",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch05",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch06",
+      "walks": 13,
+      "width": 320
+    },
+    {
+      "blocks": 17,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch07",
+      "walks": 17,
+      "width": 320
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch07a",
+      "walks": 10,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch07b",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch07c",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch07d",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/spring/ch08",
+      "walks": 10,
+      "width": 320
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mysql/ch00",
+      "walks": 9,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mysql/ch01",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mysql/ch02",
+      "walks": 12,
+      "width": 320
+    },
+    {
+      "blocks": 19,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mysql/ch03",
+      "walks": 19,
+      "width": 320
+    },
+    {
+      "blocks": 18,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mysql/ch04",
+      "walks": 18,
+      "width": 320
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mysql/ch05",
+      "walks": 9,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mysql/ch06",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mysql/ch07",
+      "walks": 11,
+      "width": 320
+    },
+    {
+      "blocks": 18,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mysql/ch08",
+      "walks": 18,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mq/ch01",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 17,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mq/ch02",
+      "walks": 17,
+      "width": 320
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mq/ch03",
+      "walks": 10,
+      "width": 320
+    },
+    {
+      "blocks": 21,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/mq/ch04",
+      "walks": 21,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/linux/ch00",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 14,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/linux/ch01",
+      "walks": 14,
+      "width": 320
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/linux/ch02",
+      "walks": 10,
+      "width": 320
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/linux/ch03",
+      "walks": 11,
+      "width": 320
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/linux/ch04",
+      "walks": 15,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/linux/ch05",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/patterns/pat1",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/patterns/pat2",
+      "walks": 11,
+      "width": 320
+    },
+    {
+      "blocks": 24,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/patterns/pat3",
+      "walks": 24,
+      "width": 320
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/patterns/pat4",
+      "walks": 15,
+      "width": 320
+    },
+    {
+      "blocks": 19,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/patterns/pat5",
+      "walks": 19,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/patterns/pat6",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/patterns/pat7",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r01",
+      "walks": 2,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r02",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r03",
+      "walks": 9,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r04",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r05",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r06",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r07",
+      "walks": 3,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r08",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r09",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r10",
+      "walks": 8,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r11",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r12",
+      "walks": 10,
+      "width": 320
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r13",
+      "walks": 12,
+      "width": 320
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r14",
+      "walks": 6,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r15",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r16",
+      "walks": 7,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r17",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "labOpen": true,
+      "scroll": 310,
+      "url": "#/m/reverse/r18",
+      "walks": 2,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/engineering/e01",
+      "walks": 5,
+      "width": 320
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/engineering/e02",
+      "walks": 4,
+      "width": 320
+    },
+    {
+      "blocks": 1,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/engineering/e03",
+      "walks": 1,
+      "width": 320
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/engineering/e04",
+      "walks": 2,
+      "width": 320
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 310,
+      "url": "#/m/engineering/e05",
+      "walks": 3,
+      "width": 320
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/redis/ch00",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/redis/ch01",
+      "walks": 11,
+      "width": 390
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/redis/ch02",
+      "walks": 13,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/redis/ch03",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/redis/ch04",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/redis/ch05",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/redis/ch06",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/redis/ch07",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/redis/ch08",
+      "walks": 12,
+      "width": 390
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/start01",
+      "walks": 3,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/start02",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/start03",
+      "walks": 2,
+      "width": 390
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch01",
+      "walks": 10,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch02",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 14,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch03",
+      "walks": 14,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch04",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch05",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch06",
+      "walks": 15,
+      "width": 390
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch07",
+      "walks": 15,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch08",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch09",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch10",
+      "walks": 11,
+      "width": 390
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch11",
+      "walks": 11,
+      "width": 390
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javase/ch12",
+      "walks": 12,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/datastructure/ch01",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/datastructure/ch02",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/datastructure/ch03",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/datastructure/ch04",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/datastructure/ch05",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/network/ch01",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/network/ch02",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/network/ch03",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/network/ch04",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/network/ch05",
+      "walks": 10,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/os/ch01",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/os/ch02",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/os/ch03",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/os/ch04",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/os/ch05",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javahistory/ch01",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javahistory/ch02",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javahistory/ch03",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javahistory/ch04",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javahistory/ch05",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javaweb/ch01",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javaweb/ch02",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javaweb/ch03",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javaweb/ch04",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javaweb/ch05",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/javaweb/ch06",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/cloud/ch01",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/cloud/ch02",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/cloud/ch03",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/cloud/ch04",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/cloud/ch05",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/cloud/ch06",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/frontier/ch01",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/frontier/ch02",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/frontier/ch03",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/frontier/ch04",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/frontier/ch05",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/jvm/ch00",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/jvm/ch01",
+      "walks": 13,
+      "width": 390
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/jvm/ch02",
+      "walks": 9,
+      "width": 390
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/jvm/ch03",
+      "walks": 9,
+      "width": 390
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/jvm/ch04",
+      "walks": 13,
+      "width": 390
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/jvm/ch05",
+      "walks": 9,
+      "width": 390
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/jvm/ch06",
+      "walks": 11,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/jvm/ch07",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch00",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch01",
+      "walks": 11,
+      "width": 390
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch02",
+      "walks": 13,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch03",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch04",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch05",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch06",
+      "walks": 13,
+      "width": 390
+    },
+    {
+      "blocks": 17,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch07",
+      "walks": 17,
+      "width": 390
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch07a",
+      "walks": 10,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch07b",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch07c",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch07d",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/spring/ch08",
+      "walks": 10,
+      "width": 390
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mysql/ch00",
+      "walks": 9,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mysql/ch01",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mysql/ch02",
+      "walks": 12,
+      "width": 390
+    },
+    {
+      "blocks": 19,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mysql/ch03",
+      "walks": 19,
+      "width": 390
+    },
+    {
+      "blocks": 18,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mysql/ch04",
+      "walks": 18,
+      "width": 390
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mysql/ch05",
+      "walks": 9,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mysql/ch06",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mysql/ch07",
+      "walks": 11,
+      "width": 390
+    },
+    {
+      "blocks": 18,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mysql/ch08",
+      "walks": 18,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mq/ch01",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 17,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mq/ch02",
+      "walks": 17,
+      "width": 390
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mq/ch03",
+      "walks": 10,
+      "width": 390
+    },
+    {
+      "blocks": 21,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/mq/ch04",
+      "walks": 21,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/linux/ch00",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 14,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/linux/ch01",
+      "walks": 14,
+      "width": 390
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/linux/ch02",
+      "walks": 10,
+      "width": 390
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/linux/ch03",
+      "walks": 11,
+      "width": 390
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/linux/ch04",
+      "walks": 15,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/linux/ch05",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/patterns/pat1",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/patterns/pat2",
+      "walks": 11,
+      "width": 390
+    },
+    {
+      "blocks": 24,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/patterns/pat3",
+      "walks": 24,
+      "width": 390
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/patterns/pat4",
+      "walks": 15,
+      "width": 390
+    },
+    {
+      "blocks": 19,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/patterns/pat5",
+      "walks": 19,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/patterns/pat6",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/patterns/pat7",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r01",
+      "walks": 2,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r02",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r03",
+      "walks": 9,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r04",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r05",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r06",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r07",
+      "walks": 3,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r08",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r09",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r10",
+      "walks": 8,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r11",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r12",
+      "walks": 10,
+      "width": 390
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r13",
+      "walks": 12,
+      "width": 390
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r14",
+      "walks": 6,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r15",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r16",
+      "walks": 7,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r17",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/reverse/r18",
+      "walks": 2,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/engineering/e01",
+      "walks": 5,
+      "width": 390
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/engineering/e02",
+      "walks": 4,
+      "width": 390
+    },
+    {
+      "blocks": 1,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/engineering/e03",
+      "walks": 1,
+      "width": 390
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/engineering/e04",
+      "walks": 2,
+      "width": 390
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 380,
+      "url": "#/m/engineering/e05",
+      "walks": 3,
+      "width": 390
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/redis/ch00",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/redis/ch01",
+      "walks": 11,
+      "width": 768
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/redis/ch02",
+      "walks": 13,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/redis/ch03",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/redis/ch04",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/redis/ch05",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/redis/ch06",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/redis/ch07",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/redis/ch08",
+      "walks": 12,
+      "width": 768
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/start01",
+      "walks": 3,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/start02",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/start03",
+      "walks": 2,
+      "width": 768
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch01",
+      "walks": 10,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch02",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 14,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch03",
+      "walks": 14,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch04",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch05",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch06",
+      "walks": 15,
+      "width": 768
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch07",
+      "walks": 15,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch08",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch09",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch10",
+      "walks": 11,
+      "width": 768
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch11",
+      "walks": 11,
+      "width": 768
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javase/ch12",
+      "walks": 12,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/datastructure/ch01",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/datastructure/ch02",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/datastructure/ch03",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/datastructure/ch04",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/datastructure/ch05",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/network/ch01",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/network/ch02",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/network/ch03",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/network/ch04",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/network/ch05",
+      "walks": 10,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/os/ch01",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/os/ch02",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/os/ch03",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/os/ch04",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/os/ch05",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javahistory/ch01",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javahistory/ch02",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javahistory/ch03",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javahistory/ch04",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javahistory/ch05",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javaweb/ch01",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javaweb/ch02",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javaweb/ch03",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javaweb/ch04",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javaweb/ch05",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/javaweb/ch06",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/cloud/ch01",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/cloud/ch02",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/cloud/ch03",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/cloud/ch04",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/cloud/ch05",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/cloud/ch06",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/frontier/ch01",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/frontier/ch02",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/frontier/ch03",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/frontier/ch04",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/frontier/ch05",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/jvm/ch00",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/jvm/ch01",
+      "walks": 13,
+      "width": 768
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/jvm/ch02",
+      "walks": 9,
+      "width": 768
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/jvm/ch03",
+      "walks": 9,
+      "width": 768
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/jvm/ch04",
+      "walks": 13,
+      "width": 768
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/jvm/ch05",
+      "walks": 9,
+      "width": 768
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/jvm/ch06",
+      "walks": 11,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/jvm/ch07",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch00",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch01",
+      "walks": 11,
+      "width": 768
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch02",
+      "walks": 13,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch03",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch04",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch05",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch06",
+      "walks": 13,
+      "width": 768
+    },
+    {
+      "blocks": 17,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch07",
+      "walks": 17,
+      "width": 768
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch07a",
+      "walks": 10,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch07b",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch07c",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch07d",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/spring/ch08",
+      "walks": 10,
+      "width": 768
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mysql/ch00",
+      "walks": 9,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mysql/ch01",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mysql/ch02",
+      "walks": 12,
+      "width": 768
+    },
+    {
+      "blocks": 19,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mysql/ch03",
+      "walks": 19,
+      "width": 768
+    },
+    {
+      "blocks": 18,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mysql/ch04",
+      "walks": 18,
+      "width": 768
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mysql/ch05",
+      "walks": 9,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mysql/ch06",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mysql/ch07",
+      "walks": 11,
+      "width": 768
+    },
+    {
+      "blocks": 18,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mysql/ch08",
+      "walks": 18,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mq/ch01",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 17,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mq/ch02",
+      "walks": 17,
+      "width": 768
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mq/ch03",
+      "walks": 10,
+      "width": 768
+    },
+    {
+      "blocks": 21,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/mq/ch04",
+      "walks": 21,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/linux/ch00",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 14,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/linux/ch01",
+      "walks": 14,
+      "width": 768
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/linux/ch02",
+      "walks": 10,
+      "width": 768
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/linux/ch03",
+      "walks": 11,
+      "width": 768
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/linux/ch04",
+      "walks": 15,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/linux/ch05",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/patterns/pat1",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/patterns/pat2",
+      "walks": 11,
+      "width": 768
+    },
+    {
+      "blocks": 24,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/patterns/pat3",
+      "walks": 24,
+      "width": 768
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/patterns/pat4",
+      "walks": 15,
+      "width": 768
+    },
+    {
+      "blocks": 19,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/patterns/pat5",
+      "walks": 19,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/patterns/pat6",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/patterns/pat7",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r01",
+      "walks": 2,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r02",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r03",
+      "walks": 9,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r04",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r05",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r06",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r07",
+      "walks": 3,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r08",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r09",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r10",
+      "walks": 8,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r11",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r12",
+      "walks": 10,
+      "width": 768
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r13",
+      "walks": 12,
+      "width": 768
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r14",
+      "walks": 6,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r15",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r16",
+      "walks": 7,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r17",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/reverse/r18",
+      "walks": 2,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/engineering/e01",
+      "walks": 5,
+      "width": 768
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/engineering/e02",
+      "walks": 4,
+      "width": 768
+    },
+    {
+      "blocks": 1,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/engineering/e03",
+      "walks": 1,
+      "width": 768
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/engineering/e04",
+      "walks": 2,
+      "width": 768
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 758,
+      "url": "#/m/engineering/e05",
+      "walks": 3,
+      "width": 768
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/redis/ch00",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/redis/ch01",
+      "walks": 11,
+      "width": 1440
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/redis/ch02",
+      "walks": 13,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/redis/ch03",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/redis/ch04",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/redis/ch05",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/redis/ch06",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/redis/ch07",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/redis/ch08",
+      "walks": 12,
+      "width": 1440
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/start01",
+      "walks": 3,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/start02",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/start03",
+      "walks": 2,
+      "width": 1440
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch01",
+      "walks": 10,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch02",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 14,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch03",
+      "walks": 14,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch04",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch05",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch06",
+      "walks": 15,
+      "width": 1440
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch07",
+      "walks": 15,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch08",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch09",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch10",
+      "walks": 11,
+      "width": 1440
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch11",
+      "walks": 11,
+      "width": 1440
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javase/ch12",
+      "walks": 12,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/datastructure/ch01",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/datastructure/ch02",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/datastructure/ch03",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/datastructure/ch04",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/datastructure/ch05",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/network/ch01",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/network/ch02",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/network/ch03",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/network/ch04",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/network/ch05",
+      "walks": 10,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/os/ch01",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/os/ch02",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/os/ch03",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/os/ch04",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/os/ch05",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javahistory/ch01",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javahistory/ch02",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javahistory/ch03",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javahistory/ch04",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javahistory/ch05",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javaweb/ch01",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javaweb/ch02",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javaweb/ch03",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javaweb/ch04",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javaweb/ch05",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/javaweb/ch06",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/cloud/ch01",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/cloud/ch02",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/cloud/ch03",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/cloud/ch04",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/cloud/ch05",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/cloud/ch06",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/frontier/ch01",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/frontier/ch02",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/frontier/ch03",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/frontier/ch04",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/frontier/ch05",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/jvm/ch00",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/jvm/ch01",
+      "walks": 13,
+      "width": 1440
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/jvm/ch02",
+      "walks": 9,
+      "width": 1440
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/jvm/ch03",
+      "walks": 9,
+      "width": 1440
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/jvm/ch04",
+      "walks": 13,
+      "width": 1440
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/jvm/ch05",
+      "walks": 9,
+      "width": 1440
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/jvm/ch06",
+      "walks": 11,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/jvm/ch07",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch00",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch01",
+      "walks": 11,
+      "width": 1440
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch02",
+      "walks": 13,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch03",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch04",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch05",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 13,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch06",
+      "walks": 13,
+      "width": 1440
+    },
+    {
+      "blocks": 17,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch07",
+      "walks": 17,
+      "width": 1440
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch07a",
+      "walks": 10,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch07b",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch07c",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch07d",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/spring/ch08",
+      "walks": 10,
+      "width": 1440
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mysql/ch00",
+      "walks": 9,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mysql/ch01",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mysql/ch02",
+      "walks": 12,
+      "width": 1440
+    },
+    {
+      "blocks": 19,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mysql/ch03",
+      "walks": 19,
+      "width": 1440
+    },
+    {
+      "blocks": 18,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mysql/ch04",
+      "walks": 18,
+      "width": 1440
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mysql/ch05",
+      "walks": 9,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mysql/ch06",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mysql/ch07",
+      "walks": 11,
+      "width": 1440
+    },
+    {
+      "blocks": 18,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mysql/ch08",
+      "walks": 18,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mq/ch01",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 17,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mq/ch02",
+      "walks": 17,
+      "width": 1440
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mq/ch03",
+      "walks": 10,
+      "width": 1440
+    },
+    {
+      "blocks": 21,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/mq/ch04",
+      "walks": 21,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/linux/ch00",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 14,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/linux/ch01",
+      "walks": 14,
+      "width": 1440
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/linux/ch02",
+      "walks": 10,
+      "width": 1440
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/linux/ch03",
+      "walks": 11,
+      "width": 1440
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/linux/ch04",
+      "walks": 15,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/linux/ch05",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/patterns/pat1",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 11,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/patterns/pat2",
+      "walks": 11,
+      "width": 1440
+    },
+    {
+      "blocks": 24,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/patterns/pat3",
+      "walks": 24,
+      "width": 1440
+    },
+    {
+      "blocks": 15,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/patterns/pat4",
+      "walks": 15,
+      "width": 1440
+    },
+    {
+      "blocks": 19,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/patterns/pat5",
+      "walks": 19,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/patterns/pat6",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/patterns/pat7",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r01",
+      "walks": 2,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r02",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 9,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r03",
+      "walks": 9,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r04",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r05",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r06",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r07",
+      "walks": 3,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r08",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r09",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 8,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r10",
+      "walks": 8,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r11",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 10,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r12",
+      "walks": 10,
+      "width": 1440
+    },
+    {
+      "blocks": 12,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r13",
+      "walks": 12,
+      "width": 1440
+    },
+    {
+      "blocks": 6,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r14",
+      "walks": 6,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r15",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 7,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r16",
+      "walks": 7,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r17",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/reverse/r18",
+      "walks": 2,
+      "width": 1440
+    },
+    {
+      "blocks": 5,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/engineering/e01",
+      "walks": 5,
+      "width": 1440
+    },
+    {
+      "blocks": 4,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/engineering/e02",
+      "walks": 4,
+      "width": 1440
+    },
+    {
+      "blocks": 1,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/engineering/e03",
+      "walks": 1,
+      "width": 1440
+    },
+    {
+      "blocks": 2,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/engineering/e04",
+      "walks": 2,
+      "width": 1440
+    },
+    {
+      "blocks": 3,
+      "escaped": [],
+      "scroll": 1430,
+      "url": "#/m/engineering/e05",
+      "walks": 3,
+      "width": 1440
+    }
+  ],
+  "experimentLayouts": [
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/hashmap-put",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/thread-life",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/prodcons",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/threadpool",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/classload",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/jvm-memory",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/gc-demo",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/bptree",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/tx-isolation",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/mvcc",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/cache-3",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/redis-lock",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/mq-peak",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/aop-proxy",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/singleton",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/tx-rollback",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/memory-scan",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/esp-principle",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/apk-unpack",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/http-flow",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/process-schedule",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/bst-visual",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/scam-quiz",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/pe-explorer",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/model-picker",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/sort-visual",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/concat-bench",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "demo/bytecode",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r01",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r02",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r03",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r04",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r05",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r06",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r07",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r08",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r09",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r10",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r11",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r12",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r13",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r14",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r15",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r16",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r17",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 310,
+      "selected": "reverse/r18",
+      "width": 320
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/hashmap-put",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/thread-life",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/prodcons",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/threadpool",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/classload",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/jvm-memory",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/gc-demo",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/bptree",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/tx-isolation",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/mvcc",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/cache-3",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/redis-lock",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/mq-peak",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/aop-proxy",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/singleton",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/tx-rollback",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/memory-scan",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/esp-principle",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/apk-unpack",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/http-flow",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/process-schedule",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/bst-visual",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/scam-quiz",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/pe-explorer",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/model-picker",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/sort-visual",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/concat-bench",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "demo/bytecode",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r01",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r02",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r03",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r04",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r05",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r06",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r07",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r08",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r09",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r10",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r11",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r12",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r13",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r14",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r15",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r16",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r17",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 380,
+      "selected": "reverse/r18",
+      "width": 390
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/hashmap-put",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/thread-life",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/prodcons",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/threadpool",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/classload",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/jvm-memory",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/gc-demo",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/bptree",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/tx-isolation",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/mvcc",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/cache-3",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/redis-lock",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/mq-peak",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/aop-proxy",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/singleton",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/tx-rollback",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/memory-scan",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/esp-principle",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/apk-unpack",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/http-flow",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/process-schedule",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/bst-visual",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/scam-quiz",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/pe-explorer",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/model-picker",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/sort-visual",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/concat-bench",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "demo/bytecode",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r01",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r02",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r03",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r04",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r05",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r06",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r07",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r08",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r09",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r10",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r11",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r12",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r13",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r14",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r15",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r16",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r17",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 758,
+      "selected": "reverse/r18",
+      "width": 768
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/hashmap-put",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/thread-life",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/prodcons",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/threadpool",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/classload",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/jvm-memory",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/gc-demo",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/bptree",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/tx-isolation",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/mvcc",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/cache-3",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/redis-lock",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/mq-peak",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/aop-proxy",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/singleton",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/tx-rollback",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/memory-scan",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/esp-principle",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/apk-unpack",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/http-flow",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/process-schedule",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/bst-visual",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/scam-quiz",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/pe-explorer",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/model-picker",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/sort-visual",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/concat-bench",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "demo/bytecode",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r01",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r02",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r03",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r04",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r05",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r06",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r07",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r08",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r09",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r10",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r11",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r12",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r13",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r14",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r15",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r16",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r17",
+      "width": 1440
+    },
+    {
+      "escaped": [],
+      "scroll": 1430,
+      "selected": "reverse/r18",
+      "width": 1440
+    }
+  ],
+  "additionalLayouts": [
+    {
+      "case": "walk",
+      "panels": [
+        {
+          "class": "walkthrough-panel",
+          "left": 19,
+          "right": 291
+        },
+        {
+          "class": "walk-source",
+          "left": 31,
+          "right": 279
+        }
+      ],
+      "scroll": 310,
+      "width": 320
+    },
+    {
+      "case": "walk",
+      "panels": [
+        {
+          "class": "walkthrough-panel",
+          "left": 19,
+          "right": 361
+        },
+        {
+          "class": "walk-source",
+          "left": 31,
+          "right": 349
+        }
+      ],
+      "scroll": 380,
+      "width": 390
+    },
+    {
+      "case": "walk",
+      "panels": [
+        {
+          "class": "walkthrough-panel",
+          "left": 25,
+          "right": 733
+        },
+        {
+          "class": "walk-source",
+          "left": 43,
+          "right": 715
+        }
+      ],
+      "scroll": 758,
+      "width": 768
+    },
+    {
+      "case": "walk",
+      "panels": [
+        {
+          "class": "walkthrough-panel",
+          "left": 426,
+          "right": 1274
+        },
+        {
+          "class": "walk-source",
+          "left": 444,
+          "right": 1256
+        }
+      ],
+      "scroll": 1430,
+      "width": 1440
+    },
+    {
+      "case": "recordstore",
+      "scroll": 310,
+      "width": 320
+    },
+    {
+      "case": "recordstore",
+      "scroll": 380,
+      "width": 390
+    },
+    {
+      "case": "recordstore",
+      "scroll": 758,
+      "width": 768
+    },
+    {
+      "case": "recordstore",
+      "scroll": 1430,
+      "width": 1440
+    },
+    {
+      "case": "bytecode-stack",
+      "scroll": 310,
+      "slots": [
+        {
+          "class": "lab-slot",
+          "left": 31,
+          "right": 279
+        },
+        {
+          "class": "lab-stack",
+          "left": 31,
+          "right": 279
+        },
+        {
+          "class": "lab-slot",
+          "left": 31,
+          "right": 279
+        }
+      ],
+      "width": 320
+    },
+    {
+      "case": "bytecode-stack",
+      "scroll": 380,
+      "slots": [
+        {
+          "class": "lab-slot",
+          "left": 31,
+          "right": 184
+        },
+        {
+          "class": "lab-stack",
+          "left": 196,
+          "right": 349
+        },
+        {
+          "class": "lab-slot",
+          "left": 31,
+          "right": 349
+        }
+      ],
+      "width": 390
+    },
+    {
+      "case": "bytecode-stack",
+      "scroll": 758,
+      "slots": [
+        {
+          "class": "lab-slot",
+          "left": 45,
+          "right": 259.65625
+        },
+        {
+          "class": "lab-stack",
+          "left": 271.65625,
+          "right": 486.328125
+        },
+        {
+          "class": "lab-slot",
+          "left": 498.328125,
+          "right": 713
+        }
+      ],
+      "width": 768
+    },
+    {
+      "case": "bytecode-stack",
+      "scroll": 1430,
+      "slots": [
+        {
+          "class": "lab-slot",
+          "left": 446,
+          "right": 707.328125
+        },
+        {
+          "class": "lab-stack",
+          "left": 719.328125,
+          "right": 980.671875
+        },
+        {
+          "class": "lab-slot",
+          "left": 992.671875,
+          "right": 1254
+        }
+      ],
+      "width": 1440
+    }
+  ],
+  "demoActions": [
+    {
+      "id": "hashmap-put",
+      "action": "➕ 插入随机 key",
+      "changed": true
+    },
+    {
+      "id": "thread-life",
+      "action": "start()",
+      "changed": true
+    },
+    {
+      "id": "prodcons",
+      "action": "🏭 生产 1 个",
+      "changed": true
+    },
+    {
+      "id": "threadpool",
+      "action": "提交 1 个任务",
+      "changed": true
+    },
+    {
+      "id": "classload",
+      "action": "▶ 加载 User.class",
+      "changed": true
+    },
+    {
+      "id": "jvm-memory",
+      "action": "📦 new 普通对象",
+      "changed": true
+    },
+    {
+      "id": "gc-demo",
+      "action": "▶ 1. 标记可达对象",
+      "changed": true
+    },
+    {
+      "id": "bptree",
+      "action": "1️⃣ 顺序插入 1~7(看两边形态)",
+      "changed": true
+    },
+    {
+      "id": "tx-isolation",
+      "action": "▶ 播放下一步",
+      "changed": true
+    },
+    {
+      "id": "mvcc",
+      "action": "▶ 事务A SELECT(生成 ReadView)",
+      "changed": true
+    },
+    {
+      "id": "cache-3",
+      "action": "🌊 发送 60 个洪水请求",
+      "changed": true
+    },
+    {
+      "id": "redis-lock",
+      "action": "▶ 播放事故全过程",
+      "changed": true
+    },
+    {
+      "id": "mq-peak",
+      "action": "🚀 开启秒杀(模拟 15 秒)",
+      "changed": true
+    },
+    {
+      "id": "aop-proxy",
+      "action": "▶ 正常调用(走代理)",
+      "changed": true
+    },
+    {
+      "id": "singleton",
+      "action": "▶ 线程 A 初始化",
+      "changed": true
+    },
+    {
+      "id": "tx-rollback",
+      "action": "▶ 播放:A 调用 B,B 抛异常",
+      "changed": true
+    },
+    {
+      "id": "memory-scan",
+      "action": "💸 花 25 金币(买颗豌豆)",
+      "changed": true
+    },
+    {
+      "id": "esp-principle",
+      "action": "开启覆盖层",
+      "changed": true
+    },
+    {
+      "id": "apk-unpack",
+      "action": "▶ 下一步",
+      "changed": true
+    },
+    {
+      "id": "http-flow",
+      "action": "⏭ 单步",
+      "changed": true
+    },
+    {
+      "id": "process-schedule",
+      "action": "▶ 播放",
+      "changed": true
+    },
+    {
+      "id": "bst-visual",
+      "action": "🎲 随机 6 个",
+      "changed": true
+    },
+    {
+      "id": "scam-quiz",
+      "action": "🛡 这是骗局",
+      "changed": true
+    },
+    {
+      "id": "pe-explorer",
+      "action": ".text 代码节",
+      "changed": true
+    },
+    {
+      "id": "model-picker",
+      "action": "跨文件重构",
+      "changed": true
+    },
+    {
+      "id": "sort-visual",
+      "action": "下一步 ↷",
+      "changed": true
+    },
+    {
+      "id": "concat-bench",
+      "action": "下一步 ↷",
+      "changed": true
+    },
+    {
+      "id": "bytecode",
+      "action": "下一步 ↷",
+      "changed": true
+    }
+  ],
+  "sortResults": [
+    {
+      "kind": "bubble",
+      "stage": "步骤 30 / 30 · 本次推演结束",
+      "values": [
+        "1",
+        "2",
+        "2",
+        "4",
+        "5",
+        "8"
+      ],
+      "state": "数组\n[1, 2, 2, 4, 5, 8]\n比较次数\n15\n交换次数\n9\n写入次数\n18\n已排序\n是"
+    },
+    {
+      "kind": "selection",
+      "stage": "步骤 29 / 29 · 本次推演结束",
+      "values": [
+        "1",
+        "2",
+        "2",
+        "4",
+        "5",
+        "8"
+      ],
+      "state": "数组\n[1, 2, 2, 4, 5, 8]\n比较次数\n15\n交换次数\n3\n写入次数\n6\n已排序\n是"
+    },
+    {
+      "kind": "insertion",
+      "stage": "步骤 32 / 32 · 本次推演结束",
+      "values": [
+        "1",
+        "2",
+        "2",
+        "4",
+        "5",
+        "8"
+      ],
+      "state": "数组\n[1, 2, 2, 4, 5, 8]\n比较次数\n12\n交换次数\n0\n写入次数\n14\n已排序\n是"
+    },
+    {
+      "kind": "quick",
+      "stage": "步骤 22 / 22 · 本次推演结束",
+      "values": [
+        "1",
+        "2",
+        "2",
+        "4",
+        "5",
+        "8"
+      ],
+      "state": "数组\n[1, 2, 2, 4, 5, 8]\n比较次数\n11\n交换次数\n3\n写入次数\n6\n已排序\n是"
+    }
+  ],
+  "signatureFaults": [
+    {
+      "fault": "normal",
+      "state": "模型结果\n通过前提检查"
+    },
+    {
+      "fault": "unsigned",
+      "state": "模型结果\n失败：签名缺失或无效"
+    },
+    {
+      "fault": "changed",
+      "state": "模型结果\n失败：签名缺失或无效"
+    }
+  ],
+  "hookResults": [
+    {
+      "mode": "none",
+      "state": "不插桩基线\n7\n本次 Java 观察值\n7"
+    },
+    {
+      "mode": "argument",
+      "state": "不插桩基线\n7\n本次 Java 观察值\n10"
+    },
+    {
+      "mode": "return",
+      "state": "不插桩基线\n7\n本次 Java 观察值\n8"
+    }
+  ],
+  "resetCanceled": true,
+  "notes": [
+    "布局检查只检查列出的容器，不代表穷尽所有设备/输入/操作组合。",
+    "全部代码入口已核对；没有把结构阅读当作动态执行。",
+    "新增可视栈/源码摘录/RecordStore 展开面板追加四个宽度的布局检查。"
+  ]
+}

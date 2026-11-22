@@ -1,0 +1,9 @@
+{
+  "chapters": 14,
+  "canonicalRunnablePrograms": 15,
+  "labs": 15,
+  "checkpoints": 172,
+  "domainCalls": 216,
+  "contentCharacters": 61624,
+  "assertions": "Domain outputs, boundaries, counterexamples, strict inputs, boot variants, code/lab consistency and no unused runner controls passed."
+}

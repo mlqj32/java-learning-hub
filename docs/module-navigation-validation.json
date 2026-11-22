@@ -1,0 +1,137 @@
+{
+  "viewports": [
+    {
+      "button": {
+        "height": 44,
+        "width": 137
+      },
+      "expanded": "true",
+      "leftGap": 32,
+      "menuWithinViewport": true,
+      "overlap": false,
+      "width": 1440,
+      "withinViewport": true,
+      "buttonHitArea": true
+    },
+    {
+      "button": {
+        "height": 44,
+        "width": 137
+      },
+      "expanded": "true",
+      "leftGap": 32,
+      "menuWithinViewport": true,
+      "overlap": false,
+      "width": 1024,
+      "withinViewport": true,
+      "buttonHitArea": true
+    },
+    {
+      "button": {
+        "height": 44,
+        "width": 137
+      },
+      "expanded": "true",
+      "leftGap": 32,
+      "menuWithinViewport": true,
+      "overlap": false,
+      "width": 1001,
+      "withinViewport": true,
+      "buttonHitArea": true
+    },
+    {
+      "button": {
+        "height": 44,
+        "width": 137
+      },
+      "expanded": "true",
+      "leftGap": 0,
+      "menuWithinViewport": true,
+      "overlap": false,
+      "width": 1000,
+      "withinViewport": true,
+      "buttonHitArea": true
+    },
+    {
+      "button": {
+        "height": 44,
+        "width": 137
+      },
+      "expanded": "true",
+      "leftGap": 0,
+      "menuWithinViewport": true,
+      "overlap": false,
+      "width": 768,
+      "withinViewport": true,
+      "buttonHitArea": true
+    },
+    {
+      "button": {
+        "height": 44,
+        "width": 137
+      },
+      "expanded": "true",
+      "leftGap": 0,
+      "menuWithinViewport": true,
+      "overlap": false,
+      "width": 601,
+      "withinViewport": true,
+      "buttonHitArea": true
+    },
+    {
+      "button": {
+        "height": 44,
+        "width": 89
+      },
+      "expanded": "true",
+      "leftGap": 0,
+      "menuWithinViewport": true,
+      "overlap": false,
+      "width": 600,
+      "withinViewport": true,
+      "buttonHitArea": true
+    },
+    {
+      "button": {
+        "height": 44,
+        "width": 89
+      },
+      "expanded": "true",
+      "leftGap": 0,
+      "menuWithinViewport": true,
+      "overlap": false,
+      "width": 390,
+      "withinViewport": true,
+      "buttonHitArea": true
+    },
+    {
+      "button": {
+        "height": 44,
+        "width": 61
+      },
+      "expanded": "true",
+      "leftGap": 0,
+      "menuWithinViewport": true,
+      "overlap": false,
+      "width": 360,
+      "withinViewport": true,
+      "buttonHitArea": true
+    },
+    {
+      "button": {
+        "height": 44,
+        "width": 61
+      },
+      "expanded": "true",
+      "leftGap": 0,
+      "menuWithinViewport": true,
+      "overlap": false,
+      "width": 320,
+      "withinViewport": true,
+      "buttonHitArea": true
+    }
+  ],
+  "keyboardOpen": true,
+  "escapeClose": true,
+  "destination": "http://127.0.0.1:8766/#/m/javase"
+}

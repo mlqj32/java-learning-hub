@@ -1,0 +1,118 @@
+{
+  "url": "http://127.0.0.1:8766/#/m/javase/ch03",
+  "runtime": "Browser Doppio JVM Java 8",
+  "results": [
+    {
+      "expected": "OUTPUT · 运行结果\n数组改后: Lava\n原字符串: Java\nreplace 返回: Lava\n原字符串仍为: Java\n重新赋值: Python\n另一个引用: Java",
+      "index": 1,
+      "name": "StringImmutableDemo",
+      "output": "数组改后: Lava\n原字符串: Java\nreplace 返回: Lava\n原字符串仍为: Java\n重新赋值: Python\n另一个引用: Java\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 7056 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\ntrue\nfalse\ntrue\nfalse\ntrue",
+      "index": 2,
+      "name": "StringPool",
+      "output": "true\nfalse\ntrue\nfalse\ntrue\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6552 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\ntrue\ntrue\n1",
+      "index": 3,
+      "name": "User",
+      "output": "true\ntrue\n1\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6411 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\ntrue\nfalse\ntrue",
+      "index": 4,
+      "name": "BoxCache",
+      "output": "true\nfalse\ntrue\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6039 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "前 3 行应为“拼接次数: 800”“结果长度: 2290”“内容一致: true”。最后两行耗时随设备、网页 JVM 调度与计时精度变化,可能相同甚至出现反向结果;这不是严谨的性能基准。下面的演示可以调整拼接次数,结合复制量理解差异:",
+      "index": 5,
+      "name": "ConcatDemo",
+      "output": "拼接次数: 800\n结果长度: 2290\n内容一致: true\n加号拼接: 30 ms\nStringBuilder: 2 ms\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6677 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\n2026-12-14\ntrue\nSATURDAY",
+      "index": 6,
+      "name": "DateDemo",
+      "output": "2026-12-14\ntrue\nSATURDAY\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 7194 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\ntrue\ntrue\nfalse",
+      "index": 7,
+      "name": "EqualsHashCodeDemo",
+      "output": "true\ntrue\nfalse\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 6576 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\nfalse\ntrue\n999",
+      "index": 8,
+      "name": "ShallowCopyDemo",
+      "output": "false\ntrue\n999\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 8507 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\nfalse\n1 / 999",
+      "index": 9,
+      "name": "DeepCopyBySerialize",
+      "output": "false\n1 / 999\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 9110 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\n2\nPlayer[score=85, name=王五]\nPlayer[score=90, name=张三]",
+      "index": 10,
+      "name": "NaturalOrder",
+      "output": "2\nPlayer[score=85, name=王五]\nPlayer[score=90, name=张三]\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 10379 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\n90 张三\n90 李四\n85 王五",
+      "index": 11,
+      "name": "MultiFieldSort",
+      "output": "90 张三\n90 李四\n85 王五\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 10732 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\ntrue\nfalse\nIP=192.168.1.7 位置=13-24\nIP=10.0.0.12 位置=41-50",
+      "index": 12,
+      "name": "RegexDemo",
+      "output": "true\nfalse\nIP=192.168.1.7 位置=13-24\nIP=10.0.0.12 位置=41-50\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 7177 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\n贪婪: []\n非贪婪: [加粗斜体]",
+      "index": 13,
+      "name": "GreedyDemo",
+      "output": "贪婪: []\n非贪婪: [加粗斜体]\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 7193 ms",
+      "matchesExpected": true
+    },
+    {
+      "expected": "OUTPUT · 运行结果\n14/11/2026\nprice=¥5",
+      "index": 14,
+      "name": "ReplaceDemo",
+      "output": "14/11/2026\nprice=¥5\n",
+      "status": "✓ 执行成功 · 网页 JVM · Java 8 · 7373 ms",
+      "matchesExpected": true
+    }
+  ]
+}
