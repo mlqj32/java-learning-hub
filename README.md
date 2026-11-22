@@ -2,7 +2,7 @@
 
 零构建的 Java 后端学习站，阅读和代码运行均在浏览器内完成，只需 HTTP(S) 静态托管。当前为 **19 个模块、159 章、159 个对应练习、约 117 万正文字符、358 道面试题**。页面注册了 74 张 SVG 图解和 45 个知识交互演示，另有 6 个课程窗口模型和逆向 18 章免环境实验入口；课程正文使用其中 71 处图解引用、44 处知识演示引用，注册数量与引用数量并不相同。
 
-> **2026-11-22 更新**：原“宇宙航行”模块已重构为 **14 章“量子编程”**，覆盖量子比特、量子门、测量与噪声、Grover/Shor/QFT、变分算法、Qiskit/Cirq/Q#、硬件、纠错与后量子密码；同步新增 Bloch 球与 Grover 交互演示、3 张量子图解，并更新本页截图。
+> **2026-11-22 更新**：原“宇宙航行”模块已重构为 **14 章“量子编程”**，覆盖量子比特、量子门、测量与噪声、Grover/Shor/QFT、变分算法、Qiskit/Cirq/Q#、硬件、纠错与后量子密码；同步新增 Bloch 球与 Grover 交互演示、3 张量子图解，并更新本页截图与 **19 个模块预览图**。
 
 ## 界面截图
 
@@ -11,6 +11,32 @@
 | ![首页](docs/screenshots/home.png) | ![量子编程模块](docs/screenshots/module.png) |
 
 > 截图来自本地静态预览：首页 1200×750，模块页 960×640；课程运行器在浏览器内执行代码。
+
+## 全部模块截图（19）
+
+以下按学习路线排序；点击缩略图可查看 1200×750 原图。
+
+| 模块 | 预览 |
+| --- | --- |
+| **JavaSE 核心基础**（15 章） | [![JavaSE 核心基础](docs/screenshots/modules/thumbs/javase.jpg)](docs/screenshots/modules/javase.png) |
+| **开发工具与项目实战**（5 章） | [![开发工具与项目实战](docs/screenshots/modules/thumbs/engineering.jpg)](docs/screenshots/modules/engineering.png) |
+| **Java 简史与生态全景**（5 章） | [![Java 简史与生态全景](docs/screenshots/modules/thumbs/javahistory.jpg)](docs/screenshots/modules/javahistory.png) |
+| **数据结构与算法**（5 章） | [![数据结构与算法](docs/screenshots/modules/thumbs/datastructure.jpg)](docs/screenshots/modules/datastructure.png) |
+| **计算机网络**（5 章） | [![计算机网络](docs/screenshots/modules/thumbs/network.jpg)](docs/screenshots/modules/network.png) |
+| **操作系统**（5 章） | [![操作系统](docs/screenshots/modules/thumbs/os.jpg)](docs/screenshots/modules/os.png) |
+| **MySQL 数据库内核**（9 章） | [![MySQL 数据库内核](docs/screenshots/modules/thumbs/mysql.jpg)](docs/screenshots/modules/mysql.png) |
+| **原生 Java Web**（6 章） | [![原生 Java Web](docs/screenshots/modules/thumbs/javaweb.jpg)](docs/screenshots/modules/javaweb.png) |
+| **JVM 虚拟机底层**（8 章） | [![JVM 虚拟机底层](docs/screenshots/modules/thumbs/jvm.jpg)](docs/screenshots/modules/jvm.png) |
+| **Spring 全家桶**（13 章） | [![Spring 全家桶](docs/screenshots/modules/thumbs/spring.jpg)](docs/screenshots/modules/spring.png) |
+| **Redis 缓存中间件**（9 章） | [![Redis 缓存中间件](docs/screenshots/modules/thumbs/redis.jpg)](docs/screenshots/modules/redis.png) |
+| **消息队列 MQ**（4 章） | [![消息队列 MQ](docs/screenshots/modules/thumbs/mq.jpg)](docs/screenshots/modules/mq.png) |
+| **Linux 工程实战**（6 章） | [![Linux 工程实战](docs/screenshots/modules/thumbs/linux.jpg)](docs/screenshots/modules/linux.png) |
+| **Nginx 与 Spring Cloud**（6 章） | [![Nginx 与 Spring Cloud](docs/screenshots/modules/thumbs/cloud.jpg)](docs/screenshots/modules/cloud.png) |
+| **设计模式心法**（7 章） | [![设计模式心法](docs/screenshots/modules/thumbs/patterns.jpg)](docs/screenshots/modules/patterns.png) |
+| **前沿技术：区块链与 AI 编程**（5 章） | [![前沿技术](docs/screenshots/modules/thumbs/frontier.jpg)](docs/screenshots/modules/frontier.png) |
+| **逆向工程全解**（18 章） | [![逆向工程全解](docs/screenshots/modules/thumbs/reverse.jpg)](docs/screenshots/modules/reverse.png) |
+| **编程与真实世界**（14 章） | [![编程与真实世界](docs/screenshots/modules/thumbs/world.jpg)](docs/screenshots/modules/world.png) |
+| **量子编程**（14 章） | [![量子编程](docs/screenshots/modules/thumbs/cosmos.jpg)](docs/screenshots/modules/cosmos.png) |
 
 ## 启动
 
